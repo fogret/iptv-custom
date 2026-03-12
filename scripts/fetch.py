@@ -12,7 +12,7 @@ GUIZHOU = ["贵州", "贵阳"]
 DIGITAL = ["纪实", "都市", "新闻", "影视", "公共", "法治", "生活", "科教"]
 MOVIE = ["电影", "CHC"]
 
-# 判断直播源是否可用（正确版）
+# 判断直播源是否可用
 def is_alive(url):
     try:
         resp = requests.get(url, timeout=5, stream=True, allow_redirects=True)
@@ -24,9 +24,7 @@ def is_alive(url):
             return True
 
         first_bytes = resp.raw.read(20, decode_content=True)
-        if b"#EXTM3U" in first_bytes:
-            return True
-        if b".ts" in first_bytes:
+        if b"#EXTM3U" in first_bytes or b".ts" in first_bytes:
             return True
 
     except:
@@ -113,7 +111,11 @@ def merge_and_classify(contents):
 
                         # 分类
                         cat = detect_category(name)
-                        result[cat].append(pending_extinf)
+
+                        # 生成标准 M3U 格式 EXTINF
+                        extinf = f'#EXTINF:-1 tvg-name="{name}" group-title="{cat}",{name}'
+
+                        result[cat].append(extinf)
                         result[cat].append(line)
 
                 pending_extinf = None
@@ -142,7 +144,6 @@ def main():
 
         for cat, items in categorized.items():
             if items:
-                f.write(f"# ------ {cat} ------\n")
                 for line in items:
                     f.write(line + "\n")
                 f.write("\n")
