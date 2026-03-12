@@ -7,6 +7,7 @@ SOURCE_DIR = "sources"
 OUTPUT_M3U = "output/result.m3u"
 OUTPUT_TXT = "output/result.txt"
 OUTPUT_INFO = "output/info.txt"
+README = "README.md"
 
 # 分类关键词
 CCTV = ["CCTV", "CGTN"]
@@ -121,6 +122,18 @@ def main():
         f.write(f"更新时间：{now}\n\n")
         for cat, items in categorized.items():
             f.write(f"{cat}：{len(items)} 个频道\n")
+
+    # 自动更新 README
+    if os.path.exists(README):
+        with open(README, "r", encoding="utf-8") as f:
+            readme = f.read()
+
+        total = sum(len(v) for v in categorized.values())
+        readme = re.sub(r"更新时间：.*", f"更新时间：{now}", readme)
+        readme = re.sub(r"频道总数：.*", f"频道总数：{total}", readme)
+
+        with open(README, "w", encoding="utf-8") as f:
+            f.write(readme)
 
     print("Done.")
 
