@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="CCTVPlus1.cn@SD" tvg-logo="https://i.imgur.com/U8d4Is6.png" group-title="News" group-title="中央电视台",CCTV+ 1 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTVPlus2.cn@SD" tvg-logo="https://i.imgur.com/qSg862A.png" group-title="News" group-title="中央电视台",CCTV+ 2 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="BaichengTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/baicheng.jpg" group-title="General" group-title="数字频道",白城新闻综合 [Geo-blocked]
@@ -9,8 +13,6 @@ https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
 
 #EXTINF:-1 tvg-id="ABNChina.us@SD" tvg-logo="https://i.imgur.com/zagVLQH.png" group-title="Religious" group-title="其它",ABN China (720p)
 https://mediaserver.abnvideos.com/streams/abnchina.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Chinese" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious" group-title="其它",Angel TV Chinese (720p)
-https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BreadTV.cn@SD" tvg-logo="https://bread-tv.com/uploads/allimg/241202/9_1836542371.png" group-title="Undefined" group-title="其它",Bread TV面包台 (720p)
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="ChifengComprehensiveNewsChanel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/cfxwzhpd.jpg" group-title="News" group-title="其它",Chifeng Comprehensive News Chanel
