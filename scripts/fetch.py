@@ -1,18 +1,41 @@
 import os
 import requests
+import re
 
 SOURCE_DIR = "sources"
 OUTPUT_FILE = "output/result.m3u"
 
-def fetch_url(url):
+# 分类关键词
+CCTV = ["CCTV", "CGTN"]
+SATELLITE = ["卫视"]
+GUIZHOU = ["贵州", "贵阳"]
+DIGITAL = ["纪实", "都市", "新闻", "影视", "公共", "法治", "生活", "科教"]
+MOVIE = ["电影", "CHC"]
+
+# 判断直播源是否可用（正确版）
+def is_alive(url):
     try:
-        resp = requests.get(url, timeout=5)
-        if resp.status_code == 200:
-            return resp.text
+        resp = requests.get(url, timeout=5, stream=True, allow_redirects=True)
+        if resp.status_code != 200:
+            return False
+
+        ctype = resp.headers.get("Content-Type", "").lower()
+        if "mpegurl" in ctype or "m3u8" in ctype:
+            return True
+
+        first_bytes = resp.raw.read(20, decode_content=True)
+        if b"#EXTM3U" in first_bytes:
+            return True
+        if b".ts" in first_bytes:
+            return True
+
     except:
         pass
-    return ""
 
+    return False
+
+
+# 读取 sources 目录中的所有 URL
 def load_sources():
     urls = []
     for file in os.listdir(SOURCE_DIR):
@@ -24,16 +47,79 @@ def load_sources():
                         urls.append(line)
     return urls
 
-def merge_and_dedup(contents):
-    lines = []
+
+# 清理 EXTINF
+def clean_extinf(line):
+    line = re.sub(r'\s+t-time="[^"]*"', "", line)
+    line = re.sub(r'\s+v-w="[^"]*"', "", line)
+    line = re.sub(r'\s+v-h="[^"]*"', "", line)
+    line = re.sub(r',\s+', ',', line)
+    return line
+
+
+# 分类
+def detect_category(name):
+    if any(k in name for k in CCTV):
+        return "中央电视台"
+    if any(k in name for k in GUIZHOU):
+        return "贵州频道"
+    if any(k in name for k in SATELLITE):
+        return "卫视频道"
+    if any(k in name for k in MOVIE):
+        return "电影频道"
+    if any(k in name for k in DIGITAL):
+        return "数字频道"
+    return "其它"
+
+
+# 合并、去重、过滤失效、分类
+def merge_and_classify(contents):
+    result = {
+        "中央电视台": [],
+        "卫视频道": [],
+        "贵州频道": [],
+        "数字频道": [],
+        "电影频道": [],
+        "其它": []
+    }
+
     seen = set()
+    pending_extinf = None
+
     for content in contents:
-        for line in content.splitlines():
-            if line.startswith("#EXTINF") or line.startswith("http"):
-                if line not in seen:
-                    seen.add(line)
-                    lines.append(line)
-    return "\n".join(lines)
+        for raw in content.splitlines():
+            line = raw.strip()
+            if not line:
+                continue
+
+            # EXTINF
+            if line.startswith("#EXTINF"):
+                pending_extinf = clean_extinf(line)
+                continue
+
+            # URL
+            if line.startswith("http"):
+                if pending_extinf:
+                    name = pending_extinf.split(",")[-1]
+                    pair = pending_extinf + "\n" + line
+
+                    if pair not in seen:
+                        seen.add(pair)
+
+                        # 检测是否可播放
+                        if not is_alive(line):
+                            pending_extinf = None
+                            continue
+
+                        # 分类
+                        cat = detect_category(name)
+                        result[cat].append(pending_extinf)
+                        result[cat].append(line)
+
+                pending_extinf = None
+
+    return result
+
 
 def main():
     urls = load_sources()
@@ -41,17 +127,28 @@ def main():
 
     for url in urls:
         print(f"Fetching: {url}")
-        data = fetch_url(url)
-        if data:
-            contents.append(data)
+        try:
+            resp = requests.get(url, timeout=8)
+            if resp.status_code == 200:
+                contents.append(resp.text)
+        except:
+            pass
 
-    result = merge_and_dedup(contents)
+    categorized = merge_and_classify(contents)
 
     os.makedirs("output", exist_ok=True)
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(result)
+    with open(OUTPUT_FILE, "w", encoding="utf-8", newline="\n") as f:
+        f.write("#EXTM3U\n\n")
+
+        for cat, items in categorized.items():
+            if items:
+                f.write(f"# ------ {cat} ------\n")
+                for line in items:
+                    f.write(line + "\n")
+                f.write("\n")
 
     print("Done. Output saved to", OUTPUT_FILE)
+
 
 if __name__ == "__main__":
     main()
