@@ -19,6 +19,7 @@ LOCAL = ["贵州", "贵阳", "上海", "北京", "广东", "深圳", "湖南", "
 # 只保留 1080P / 720P
 QUALITY_KEYWORDS = ["1080", "1080p", "720", "720p"]
 
+
 def load_sources():
     urls = []
     for file in os.listdir(SOURCE_DIR):
@@ -29,6 +30,7 @@ def load_sources():
                     if line and not line.startswith("#"):
                         urls.append(line)
     return urls
+
 
 def detect_category(name):
     if any(k in name for k in CCTV):
@@ -42,6 +44,7 @@ def detect_category(name):
     if any(k in name for k in LOCAL):
         return "地方频道"
     return "其它"
+
 
 def parse_m3u(text):
     channels = []
@@ -64,15 +67,18 @@ def parse_m3u(text):
 
     return channels
 
+
 def add_group_title(extinf, category):
     idx = extinf.rfind(',')
     if idx == -1:
         return extinf
     return extinf[:idx] + f' group-title="{category}"' + extinf[idx:]
 
+
 def is_quality_ok(name, url):
     text = (name + url).lower()
     return any(q in text for q in QUALITY_KEYWORDS)
+
 
 def main():
     urls = load_sources()
@@ -122,25 +128,34 @@ def main():
             for _, link in items:
                 f.write(link + "\n")
 
-    # 写 info.txt（只保留更新时间）
+    # 写 info.txt
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     with open(OUTPUT_INFO, "w", encoding="utf-8") as f:
         f.write(f"更新时间：{now}\n")
 
-    # 更新 README（修正正则，避免误替换）
+    # 更新 README（自动插入 + 自动更新）
     if os.path.exists(README):
         with open(README, "r", encoding="utf-8") as f:
             readme = f.read()
 
         total = sum(len(v) for v in categorized.values())
 
-        readme = re.sub(r"更新时间：.*?\n", f"更新时间：{now}\n", readme)
-        readme = re.sub(r"频道总数：.*?\n", f"频道总数：{total}\n", readme)
+        # 自动插入
+        if "更新时间：" not in readme:
+            readme = f"更新时间：{now}\n" + readme
+        else:
+            readme = re.sub(r"^更新时间：.*$", f"更新时间：{now}", readme, flags=re.M)
+
+        if "频道总数：" not in readme:
+            readme = f"频道总数：{total}\n" + readme
+        else:
+            readme = re.sub(r"^频道总数：.*$", f"频道总数：{total}", readme, flags=re.M)
 
         with open(README, "w", encoding="utf-8") as f:
             f.write(readme)
 
     print("Done.")
+
 
 if __name__ == "__main__":
     main()
