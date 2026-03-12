@@ -69,8 +69,10 @@ def parse_m3u(text):
     return channels
 
 def add_group_title(extinf, category):
-    return extinf.replace('",', f'" group-title="{category}",')
-
+    idx = extinf.rfind(',')
+    if idx == -1:
+        return extinf
+    return extinf[:idx] + f' group-title="{category}"' + extinf[idx:]
 def main():
     urls = load_sources()
     all_channels = []
