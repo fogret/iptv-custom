@@ -39,5 +39,4 @@ jobs:
 
         git commit -m "Auto update IPTV files and README" || echo "No changes to commit"
 
-        # 强制推送到 main 分支（如果你是 master，请改成 master）
         git push origin main
