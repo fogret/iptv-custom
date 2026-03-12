@@ -6,7 +6,7 @@ from datetime import datetime
 SOURCE_DIR = "sources"
 OUTPUT_M3U = "output/result.m3u"
 OUTPUT_TXT = "output/result.txt"
-OUTPUT_INFO = "output/info.txt"   # 保存更新时间和分类统计
+OUTPUT_INFO = "output/info.txt"
 
 # 分类关键词
 CCTV = ["CCTV", "CGTN"]
@@ -27,6 +27,8 @@ def is_alive(url):
 # 读取 sources 目录中的所有 URL
 def load_sources():
     urls = []
+
+    # ① 保留原有 sources/*.txt（原逻辑不变）
     for file in os.listdir(SOURCE_DIR):
         if file.endswith(".txt"):
             with open(os.path.join(SOURCE_DIR, file), "r", encoding="utf-8") as f:
@@ -34,6 +36,21 @@ def load_sources():
                     line = line.strip()
                     if line and not line.startswith("#"):
                         urls.append(line)
+
+    # ② 在原有逻辑中追加抓取源（只加地址，不改逻辑）
+    urls += [
+        "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u",
+        "https://raw.githubusercontent.com/iptv-org/iptv/master/index.m3u",
+        "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u",
+        "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV.m3u",
+        "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+        "https://raw.githubusercontent.com/zhanghong1983/TVBOX/main/live.txt",
+        "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/live.txt",
+        "https://raw.githubusercontent.com/wwb521/live/main/tv.txt",
+        "https://live.fanmingming.com/tv/m3u/global.m3u",
+        "https://live.fanmingming.com/tv/m3u/ipv6.m3u"
+    ]
+
     return urls
 
 
@@ -61,7 +78,7 @@ def detect_category(name):
     return "其它"
 
 
-# 合并、去重、过滤失效、分类（智能加速版）
+# 合并、去重、过滤失效、分类（智能加速版 + TXT 支持）
 def merge_and_classify(contents):
     result = {
         "中央电视台": [],
@@ -73,7 +90,7 @@ def merge_and_classify(contents):
     }
 
     seen = set()
-    tested_channels = set()  # 每个频道只检测一次
+    tested_channels = set()
     pending_extinf = None
 
     for content in contents:
@@ -82,12 +99,33 @@ def merge_and_classify(contents):
             if not line:
                 continue
 
-            # EXTINF
+            # ① 支持 TXT 格式：频道名,URL
+            if "," in line and not line.startswith("#EXTINF"):
+                try:
+                    name, url = line.split(",", 1)
+                    name = name.strip()
+                    url = url.strip()
+
+                    if url.startswith("http"):
+                        if name not in tested_channels:
+                            if not is_alive(url):
+                                continue
+                            tested_channels.add(name)
+
+                        cat = detect_category(name)
+                        extinf = f'#EXTINF:-1 tvg-name="{name}" group-title="{cat}",{name}'
+                        result[cat].append(extinf)
+                        result[cat].append(url)
+                        continue
+                except:
+                    pass
+
+            # ② 标准 EXTINF
             if line.startswith("#EXTINF"):
                 pending_extinf = clean_extinf(line)
                 continue
 
-            # URL
+            # ③ URL
             if line.startswith("http"):
                 if pending_extinf:
                     name = pending_extinf.split(",")[-1]
@@ -96,72 +134,4 @@ def merge_and_classify(contents):
                     if pair not in seen:
                         seen.add(pair)
 
-                        # 每个频道只检测一次（智能加速）
                         if name not in tested_channels:
-                            if not is_alive(line):
-                                pending_extinf = None
-                                continue
-                            tested_channels.add(name)
-
-                        # 分类
-                        cat = detect_category(name)
-
-                        # 标准 M3U 格式
-                        extinf = f'#EXTINF:-1 tvg-name="{name}" group-title="{cat}",{name}'
-
-                        result[cat].append(extinf)
-                        result[cat].append(line)
-
-                pending_extinf = None
-
-    return result
-
-
-def main():
-    urls = load_sources()
-    contents = []
-
-    for url in urls:
-        print(f"Fetching: {url}")
-        try:
-            resp = requests.get(url, timeout=8)
-            if resp.status_code == 200:
-                contents.append(resp.text)
-        except:
-            pass
-
-    categorized = merge_and_classify(contents)
-
-    os.makedirs("output", exist_ok=True)
-
-    # 写入 M3U
-    with open(OUTPUT_M3U, "w", encoding="utf-8", newline="\n") as f:
-        f.write("#EXTM3U\n\n")
-        for cat, items in categorized.items():
-            if items:
-                for line in items:
-                    f.write(line + "\n")
-                f.write("\n")
-
-    # 写入 TXT（纯链接）
-    with open(OUTPUT_TXT, "w", encoding="utf-8") as f:
-        for cat, items in categorized.items():
-            for line in items:
-                if line.startswith("http"):
-                    f.write(line + "\n")
-
-    # 写入 info（更新时间 + 分类统计）
-    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-
-    with open(OUTPUT_INFO, "w", encoding="utf-8") as f:
-        f.write(f"更新时间：{now}\n\n")
-        f.write("分类统计：\n")
-        for cat, items in categorized.items():
-            count = sum(1 for x in items if x.startswith("#EXTINF"))
-            f.write(f"{cat}：{count} 个频道\n")
-
-    print("Done. Output saved to output/")
-
-
-if __name__ == "__main__":
-    main()
