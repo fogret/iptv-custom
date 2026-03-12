@@ -1,4 +1,0 @@
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV.m3u
-https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
