@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/index.m3u
