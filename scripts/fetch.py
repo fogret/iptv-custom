@@ -12,11 +12,10 @@ GUIZHOU = ["贵州", "贵阳"]
 DIGITAL = ["纪实", "都市", "新闻", "影视", "公共", "法治", "生活", "科教"]
 MOVIE = ["电影", "CHC"]
 
-# 快速检测直播源是否可用（极速版）
+# 极速检测直播源是否可用（HEAD + 0.5 秒超时）
 def is_alive(url):
     try:
-        # 使用 HEAD 请求，不下载内容，速度极快
-        resp = requests.head(url, timeout=1, allow_redirects=True)
+        resp = requests.head(url, timeout=0.5, allow_redirects=True)
         return resp.status_code == 200
     except:
         return False
@@ -59,7 +58,7 @@ def detect_category(name):
     return "其它"
 
 
-# 合并、去重、过滤失效、分类
+# 合并、去重、过滤失效、分类（智能加速版）
 def merge_and_classify(contents):
     result = {
         "中央电视台": [],
@@ -71,6 +70,7 @@ def merge_and_classify(contents):
     }
 
     seen = set()
+    tested_channels = set()  # 每个频道只检测一次
     pending_extinf = None
 
     for content in contents:
@@ -93,15 +93,17 @@ def merge_and_classify(contents):
                     if pair not in seen:
                         seen.add(pair)
 
-                        # 快速检测是否可播放
-                        if not is_alive(line):
-                            pending_extinf = None
-                            continue
+                        # 每个频道只检测一次（智能加速）
+                        if name not in tested_channels:
+                            if not is_alive(line):
+                                pending_extinf = None
+                                continue
+                            tested_channels.add(name)
 
                         # 分类
                         cat = detect_category(name)
 
-                        # 生成标准 M3U 格式 EXTINF
+                        # 标准 M3U 格式
                         extinf = f'#EXTINF:-1 tvg-name="{name}" group-title="{cat}",{name}'
 
                         result[cat].append(extinf)
