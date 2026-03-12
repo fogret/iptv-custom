@@ -2,7 +2,7 @@ name: Update IPTV
 
 on:
   schedule:
-    - cron: "0 /6   "   # 每 6 小时更新一次
+    - cron: "0 */6 * * *"   # 每 6 小时更新一次
   workflow_dispatch:
 
 jobs:
@@ -29,6 +29,7 @@ jobs:
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add output/result.m3u
+          git add output/result.txt
+          git add output/info.txt
           git commit -m "Auto update IPTV" || echo "No changes"
           git push
-`
