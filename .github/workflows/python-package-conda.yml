@@ -1,43 +1,41 @@
-name: IPTV Auto Update
+name: Build IPTV
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"   # 每 6 小时自动运行
-  workflow_dispatch:        # 手动触发
-  push:
-    paths:
-      - "sources/**"        # 只有 sources 变化才触发
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout
-      uses: actions/checkout@v4
-      with:
-        persist-credentials: false
+      - uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: "3.11"
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
 
-    - name: Install dependencies
-      run: |
-        pip install requests
+      - run: pip install requests
 
-    - name: Run script
-      run: |
-        python main.py
+      - run: python fetch.py
 
-    - name: Commit and Push
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git add .
-        git commit -m "Auto update" || echo "No changes"
-        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
+      - uses: actions/upload-pages-artifact@v2
+        with:
+          path: output
 
-    - name: Deploy to GitHub Pages
-      uses: actions/deploy-pages@v4
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
