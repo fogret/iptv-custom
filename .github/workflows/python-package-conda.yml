@@ -1,9 +1,8 @@
-
 name: Update IPTV
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # 每 6 小时更新一次
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -25,10 +24,40 @@ jobs:
       - name: Run fetch script
         run: python scripts/fetch.py
 
+      - name: Generate README info
+        id: gen
+        run: |
+          UPDATE_TIME="$(date '+%Y-%m-%d %H:%M:%S')"
+
+          # 统计分类数量
+          CCTV=$(grep -c 'group-title="中央电视台"' output/result.m3u || true)
+          SAT=$(grep -c 'group-title="卫视频道"' output/result.m3u || true)
+          GUIZ=$(grep -c 'group-title="贵州频道"' output/result.m3u || true)
+          DIG=$(grep -c 'group-title="数字频道"' output/result.m3u || true)
+          MOV=$(grep -c 'group-title="电影频道"' output/result.m3u || true)
+          OTHER=$(grep -c 'group-title="其它"' output/result.m3u || true)
+
+          CATEGORY_STATS="中央电视台：$CCTV 个  
+卫视频道：$SAT 个  
+贵州频道：$GUIZ 个  
+数字频道：$DIG 个  
+电影频道：$MOV 个  
+其它：$OTHER 个"
+
+          echo "update_time=$UPDATE_TIME" >> $GITHUB_OUTPUT
+          echo "category_stats<<EOF" >> $GITHUB_OUTPUT
+          echo "$CATEGORY_STATS" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Update README
+        run: |
+          sed -i "s/{{UPDATE_TIME}}/${{ steps.gen.outputs.update_time }}/g" README.md
+          sed -i "s|{{CATEGORY_STATS}}|${{ steps.gen.outputs.category_stats }}|g" README.md
+
       - name: Commit result
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add output/result.m3u
+          git add output/result.m3u README.md
           git commit -m "Auto update IPTV" || echo "No changes"
           git push
