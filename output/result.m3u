@@ -2,7 +2,33 @@
 
 
 
+#EXTINF:-1 tvg-id="BaichengTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/baicheng.jpg" group-title="General" group-title="数字频道",白城新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
 
 
 
+#EXTINF:-1 tvg-id="ABNChina.us@SD" tvg-logo="https://i.imgur.com/zagVLQH.png" group-title="Religious" group-title="其它",ABN China (720p)
+https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+#EXTINF:-1 tvg-id="AngelTV.in@Chinese" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious" group-title="其它",Angel TV Chinese (720p)
+https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BreadTV.cn@SD" tvg-logo="https://bread-tv.com/uploads/allimg/241202/9_1836542371.png" group-title="Undefined" group-title="其它",Bread TV面包台 (720p)
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 tvg-id="ChifengComprehensiveNewsChanel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/cfxwzhpd.jpg" group-title="News" group-title="其它",Chifeng Comprehensive News Chanel
+http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
+#EXTINF:-1 tvg-id="GuangzhouTV.cn@SD" tvg-logo="https://i.imgur.com/ff3KQXp.png" group-title="General" group-title="其它",Guangzhou TV
+https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+#EXTINF:-1 tvg-id="HomePlus.ir@SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/homeplus.png" group-title="Movies" group-title="其它",Home Plus
+https://homeplushls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SipingTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/sptv1.jpg" group-title="General" group-title="其它",Siping TV
+http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
+#EXTINF:-1 tvg-id="TonghuaTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/thtv1.jpg" group-title="News" group-title="其它",Tonghua TV
+http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+#EXTINF:-1 tvg-id="TVBRICSChinese.cn@SD" tvg-logo="https://i.imgur.com/896132Z.png" group-title="General" group-title="其它",TV BRICS Chinese (1080p)
+https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
+#EXTINF:-1 tvg-id="VoATVChina.cn@SD" tvg-logo="https://i.imgur.com/XCTZkoq.png" group-title="Undefined" group-title="其它",VOA美国之音
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+#EXTINF:-1 tvg-id="XizangTVTibetan.cn@SD" tvg-logo="https://i.imgur.com/NtvfnVV.png" group-title="Undefined" group-title="其它",Xizang TV Tibetan (720p) [Not 24/7]
+http://php.jdshipin.com:8880/xztv.php?id=zy
+#EXTINF:-1 tvg-id="ZhejiangInternationalChannel.cn@SD" tvg-logo="https://i.imgur.com/XOL1Hph.png" group-title="Undefined" group-title="其它",Zhejiang TV International
+https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 
