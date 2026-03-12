@@ -1,112 +1,66 @@
 #EXTM3U
-# Generated at 2026-03-12 15:00:48
+# Generated at 2026-03-12 15:23:21
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-1综合" group-title="中央电视台",CCTV-1综合
-https://live.cooltv.top/tv/cctv1.m3u8
+https://live.fanmingming.com/tv/cctv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-1综合" group-title="中央电视台",CCTV-1综合
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-1综合" group-title="中央电视台",CCTV-1综合
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-2财经" group-title="中央电视台",CCTV-2财经
-https://live.cooltv.top/tv/cctv2.m3u8
+https://live.fanmingming.com/tv/cctv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-2财经" group-title="中央电视台",CCTV-2财经
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226548/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-3综艺" group-title="中央电视台",CCTV-3综艺
-https://live.cooltv.top/tv/cctv3.m3u8
+https://live.fanmingming.com/tv/cctv3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-3综艺" group-title="中央电视台",CCTV-3综艺
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221228126/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4中文国际" group-title="中央电视台",CCTV-4中文国际
-https://live.cooltv.top/tv/cctv4.m3u8
+https://live.fanmingming.com/tv/cctv4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-4中文国际" group-title="中央电视台",CCTV-4中文国际
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-5体育" group-title="中央电视台",CCTV-5体育
-https://live.cooltv.top/tv/cctv5.m3u8
+https://live.fanmingming.com/tv/cctv5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-5体育" group-title="中央电视台",CCTV-5体育
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-5+体育赛事" group-title="中央电视台",CCTV-5+体育赛事
-https://live.cooltv.top/tv/cctv5p.m3u8
+https://live.fanmingming.com/tv/cctv5p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-5+体育赛事" group-title="中央电视台",CCTV-5+体育赛事
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221228308/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-6电影" group-title="中央电视台",CCTV-6电影
-https://live.cooltv.top/tv/cctv6.m3u8
+https://live.fanmingming.com/tv/cctv6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-6电影" group-title="中央电视台",CCTV-6电影
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221228124/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-7国防军事" group-title="中央电视台",CCTV-7国防军事
-https://live.cooltv.top/tv/cctv7.m3u8
+https://live.fanmingming.com/tv/cctv7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-7国防军事" group-title="中央电视台",CCTV-7国防军事
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226432/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-8电视剧" group-title="中央电视台",CCTV-8电视剧
-https://live.cooltv.top/tv/cctv8.m3u8
+https://live.fanmingming.com/tv/cctv8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-8电视剧" group-title="中央电视台",CCTV-8电视剧
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221228128/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-9纪录" group-title="中央电视台",CCTV-9纪录
-https://live.cooltv.top/tv/cctv9.m3u8
+https://live.fanmingming.com/tv/cctv9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-9纪录" group-title="中央电视台",CCTV-9纪录
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-10科教" group-title="中央电视台",CCTV-10科教
-https://live.cooltv.top/tv/cctv10.m3u8
+https://live.fanmingming.com/tv/cctv10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-10科教" group-title="中央电视台",CCTV-10科教
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226436/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-11戏曲" group-title="中央电视台",CCTV-11戏曲
-https://live.cooltv.top/tv/cctv11.m3u8
+https://live.fanmingming.com/tv/cctv11.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-12社会与法" group-title="中央电视台",CCTV-12社会与法
-https://live.cooltv.top/tv/cctv12.m3u8
+https://live.fanmingming.com/tv/cctv12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-12社会与法" group-title="中央电视台",CCTV-12社会与法
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226438/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-13新闻" group-title="中央电视台",CCTV-13新闻
-https://live.cooltv.top/tv/cctv13.m3u8
+https://live.fanmingming.com/tv/cctv13.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-14少儿" group-title="中央电视台",CCTV-14少儿
-https://live.cooltv.top/tv/cctv14.m3u8
+https://live.fanmingming.com/tv/cctv14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-14少儿" group-title="中央电视台",CCTV-14少儿
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-15音乐" group-title="中央电视台",CCTV-15音乐
-https://live.cooltv.top/tv/cctv15.m3u8
+https://live.fanmingming.com/tv/cctv15.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-16奥林匹克" group-title="中央电视台",CCTV-16奥林匹克
-https://live.cooltv.top/tv/cctv16.m3u8
+https://live.fanmingming.com/tv/cctv16.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-17农业农村" group-title="中央电视台",CCTV-17农业农村
-https://live.cooltv.top/tv/cctv17.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" group-title="影视频道",CHC高清电影
-https://live.cooltv.top/tv/chc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" group-title="影视频道",CHC动作电影
-https://live.cooltv.top/tv/chcaction.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="1905电影网" group-title="影视频道",1905电影网
-https://live.cooltv.top/tv/1905.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" group-title="卫视频道",北京卫视
-https://live.cooltv.top/tv/beijing.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="天津卫视" group-title="卫视频道",天津卫视
-https://live.cooltv.top/tv/tianjin.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="河北卫视" group-title="卫视频道",河北卫视
-https://live.cooltv.top/tv/hebei.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山西卫视" group-title="卫视频道",山西卫视
-https://live.cooltv.top/tv/shanxi.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" group-title="卫视频道",内蒙古卫视
-https://live.cooltv.top/tv/neimenggu.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
-https://live.cooltv.top/tv/liaoning.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
-https://live.cooltv.top/tv/jilin.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
-https://live.cooltv.top/tv/heilongjiang.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东方卫视" group-title="卫视频道",东方卫视
-https://live.cooltv.top/tv/dongfang.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-https://live.cooltv.top/tv/jiangsu.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
-https://live.cooltv.top/tv/zhejiang.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
-https://live.cooltv.top/tv/anhui.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东南卫视" group-title="卫视频道",东南卫视
-https://live.cooltv.top/tv/dongnan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="江西卫视" group-title="卫视频道",江西卫视
-https://live.cooltv.top/tv/jiangxi.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东卫视" group-title="卫视频道",山东卫视
-https://live.cooltv.top/tv/shandong.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="河南卫视" group-title="卫视频道",河南卫视
-https://live.cooltv.top/tv/henan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
-https://live.cooltv.top/tv/hubei.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
-https://live.cooltv.top/tv/hunan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" group-title="卫视频道",广东卫视
-https://live.cooltv.top/tv/guangdong.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广西卫视" group-title="卫视频道",广西卫视
-https://live.cooltv.top/tv/guangxi.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="海南卫视" group-title="卫视频道",海南卫视
-https://live.cooltv.top/tv/hainan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
-https://live.cooltv.top/tv/chongqing.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="四川卫视" group-title="卫视频道",四川卫视
-https://live.cooltv.top/tv/sichuan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" group-title="贵州地方频道",贵州卫视
-https://live.cooltv.top/tv/guizhou.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="云南卫视" group-title="卫视频道",云南卫视
-https://live.cooltv.top/tv/yunnan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" group-title="卫视频道",西藏卫视
-https://live.cooltv.top/tv/xizang.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" group-title="卫视频道",陕西卫视
-https://live.cooltv.top/tv/shanxi2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" group-title="卫视频道",甘肃卫视
-https://live.cooltv.top/tv/gansu.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="青海卫视" group-title="卫视频道",青海卫视
-https://live.cooltv.top/tv/qinghai.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" group-title="卫视频道",宁夏卫视
-https://live.cooltv.top/tv/ningxia.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" group-title="卫视频道",新疆卫视
-https://live.cooltv.top/tv/xinjiang.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="贵州公共频道" group-title="贵州地方频道",贵州公共频道
-https://live.cooltv.top/tv/guizhougg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="贵州影视文艺" group-title="贵州地方频道",贵州影视文艺
-https://live.cooltv.top/tv/guizhouys.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="贵州科教健康" group-title="贵州地方频道",贵州科教健康
-https://live.cooltv.top/tv/guizhoukj.m3u8
+https://live.fanmingming.com/tv/cctv17.m3u8
