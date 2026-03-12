@@ -1,33 +1,43 @@
-name: Update IPTV
+name: IPTV Auto Update
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # 每 6 小时更新一次
-  workflow_dispatch:
+    - cron: "0 */6 * * *"   # 每 6 小时自动运行
+  workflow_dispatch:        # 手动触发
+  push:
+    paths:
+      - "sources/**"        # 只有 sources 变化才触发
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+        persist-credentials: false
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.10"
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.11"
 
-      - name: Install dependencies
-        run: pip install requests
+    - name: Install dependencies
+      run: |
+        pip install requests
 
-      - name: Run fetch script
-        run: python scripts/fetch.py
+    - name: Run script
+      run: |
+        python main.py
 
-      - name: Commit result
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git add output/result.m3u
-          git commit -m "Auto update IPTV" || echo "No changes"
-          git push
+    - name: Commit and Push
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add .
+        git commit -m "Auto update" || echo "No changes"
+        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
+
+    - name: Deploy to GitHub Pages
+      uses: actions/deploy-pages@v4
