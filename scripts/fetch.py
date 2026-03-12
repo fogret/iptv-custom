@@ -1,9 +1,12 @@
 import os
 import requests
 import re
+from datetime import datetime
 
 SOURCE_DIR = "sources"
-OUTPUT_FILE = "output/result.m3u"
+OUTPUT_M3U = "output/result.m3u"
+OUTPUT_TXT = "output/result.txt"
+OUTPUT_INFO = "output/info.txt"   # 保存更新时间和分类统计
 
 # 分类关键词
 CCTV = ["CCTV", "CGTN"]
@@ -130,16 +133,34 @@ def main():
     categorized = merge_and_classify(contents)
 
     os.makedirs("output", exist_ok=True)
-    with open(OUTPUT_FILE, "w", encoding="utf-8", newline="\n") as f:
-        f.write("#EXTM3U\n\n")
 
+    # 写入 M3U
+    with open(OUTPUT_M3U, "w", encoding="utf-8", newline="\n") as f:
+        f.write("#EXTM3U\n\n")
         for cat, items in categorized.items():
             if items:
                 for line in items:
                     f.write(line + "\n")
                 f.write("\n")
 
-    print("Done. Output saved to", OUTPUT_FILE)
+    # 写入 TXT（纯链接）
+    with open(OUTPUT_TXT, "w", encoding="utf-8") as f:
+        for cat, items in categorized.items():
+            for line in items:
+                if line.startswith("http"):
+                    f.write(line + "\n")
+
+    # 写入 info（更新时间 + 分类统计）
+    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+    with open(OUTPUT_INFO, "w", encoding="utf-8") as f:
+        f.write(f"更新时间：{now}\n\n")
+        f.write("分类统计：\n")
+        for cat, items in categorized.items():
+            count = sum(1 for x in items if x.startswith("#EXTINF"))
+            f.write(f"{cat}：{count} 个频道\n")
+
+    print("Done. Output saved to output/")
 
 
 if __name__ == "__main__":
