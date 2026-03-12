@@ -2,56 +2,38 @@ name: Update IPTV
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # 每 6 小时更新一次
-  workflow_dispatch:
-
-permissions:
-  contents: write
-  pages: write
-  id-token: write
+    - cron: "0 */4 * * *"   # 每 4 小时自动运行
+  workflow_dispatch:        # 手动触发
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.10"
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.11"
 
-      - name: Install dependencies
-        run: pip install requests
+    - name: Install dependencies
+      run: |
+        pip install requests
 
-      - name: Run fetch script
-        run: python scripts/fetch.py
+    - name: Run script
+      run: |
+        python3 fetch.py
 
-      - name: Commit result
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git add output/result.m3u
-          git add output/result.txt
-          git add output/info.txt
-          git commit -m "Auto update IPTV" || echo "No changes"
-          git push
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
 
-      - name: Upload artifact for Pages
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: output
+        git add README.md output/info.txt output/result.m3u output/result.txt || true
 
-  deploy:
-    needs: update
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+        git commit -m "Auto update IPTV files and README" || echo "No changes to commit"
+        git push
