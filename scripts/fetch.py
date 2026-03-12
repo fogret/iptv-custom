@@ -12,25 +12,14 @@ GUIZHOU = ["贵州", "贵阳"]
 DIGITAL = ["纪实", "都市", "新闻", "影视", "公共", "法治", "生活", "科教"]
 MOVIE = ["电影", "CHC"]
 
-# 判断直播源是否可用
+# 快速检测直播源是否可用（极速版）
 def is_alive(url):
     try:
-        resp = requests.get(url, timeout=5, stream=True, allow_redirects=True)
-        if resp.status_code != 200:
-            return False
-
-        ctype = resp.headers.get("Content-Type", "").lower()
-        if "mpegurl" in ctype or "m3u8" in ctype:
-            return True
-
-        first_bytes = resp.raw.read(20, decode_content=True)
-        if b"#EXTM3U" in first_bytes or b".ts" in first_bytes:
-            return True
-
+        # 使用 HEAD 请求，不下载内容，速度极快
+        resp = requests.head(url, timeout=1, allow_redirects=True)
+        return resp.status_code == 200
     except:
-        pass
-
-    return False
+        return False
 
 
 # 读取 sources 目录中的所有 URL
@@ -104,7 +93,7 @@ def merge_and_classify(contents):
                     if pair not in seen:
                         seen.add(pair)
 
-                        # 检测是否可播放
+                        # 快速检测是否可播放
                         if not is_alive(line):
                             pending_extinf = None
                             continue
