@@ -1,41 +1,34 @@
-name: Build IPTV
+name: Update IPTV
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"
-
-permissions:
-  contents: write
-  pages: write
-  id-token: write
+    - cron: "0 /6   "   # 每 6 小时更新一次
+  workflow_dispatch:
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v3
 
-      - uses: actions/setup-python@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          python-version: "3.11"
+          python-version: "3.10"
 
-      - run: pip install requests
+      - name: Install dependencies
+        run: pip install requests
 
-      - run: python fetch.py
+      - name: Run fetch script
+        run: python scripts/fetch.py
 
-      - uses: actions/upload-pages-artifact@v2
-        with:
-          path: output
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Commit result
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add output/result.m3u
+          git commit -m "Auto update IPTV" || echo "No changes"
+          git push
+`
