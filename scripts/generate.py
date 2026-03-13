@@ -7,12 +7,7 @@ import time
 import datetime
 import requests
 
-# ==========================
-# 仓库适配配置
-# ==========================
-
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-
 SOURCE_DIR = os.path.join(BASE_DIR, "sources")
 OUTPUT_DIR = os.path.join(BASE_DIR, "output")
 
@@ -20,7 +15,7 @@ M3U_FILE = os.path.join(OUTPUT_DIR, "result.m3u")
 TXT_FILE = os.path.join(OUTPUT_DIR, "result.txt")
 
 ENABLE_HEALTH_CHECK = False
-HTTP_TIMEOUT = 3
+HTTP_TIMEOUT = 5
 
 ALLOWED_COUNTRIES = {"中国", "China", "CN"}
 
@@ -49,34 +44,71 @@ def classify_channel(name: str, group: str) -> str:
     if any(k in n for k in ["movie", "电影", "影视"]):
         return "影视频道"
 
-    return ""
+    return "其他频道"
 
 
 # ==========================
 # 工具函数
 # ==========================
 
-def is_url_alive(url: str) -> bool:
-    if not ENABLE_HEALTH_CHECK:
-        return True
+def fetch_url(url: str) -> str:
+    """抓取远程 URL 内容"""
     try:
-        r = requests.get(url, timeout=HTTP_TIMEOUT, stream=True)
-        return r.status_code < 400
+        r = requests.get(url, timeout=HTTP_TIMEOUT)
+        if r.status_code == 200:
+            return r.text
     except:
-        return False
+        pass
+    return ""
 
 
-def match_resolution(resolution: str, url: str) -> bool:
-    text = (resolution or "") + " " + url
-    text = text.lower()
-    return any(k in text for k in ALLOWED_RES_KEYWORDS)
+def parse_m3u_text(text: str):
+    """解析 M3U 内容"""
+    rows = []
+    lines = text.splitlines()
+    name = ""
+    group = ""
+    resolution = ""
+    country = "中国"
+
+    for line in lines:
+        line = line.strip()
+        if line.startswith("#EXTINF"):
+            # 解析频道名称
+            if "," in line:
+                name = line.split(",")[-1].strip()
+            else:
+                name = "未知频道"
+        elif line.startswith("http"):
+            url = line
+            rows.append({
+                "name": name,
+                "group": "",
+                "country": country,
+                "resolution": "",
+                "url": url,
+            })
+    return rows
+
+
+def parse_txt_text(text: str):
+    """解析 TXT，每行一个 URL"""
+    rows = []
+    for line in text.splitlines():
+        line = line.strip()
+        if line.startswith("http"):
+            rows.append({
+                "name": "未命名频道",
+                "group": "",
+                "country": "中国",
+                "resolution": "",
+                "url": line,
+            })
+    return rows
 
 
 def read_csv_file(path: str):
     rows = []
-    if not os.path.exists(path):
-        return rows
-
     with open(path, "r", encoding="utf-8") as f:
         reader = csv.reader(f)
         for line in reader:
@@ -96,12 +128,43 @@ def read_csv_file(path: str):
 
 
 def load_all_sources():
+    """自动读取 CSV / TXT / M3U / URL"""
     all_rows = []
+
     for root, _, files in os.walk(SOURCE_DIR):
         for f in files:
+            path = os.path.join(root, f)
+
+            # CSV
             if f.endswith(".csv"):
-                path = os.path.join(root, f)
                 all_rows.extend(read_csv_file(path))
+
+            # TXT
+            elif f.endswith(".txt"):
+                with open(path, "r", encoding="utf-8") as fp:
+                    text = fp.read()
+                all_rows.extend(parse_txt_text(text))
+
+            # M3U
+            elif f.endswith(".m3u") or f.endswith(".m3u8"):
+                with open(path, "r", encoding="utf-8") as fp:
+                    text = fp.read()
+                all_rows.extend(parse_m3u_text(text))
+
+    # 处理 sources/ 里直接写的 URL（远程源站）
+    for root, _, files in os.walk(SOURCE_DIR):
+        for f in files:
+            path = os.path.join(root, f)
+            with open(path, "r", encoding="utf-8") as fp:
+                for line in fp:
+                    line = line.strip()
+                    if line.startswith("http"):
+                        text = fetch_url(line)
+                        if "#EXTM3U" in text:
+                            all_rows.extend(parse_m3u_text(text))
+                        else:
+                            all_rows.extend(parse_txt_text(text))
+
     return all_rows
 
 
@@ -116,25 +179,17 @@ def filter_and_dedup(rows):
         resolution = item["resolution"]
         url = item["url"]
 
-        if country not in ALLOWED_COUNTRIES:
+        if not url.startswith("http"):
             continue
 
         new_group = classify_channel(name, group)
-        if not new_group:
-            continue
-
-        if not match_resolution(resolution, url):
-            continue
+        item["group"] = new_group
 
         key = (name, url)
         if key in seen:
             continue
         seen.add(key)
 
-        if not is_url_alive(url):
-            continue
-
-        item["group"] = new_group
         result.append(item)
 
     return result
@@ -147,9 +202,7 @@ def ensure_output_dir():
 
 def generate_m3u(channels, filepath):
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    lines = []
-    lines.append("#EXTM3U")
-    lines.append(f"# Generated at {now}")
+    lines = ["#EXTM3U", f"# Generated at {now}"]
 
     for ch in channels:
         name = ch["name"]
