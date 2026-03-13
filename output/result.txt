@@ -1,4 +1,4 @@
-# 更新时间: 2026-03-12 18:54:25
+# 更新时间: 2026-03-13 02:03:56
 CCTV-1综合,中央电视台,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1综合,中央电视台,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225642/index.m3u8
 CCTV-2财经,中央电视台,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
