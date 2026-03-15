@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated at 2026-03-15 02:26:15
+# Generated at 2026-03-15 06:57:23
 #EXTINF:-1 tvg-id="" tvg-name="未命名频道" group-title="其他频道",未命名频道
 https://www.xxx.com/live/cctv1
 #EXTINF:-1 tvg-id="" tvg-name="未命名频道" group-title="其他频道",未命名频道
@@ -141,7 +141,7 @@ http://183.11.239.36:808/hls/17/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" group-title="卫视频道",山东卫视
 http://120.76.248.139/live/bfgd/4200000099.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山西卫视" group-title="卫视频道",山西卫视
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" group-title="卫视频道",陕西卫视
 http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
@@ -232,16 +232,12 @@ http://www.goodiptv.club/douyu/3928
 https://goodiptv.club/douyu/2164691
 #EXTINF:-1 tvg-id="" tvg-name="古装武侠" group-title="其他频道",古装武侠
 http://www.goodiptv.club/douyu/2793084
-#EXTINF:-1 tvg-id="" tvg-name="同同电影" group-title="影视频道",同同电影
-https://goodiptv.club/douyu/10155359
 #EXTINF:-1 tvg-id="" tvg-name="哈利影视" group-title="影视频道",哈利影视
 https://goodiptv.club/douyu/8475821
 #EXTINF:-1 tvg-id="" tvg-name="喜人电影" group-title="影视频道",喜人电影
 https://goodiptv.club/douyu/10348735
 #EXTINF:-1 tvg-id="" tvg-name="喜剧电影笑不停" group-title="影视频道",喜剧电影笑不停
 https://goodiptv.club/douyu/10298856
-#EXTINF:-1 tvg-id="" tvg-name="噬元兽影视" group-title="影视频道",噬元兽影视
-https://goodiptv.club/douyu/8896723
 #EXTINF:-1 tvg-id="" tvg-name="四叶草影视" group-title="影视频道",四叶草影视
 https://goodiptv.club/douyu/9446117
 #EXTINF:-1 tvg-id="" tvg-name="墨逗电影" group-title="影视频道",墨逗电影
@@ -260,12 +256,8 @@ https://goodiptv.club/douyu/9440966
 https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
 #EXTINF:-1 tvg-id="" tvg-name="寒战" group-title="其他频道",寒战
 https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="小儛电影嘚啵嘚" group-title="影视频道",小儛电影嘚啵嘚
-https://goodiptv.club/douyu/8362978
 #EXTINF:-1 tvg-id="" tvg-name="影视梗大叔" group-title="影视频道",影视梗大叔
 https://goodiptv.club/douyu/9480648
-#EXTINF:-1 tvg-id="" tvg-name="影视笑工场" group-title="影视频道",影视笑工场
-https://goodiptv.club/douyu/10298846
 #EXTINF:-1 tvg-id="" tvg-name="影视集装箱" group-title="影视频道",影视集装箱
 https://goodiptv.club/douyu/8651489
 #EXTINF:-1 tvg-id="" tvg-name="怪兽马提尼电影" group-title="影视频道",怪兽马提尼电影
@@ -288,8 +280,6 @@ https://goodiptv.club/douyu/9736479
 https://goodiptv.club/douyu/7212528
 #EXTINF:-1 tvg-id="" tvg-name="橙记港剧" group-title="其他频道",橙记港剧
 http://www.goodiptv.club/douyu/4549169
-#EXTINF:-1 tvg-id="" tvg-name="每日好电影V" group-title="影视频道",每日好电影V
-https://goodiptv.club/douyu/9533302
 #EXTINF:-1 tvg-id="" tvg-name="洛克电影" group-title="影视频道",洛克电影
 https://goodiptv.club/douyu/9414884
 #EXTINF:-1 tvg-id="" tvg-name="浙江教科影视" group-title="影视频道",浙江教科影视
@@ -308,36 +298,42 @@ https://goodiptv.club/douyu/3506483
 https://goodiptv.club/douyu/9476806
 #EXTINF:-1 tvg-id="" tvg-name="特辑电影院" group-title="影视频道",特辑电影院
 https://goodiptv.club/douyu/3637778
-#EXTINF:-1 tvg-id="" tvg-name="狗毛电影" group-title="影视频道",狗毛电影
-https://goodiptv.club/douyu/9356637
-#EXTINF:-1 tvg-id="" tvg-name="独立鱼电影" group-title="影视频道",独立鱼电影
-https://goodiptv.club/douyu/2413555
 #EXTINF:-1 tvg-id="" tvg-name="猫眼电影" group-title="影视频道",猫眼电影
 https://goodiptv.club/douyu/8726221
 #EXTINF:-1 tvg-id="" tvg-name="玖月影视" group-title="影视频道",玖月影视
 https://goodiptv.club/douyu/9339251
-#EXTINF:-1 tvg-id="" tvg-name="电影七十二变" group-title="影视频道",电影七十二变
-https://goodiptv.club/douyu/9323164
 #EXTINF:-1 tvg-id="" tvg-name="电影先锋V" group-title="影视频道",电影先锋V
 https://goodiptv.club/douyu/8711212
 #EXTINF:-1 tvg-id="" tvg-name="电影冷知识" group-title="影视频道",电影冷知识
 https://goodiptv.club/douyu/9660835
+#EXTINF:-1 tvg-id="" tvg-name="电影刘德华" group-title="影视频道",电影刘德华
+http://live.metshop.top/huya/11342424?cdn=alicdn
 #EXTINF:-1 tvg-id="" tvg-name="电影刘油果" group-title="影视频道",电影刘油果
 https://goodiptv.club/douyu/3985805
+#EXTINF:-1 tvg-id="" tvg-name="电影功夫片" group-title="影视频道",电影功夫片
+http://live.metshop.top/huya/11352941?cdn=alicdn
+#EXTINF:-1 tvg-id="" tvg-name="电影动作电影" group-title="影视频道",电影动作电影
+http://live.metshop.top/huya/11602077?cdn=alicdn
 #EXTINF:-1 tvg-id="" tvg-name="电影吐槽汇" group-title="影视频道",电影吐槽汇
 https://goodiptv.club/douyu/9447668
-#EXTINF:-1 tvg-id="" tvg-name="电影小班长" group-title="影视频道",电影小班长
-https://goodiptv.club/douyu/549693
-#EXTINF:-1 tvg-id="" tvg-name="电影幕后喵" group-title="影视频道",电影幕后喵
-https://goodiptv.club/douyu/8884074
+#EXTINF:-1 tvg-id="" tvg-name="电影周星星" group-title="影视频道",电影周星星
+http://live.metshop.top/huya/11336587?cdn=alicdn
+#EXTINF:-1 tvg-id="" tvg-name="电影嫣然影厅" group-title="影视频道",电影嫣然影厅
+http://live.metshop.top/huya/11601977?cdn=alicdn
+#EXTINF:-1 tvg-id="" tvg-name="电影搞笑喜剧" group-title="影视频道",电影搞笑喜剧
+http://live.metshop.top/huya/11342423?cdn=alicdn
 #EXTINF:-1 tvg-id="" tvg-name="电影漩涡" group-title="影视频道",电影漩涡
 https://goodiptv.club/douyu/8706350
+#EXTINF:-1 tvg-id="" tvg-name="电影犯罪片" group-title="影视频道",电影犯罪片
+http://live.metshop.top/huya/11352974?cdn=alicdn
 #EXTINF:-1 tvg-id="" tvg-name="电影笔记" group-title="影视频道",电影笔记
 https://goodiptv.club/douyu/9636034
+#EXTINF:-1 tvg-id="" tvg-name="电影贺岁" group-title="影视频道",电影贺岁
+http://live.metshop.top/huya/11601971?cdn=alicdn
 #EXTINF:-1 tvg-id="" tvg-name="电影迷小雅" group-title="影视频道",电影迷小雅
 https://goodiptv.club/douyu/9639225
-#EXTINF:-1 tvg-id="" tvg-name="电影黑匣子" group-title="影视频道",电影黑匣子
-https://goodiptv.club/douyu/8706652
+#EXTINF:-1 tvg-id="" tvg-name="电影高分动作" group-title="影视频道",电影高分动作
+http://live.metshop.top/huya/11352884?cdn=alicdn
 #EXTINF:-1 tvg-id="" tvg-name="粤语电影丶" group-title="影视频道",粤语电影丶
 https://goodiptv.club/douyu/1226741
 #EXTINF:-1 tvg-id="" tvg-name="经典剧集" group-title="其他频道",经典剧集
@@ -364,8 +360,6 @@ https://live.tvfix.org/live/cmc/index.m3u8
 http://www.goodiptv.club/douyu/9661369
 #EXTINF:-1 tvg-id="" tvg-name="贝爷求生影视" group-title="影视频道",贝爷求生影视
 https://goodiptv.club/douyu/9661369
-#EXTINF:-1 tvg-id="" tvg-name="贰哥电影" group-title="影视频道",贰哥电影
-https://goodiptv.club/douyu/9338867
 #EXTINF:-1 tvg-id="" tvg-name="辽宁影视剧" group-title="影视频道",辽宁影视剧
 http://120.76.248.139/live/bfgd/4200000070.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="逐梦电影" group-title="影视频道",逐梦电影
@@ -380,16 +374,12 @@ https://goodiptv.club/douyu/9649701
 https://goodiptv.club/douyu/9037784
 #EXTINF:-1 tvg-id="" tvg-name="韩国电影2" group-title="影视频道",韩国电影2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-#EXTINF:-1 tvg-id="" tvg-name="香兰爱影视" group-title="影视频道",香兰爱影视
-https://goodiptv.club/douyu/9487090
 #EXTINF:-1 tvg-id="" tvg-name="龙哥盘电影" group-title="影视频道",龙哥盘电影
 https://goodiptv.club/douyu/9736161
 #EXTINF:-1 tvg-id="" tvg-name="龙门飞甲" group-title="其他频道",龙门飞甲
 http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="纪实科教8K" group-title="其他频道",纪实科教8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京纪实科教8K" group-title="其他频道",北京纪实科教8K
-https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="南国都市" group-title="其他频道",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 tvg-id="" tvg-name="四川科教" group-title="其他频道",四川科教
@@ -407,11 +397,9 @@ http://gmxw.7766.org:808/hls/175/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江少儿" group-title="其他频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中华小当家" group-title="其他频道",中华小当家
-https://live.iill.top/huya/11342413
+https://live.metshop.top/huya/11342413
 #EXTINF:-1 tvg-id="" tvg-name="动画大师姐" group-title="其他频道",动画大师姐
 https://goodiptv.club/douyu/9742136
-#EXTINF:-1 tvg-id="" tvg-name="动画魂" group-title="其他频道",动画魂
-https://goodiptv.club/douyu/9393242
 #EXTINF:-1 tvg-id="" tvg-name="南京少儿" group-title="其他频道",南京少儿
 http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="武汉少儿频道" group-title="其他频道",武汉少儿频道
@@ -421,7 +409,7 @@ https://live.metshop.top/douyu/3949681
 #EXTINF:-1 tvg-id="" tvg-name="漫尼动画" group-title="其他频道",漫尼动画
 https://goodiptv.club/douyu/10364790
 #EXTINF:-1 tvg-id="" tvg-name="猫和老鼠" group-title="其他频道",猫和老鼠
-https://live.metshop.top/huya/11352879
+https://live.iill.top/huya/11352879
 #EXTINF:-1 tvg-id="" tvg-name="福州少儿" group-title="其他频道",福州少儿
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="立秋动画" group-title="其他频道",立秋动画
@@ -448,12 +436,8 @@ https://goodiptv.club/douyu/17732
 https://goodiptv.club/douyu/8881729
 #EXTINF:-1 tvg-id="" tvg-name="AK萌虎" group-title="其他频道",AK萌虎
 https://goodiptv.club/douyu/4049310
-#EXTINF:-1 tvg-id="" tvg-name="Acer丶宏正" group-title="其他频道",Acer丶宏正
-https://goodiptv.club/douyu/10670244
 #EXTINF:-1 tvg-id="" tvg-name="Angela小兔" group-title="其他频道",Angela小兔
 https://goodiptv.club/douyu/9617766
-#EXTINF:-1 tvg-id="" tvg-name="BetterMan北北" group-title="其他频道",BetterMan北北
-https://goodiptv.club/douyu/8507023
 #EXTINF:-1 tvg-id="" tvg-name="Biu餐厅主管" group-title="其他频道",Biu餐厅主管
 https://goodiptv.club/douyu/7921708
 #EXTINF:-1 tvg-id="" tvg-name="BuriedAlien的号" group-title="其他频道",BuriedAlien的号
@@ -472,12 +456,10 @@ https://goodiptv.club/douyu/8768943
 https://goodiptv.club/douyu/563536
 #EXTINF:-1 tvg-id="" tvg-name="Devil青酱" group-title="其他频道",Devil青酱
 https://goodiptv.club/douyu/9510544
-#EXTINF:-1 tvg-id="" tvg-name="Ethan清醒思考" group-title="其他频道",Ethan清醒思考
-https://goodiptv.club/douyu/9481151
-#EXTINF:-1 tvg-id="" tvg-name="FGO丶Master1" group-title="其他频道",FGO丶Master1
-https://goodiptv.club/douyu/9477851
 #EXTINF:-1 tvg-id="" tvg-name="Fatal飞雪" group-title="其他频道",Fatal飞雪
 https://goodiptv.club/douyu/8813596
+#EXTINF:-1 tvg-id="" tvg-name="Hi欣欣" group-title="其他频道",Hi欣欣
+https://goodiptv.club/douyu/11996166
 #EXTINF:-1 tvg-id="" tvg-name="JhZj丶天明" group-title="其他频道",JhZj丶天明
 https://goodiptv.club/douyu/1006179
 #EXTINF:-1 tvg-id="" tvg-name="Jonas888" group-title="其他频道",Jonas888
@@ -486,24 +468,10 @@ https://goodiptv.club/douyu/6054446
 https://goodiptv.club/douyu/8970851
 #EXTINF:-1 tvg-id="" tvg-name="KUMA轻松熊博士" group-title="其他频道",KUMA轻松熊博士
 https://goodiptv.club/douyu/2282604
-#EXTINF:-1 tvg-id="" tvg-name="KyoKyo不是QQ" group-title="其他频道",KyoKyo不是QQ
-https://goodiptv.club/douyu/4732337
-#EXTINF:-1 tvg-id="" tvg-name="LCPD拉登" group-title="其他频道",LCPD拉登
-https://goodiptv.club/douyu/9503015
 #EXTINF:-1 tvg-id="" tvg-name="LOUIS樱" group-title="其他频道",LOUIS樱
 https://goodiptv.club/douyu/9235284
-#EXTINF:-1 tvg-id="" tvg-name="LR1245" group-title="其他频道",LR1245
-https://goodiptv.club/douyu/12534632
 #EXTINF:-1 tvg-id="" tvg-name="MJ小林大人嗷" group-title="其他频道",MJ小林大人嗷
 https://goodiptv.club/douyu/9204381
-#EXTINF:-1 tvg-id="" tvg-name="MK青凌" group-title="其他频道",MK青凌
-https://goodiptv.club/douyu/9488836
-#EXTINF:-1 tvg-id="" tvg-name="Melo的健身课堂" group-title="其他频道",Melo的健身课堂
-https://goodiptv.club/douyu/9306609
-#EXTINF:-1 tvg-id="" tvg-name="MordonFreeman是谁" group-title="其他频道",MordonFreeman是谁
-https://goodiptv.club/douyu/9524579
-#EXTINF:-1 tvg-id="" tvg-name="Nino学长" group-title="其他频道",Nino学长
-https://goodiptv.club/douyu/9525473
 #EXTINF:-1 tvg-id="" tvg-name="OE档案" group-title="其他频道",OE档案
 https://goodiptv.club/douyu/6725858
 #EXTINF:-1 tvg-id="" tvg-name="OneGuy丶" group-title="其他频道",OneGuy丶
@@ -520,14 +488,10 @@ https://goodiptv.club/douyu/9753585
 https://goodiptv.club/douyu/1039732
 #EXTINF:-1 tvg-id="" tvg-name="RNDxc" group-title="其他频道",RNDxc
 https://goodiptv.club/douyu/4585643
-#EXTINF:-1 tvg-id="" tvg-name="Rabbit每日爆料" group-title="其他频道",Rabbit每日爆料
-https://goodiptv.club/douyu/9685652
 #EXTINF:-1 tvg-id="" tvg-name="Red袖袖" group-title="其他频道",Red袖袖
 https://goodiptv.club/douyu/9645396
 #EXTINF:-1 tvg-id="" tvg-name="SH11N" group-title="其他频道",SH11N
 https://goodiptv.club/douyu/9650451
-#EXTINF:-1 tvg-id="" tvg-name="SKYE魏" group-title="其他频道",SKYE魏
-https://goodiptv.club/douyu/9460834
 #EXTINF:-1 tvg-id="" tvg-name="Starshine刹那" group-title="其他频道",Starshine刹那
 https://goodiptv.club/douyu/9191006
 #EXTINF:-1 tvg-id="" tvg-name="Svip丶YoYo" group-title="其他频道",Svip丶YoYo
@@ -538,22 +502,16 @@ https://goodiptv.club/douyu/9565765
 https://goodiptv.club/douyu/9749339
 #EXTINF:-1 tvg-id="" tvg-name="TUOK肖恩" group-title="其他频道",TUOK肖恩
 https://goodiptv.club/douyu/9392433
-#EXTINF:-1 tvg-id="" tvg-name="UP主DJC" group-title="其他频道",UP主DJC
-https://goodiptv.club/douyu/9429545
 #EXTINF:-1 tvg-id="" tvg-name="WANJINNY" group-title="其他频道",WANJINNY
 https://goodiptv.club/douyu/9567755
 #EXTINF:-1 tvg-id="" tvg-name="W总动员" group-title="其他频道",W总动员
 https://goodiptv.club/douyu/9480767
-#EXTINF:-1 tvg-id="" tvg-name="XCin888" group-title="其他频道",XCin888
-https://goodiptv.club/douyu/3617935
 #EXTINF:-1 tvg-id="" tvg-name="YIKa777" group-title="其他频道",YIKa777
 https://goodiptv.club/douyu/8868213
 #EXTINF:-1 tvg-id="" tvg-name="a5dmin" group-title="其他频道",a5dmin
 https://goodiptv.club/douyu/1102973
 #EXTINF:-1 tvg-id="" tvg-name="a萌小翘臀" group-title="其他频道",a萌小翘臀
 https://goodiptv.club/douyu/7552568
-#EXTINF:-1 tvg-id="" tvg-name="baby丶贝贝" group-title="其他频道",baby丶贝贝
-https://goodiptv.club/douyu/431460
 #EXTINF:-1 tvg-id="" tvg-name="bestthings丶放假" group-title="其他频道",bestthings丶放假
 https://goodiptv.club/douyu/11752532
 #EXTINF:-1 tvg-id="" tvg-name="dw151295068" group-title="其他频道",dw151295068
@@ -568,6 +526,8 @@ https://goodiptv.club/douyu/12015111
 https://goodiptv.club/douyu/9630581
 #EXTINF:-1 tvg-id="" tvg-name="gslaini" group-title="其他频道",gslaini
 https://goodiptv.club/douyu/6997954
+#EXTINF:-1 tvg-id="" tvg-name="koanluowei" group-title="其他频道",koanluowei
+https://goodiptv.club/douyu/10906963
 #EXTINF:-1 tvg-id="" tvg-name="ljgdy" group-title="其他频道",ljgdy
 https://goodiptv.club/douyu/1600769
 #EXTINF:-1 tvg-id="" tvg-name="low君热剧" group-title="其他频道",low君热剧
@@ -582,8 +542,6 @@ https://goodiptv.club/douyu/8849954
 https://goodiptv.club/douyu/9564766
 #EXTINF:-1 tvg-id="" tvg-name="shhher" group-title="其他频道",shhher
 https://goodiptv.club/douyu/8733680
-#EXTINF:-1 tvg-id="" tvg-name="sweet夏有甜" group-title="其他频道",sweet夏有甜
-https://goodiptv.club/douyu/4808115
 #EXTINF:-1 tvg-id="" tvg-name="xiaoxiao1004" group-title="其他频道",xiaoxiao1004
 https://goodiptv.club/douyu/2569874
 #EXTINF:-1 tvg-id="" tvg-name="一个机智张张" group-title="其他频道",一个机智张张
@@ -618,12 +576,8 @@ https://goodiptv.club/douyu/9629717
 https://goodiptv.club/douyu/12253936
 #EXTINF:-1 tvg-id="" tvg-name="三斤呦" group-title="其他频道",三斤呦
 https://goodiptv.club/douyu/9047933
-#EXTINF:-1 tvg-id="" tvg-name="三新动漫" group-title="其他频道",三新动漫
-https://goodiptv.club/douyu/9548279
 #EXTINF:-1 tvg-id="" tvg-name="上来先丢大v" group-title="其他频道",上来先丢大v
 https://goodiptv.club/douyu/9566154
-#EXTINF:-1 tvg-id="" tvg-name="不二真探" group-title="其他频道",不二真探
-https://goodiptv.club/douyu/10319545
 #EXTINF:-1 tvg-id="" tvg-name="不会骑马的健身少年" group-title="其他频道",不会骑马的健身少年
 https://goodiptv.club/douyu/8862198
 #EXTINF:-1 tvg-id="" tvg-name="不思异剧场" group-title="其他频道",不思异剧场
@@ -634,18 +588,10 @@ https://goodiptv.club/douyu/9369468
 https://goodiptv.club/douyu/9406359
 #EXTINF:-1 tvg-id="" tvg-name="丛林工程师" group-title="其他频道",丛林工程师
 https://goodiptv.club/douyu/9804149
-#EXTINF:-1 tvg-id="" tvg-name="中二大帝妮可姬" group-title="其他频道",中二大帝妮可姬
-https://goodiptv.club/douyu/9612400
 #EXTINF:-1 tvg-id="" tvg-name="中二的枫哲酱" group-title="其他频道",中二的枫哲酱
 https://goodiptv.club/douyu/9541849
-#EXTINF:-1 tvg-id="" tvg-name="丶最紧要好玩" group-title="其他频道",丶最紧要好玩
-https://goodiptv.club/douyu/6361974
-#EXTINF:-1 tvg-id="" tvg-name="丶清风浊酒丶" group-title="其他频道",丶清风浊酒丶
-https://goodiptv.club/douyu/5918434
 #EXTINF:-1 tvg-id="" tvg-name="主播拍个肚皮" group-title="其他频道",主播拍个肚皮
 https://goodiptv.club/douyu/9387499
-#EXTINF:-1 tvg-id="" tvg-name="久远丶酱" group-title="其他频道",久远丶酱
-https://goodiptv.club/douyu/9046649
 #EXTINF:-1 tvg-id="" tvg-name="乌拉吖有剧" group-title="其他频道",乌拉吖有剧
 https://goodiptv.club/douyu/10075154
 #EXTINF:-1 tvg-id="" tvg-name="乐儿丶Ler" group-title="其他频道",乐儿丶Ler
@@ -656,8 +602,6 @@ https://goodiptv.club/douyu/8669085
 https://goodiptv.club/douyu/9393501
 #EXTINF:-1 tvg-id="" tvg-name="乡村水龙" group-title="其他频道",乡村水龙
 https://goodiptv.club/douyu/9486905
-#EXTINF:-1 tvg-id="" tvg-name="乡间大路上" group-title="其他频道",乡间大路上
-https://goodiptv.club/douyu/9850661
 #EXTINF:-1 tvg-id="" tvg-name="书岳钓鱼" group-title="其他频道",书岳钓鱼
 https://goodiptv.club/douyu/10100206
 #EXTINF:-1 tvg-id="" tvg-name="二次元fans鹿鹿" group-title="其他频道",二次元fans鹿鹿
@@ -674,24 +618,12 @@ https://goodiptv.club/douyu/9409722
 https://goodiptv.club/douyu/8892864
 #EXTINF:-1 tvg-id="" tvg-name="仓鼠大逃亡" group-title="其他频道",仓鼠大逃亡
 https://goodiptv.club/douyu/10354920
-#EXTINF:-1 tvg-id="" tvg-name="伊太刀刀" group-title="其他频道",伊太刀刀
-https://goodiptv.club/douyu/747764
 #EXTINF:-1 tvg-id="" tvg-name="伊西wind" group-title="其他频道",伊西wind
 https://goodiptv.club/douyu/12641373
-#EXTINF:-1 tvg-id="" tvg-name="你挺能闹nc" group-title="其他频道",你挺能闹nc
-https://goodiptv.club/douyu/9177914
-#EXTINF:-1 tvg-id="" tvg-name="你的瑜伽女孩" group-title="其他频道",你的瑜伽女孩
-https://goodiptv.club/douyu/10205199
 #EXTINF:-1 tvg-id="" tvg-name="你真像个小丑" group-title="其他频道",你真像个小丑
 https://goodiptv.club/douyu/10730187
-#EXTINF:-1 tvg-id="" tvg-name="你顶亲亲的前女友" group-title="其他频道",你顶亲亲的前女友
-https://goodiptv.club/douyu/8896746
 #EXTINF:-1 tvg-id="" tvg-name="俩个麻瓜" group-title="其他频道",俩个麻瓜
 https://goodiptv.club/douyu/10121755
-#EXTINF:-1 tvg-id="" tvg-name="倓张TanZ" group-title="其他频道",倓张TanZ
-https://goodiptv.club/douyu/9687221
-#EXTINF:-1 tvg-id="" tvg-name="傲娇一喵喵" group-title="其他频道",傲娇一喵喵
-https://goodiptv.club/douyu/9392610
 #EXTINF:-1 tvg-id="" tvg-name="傲娇的超级赛亚人" group-title="其他频道",傲娇的超级赛亚人
 https://goodiptv.club/douyu/4373285
 #EXTINF:-1 tvg-id="" tvg-name="兔兔MC维辰软桃团" group-title="其他频道",兔兔MC维辰软桃团
@@ -700,12 +632,6 @@ https://goodiptv.club/douyu/8266799
 https://goodiptv.club/douyu/9272043
 #EXTINF:-1 tvg-id="" tvg-name="关云猖" group-title="其他频道",关云猖
 https://goodiptv.club/douyu/8820996
-#EXTINF:-1 tvg-id="" tvg-name="养狗的一浩" group-title="其他频道",养狗的一浩
-https://goodiptv.club/douyu/9478842
-#EXTINF:-1 tvg-id="" tvg-name="内蒙卡秋" group-title="其他频道",内蒙卡秋
-https://goodiptv.club/douyu/9067858
-#EXTINF:-1 tvg-id="" tvg-name="内蒙古欢乐驿站" group-title="其他频道",内蒙古欢乐驿站
-https://goodiptv.club/douyu/9365077
 #EXTINF:-1 tvg-id="" tvg-name="农村一级野钓大师" group-title="其他频道",农村一级野钓大师
 https://goodiptv.club/douyu/9433591
 #EXTINF:-1 tvg-id="" tvg-name="农村幺妹儿" group-title="其他频道",农村幺妹儿
@@ -720,28 +646,20 @@ https://goodiptv.club/douyu/3505453
 https://goodiptv.club/douyu/9527761
 #EXTINF:-1 tvg-id="" tvg-name="几号房间" group-title="其他频道",几号房间
 https://goodiptv.club/douyu/8829425
-#EXTINF:-1 tvg-id="" tvg-name="凤起青云" group-title="其他频道",凤起青云
-https://goodiptv.club/douyu/749124
 #EXTINF:-1 tvg-id="" tvg-name="刀刀de食堂" group-title="其他频道",刀刀de食堂
 https://goodiptv.club/douyu/6733133
 #EXTINF:-1 tvg-id="" tvg-name="分享备用" group-title="其他频道",分享备用
 https://goodiptv.club/douyu/5804577
 #EXTINF:-1 tvg-id="" tvg-name="刘也变z" group-title="其他频道",刘也变z
 https://goodiptv.club/douyu/9489079
-#EXTINF:-1 tvg-id="" tvg-name="刘少丶7012" group-title="其他频道",刘少丶7012
-https://goodiptv.club/douyu/131977
 #EXTINF:-1 tvg-id="" tvg-name="刘松毅" group-title="其他频道",刘松毅
 https://goodiptv.club/douyu/12128227
 #EXTINF:-1 tvg-id="" tvg-name="创艺微视觉" group-title="其他频道",创艺微视觉
 https://goodiptv.club/douyu/12619211
 #EXTINF:-1 tvg-id="" tvg-name="利利川" group-title="其他频道",利利川
 https://goodiptv.club/douyu/9329249
-#EXTINF:-1 tvg-id="" tvg-name="别闹了美越" group-title="其他频道",别闹了美越
-https://goodiptv.club/douyu/9548244
 #EXTINF:-1 tvg-id="" tvg-name="到远方旅行" group-title="其他频道",到远方旅行
 https://goodiptv.club/douyu/9614588
-#EXTINF:-1 tvg-id="" tvg-name="制造show" group-title="其他频道",制造show
-https://goodiptv.club/douyu/9550226
 #EXTINF:-1 tvg-id="" tvg-name="剧燃有趣" group-title="其他频道",剧燃有趣
 https://goodiptv.club/douyu/10329702
 #EXTINF:-1 tvg-id="" tvg-name="剧能下饭鹰" group-title="其他频道",剧能下饭鹰
@@ -752,8 +670,6 @@ https://goodiptv.club/douyu/1739752
 https://goodiptv.club/douyu/9169624
 #EXTINF:-1 tvg-id="" tvg-name="动漫推荐i" group-title="其他频道",动漫推荐i
 https://goodiptv.club/douyu/5187099
-#EXTINF:-1 tvg-id="" tvg-name="动物启示录" group-title="其他频道",动物启示录
-https://goodiptv.club/douyu/9443129
 #EXTINF:-1 tvg-id="" tvg-name="助眠师海宝宝" group-title="其他频道",助眠师海宝宝
 https://goodiptv.club/douyu/1103328
 #EXTINF:-1 tvg-id="" tvg-name="励志少年派" group-title="其他频道",励志少年派
@@ -772,8 +688,6 @@ https://goodiptv.club/douyu/9484187
 https://goodiptv.club/douyu/7481383
 #EXTINF:-1 tvg-id="" tvg-name="半藏同学" group-title="其他频道",半藏同学
 https://goodiptv.club/douyu/9372627
-#EXTINF:-1 tvg-id="" tvg-name="华白雨" group-title="其他频道",华白雨
-https://goodiptv.club/douyu/9495454
 #EXTINF:-1 tvg-id="" tvg-name="单纯的顺才少爷" group-title="其他频道",单纯的顺才少爷
 https://goodiptv.club/douyu/10084875
 #EXTINF:-1 tvg-id="" tvg-name="卖女孩滴小姑凉" group-title="其他频道",卖女孩滴小姑凉
@@ -782,8 +696,6 @@ https://goodiptv.club/douyu/922564
 https://goodiptv.club/douyu/5982597
 #EXTINF:-1 tvg-id="" tvg-name="南国小豆豆" group-title="其他频道",南国小豆豆
 https://goodiptv.club/douyu/3310454
-#EXTINF:-1 tvg-id="" tvg-name="卡密密尼" group-title="其他频道",卡密密尼
-https://goodiptv.club/douyu/9013989
 #EXTINF:-1 tvg-id="" tvg-name="卡皮君本人" group-title="其他频道",卡皮君本人
 https://goodiptv.club/douyu/9050486
 #EXTINF:-1 tvg-id="" tvg-name="卿离倾心" group-title="其他频道",卿离倾心
@@ -806,8 +718,6 @@ https://goodiptv.club/douyu/10078171
 https://goodiptv.club/douyu/9644669
 #EXTINF:-1 tvg-id="" tvg-name="叶墨的百妖馆" group-title="其他频道",叶墨的百妖馆
 https://goodiptv.club/douyu/9517351
-#EXTINF:-1 tvg-id="" tvg-name="吃草莓的果子狸V" group-title="其他频道",吃草莓的果子狸V
-https://goodiptv.club/douyu/9382395
 #EXTINF:-1 tvg-id="" tvg-name="吃鸡小表弟" group-title="其他频道",吃鸡小表弟
 https://goodiptv.club/douyu/9370197
 #EXTINF:-1 tvg-id="" tvg-name="同学请坐吧" group-title="其他频道",同学请坐吧
@@ -832,14 +742,10 @@ https://goodiptv.club/douyu/9631914
 https://goodiptv.club/douyu/8912150
 #EXTINF:-1 tvg-id="" tvg-name="周扒片" group-title="其他频道",周扒片
 https://goodiptv.club/douyu/6434857
-#EXTINF:-1 tvg-id="" tvg-name="周星驰的直播间" group-title="其他频道",周星驰的直播间
-https://goodiptv.club/douyu/8257039
 #EXTINF:-1 tvg-id="" tvg-name="周杰伦颜老师" group-title="其他频道",周杰伦颜老师
 https://goodiptv.club/douyu/7537296
 #EXTINF:-1 tvg-id="" tvg-name="周队长captain" group-title="其他频道",周队长captain
 https://goodiptv.club/douyu/9023539
-#EXTINF:-1 tvg-id="" tvg-name="咆哮丶土拨鼠" group-title="其他频道",咆哮丶土拨鼠
-https://goodiptv.club/douyu/9564230
 #EXTINF:-1 tvg-id="" tvg-name="和猫住丶" group-title="其他频道",和猫住丶
 https://goodiptv.club/douyu/850030
 #EXTINF:-1 tvg-id="" tvg-name="咕噜咕噜剧" group-title="其他频道",咕噜咕噜剧
@@ -862,12 +768,8 @@ https://goodiptv.club/douyu/9619048
 https://goodiptv.club/douyu/11179077
 #EXTINF:-1 tvg-id="" tvg-name="喵招诗雨" group-title="其他频道",喵招诗雨
 https://goodiptv.club/douyu/9651121
-#EXTINF:-1 tvg-id="" tvg-name="喵来啦V" group-title="其他频道",喵来啦V
-https://goodiptv.club/douyu/8657669
 #EXTINF:-1 tvg-id="" tvg-name="嘴巴鼻子没有沟" group-title="其他频道",嘴巴鼻子没有沟
 https://goodiptv.club/douyu/10217984
-#EXTINF:-1 tvg-id="" tvg-name="国士无双人物传奇" group-title="其他频道",国士无双人物传奇
-https://goodiptv.club/douyu/9544555
 #EXTINF:-1 tvg-id="" tvg-name="国际吸猫协会" group-title="其他频道",国际吸猫协会
 https://goodiptv.club/douyu/8657834
 #EXTINF:-1 tvg-id="" tvg-name="圈踢动漫" group-title="其他频道",圈踢动漫
@@ -880,8 +782,6 @@ https://goodiptv.club/douyu/5354713
 https://goodiptv.club/douyu/297689
 #EXTINF:-1 tvg-id="" tvg-name="壹丨哥" group-title="其他频道",壹丨哥
 https://goodiptv.club/douyu/5692901
-#EXTINF:-1 tvg-id="" tvg-name="夏利俊EWE路亚" group-title="其他频道",夏利俊EWE路亚
-https://goodiptv.club/douyu/9974427
 #EXTINF:-1 tvg-id="" tvg-name="夏夜柚子树" group-title="其他频道",夏夜柚子树
 https://goodiptv.club/douyu/9606419
 #EXTINF:-1 tvg-id="" tvg-name="夏日幻听MCE" group-title="其他频道",夏日幻听MCE
@@ -894,12 +794,6 @@ https://goodiptv.club/douyu/9450568
 https://goodiptv.club/douyu/7256376
 #EXTINF:-1 tvg-id="" tvg-name="多多其木格" group-title="其他频道",多多其木格
 https://goodiptv.club/douyu/9075374
-#EXTINF:-1 tvg-id="" tvg-name="多巴安工作室" group-title="其他频道",多巴安工作室
-https://goodiptv.club/douyu/9446799
-#EXTINF:-1 tvg-id="" tvg-name="夜与白鲸V" group-title="其他频道",夜与白鲸V
-https://goodiptv.club/douyu/9734515
-#EXTINF:-1 tvg-id="" tvg-name="大力学姐" group-title="其他频道",大力学姐
-https://goodiptv.club/douyu/8784719
 #EXTINF:-1 tvg-id="" tvg-name="大坑侦探社" group-title="其他频道",大坑侦探社
 https://goodiptv.club/douyu/9440339
 #EXTINF:-1 tvg-id="" tvg-name="大帅比陈雅楠" group-title="其他频道",大帅比陈雅楠
@@ -908,8 +802,6 @@ https://goodiptv.club/douyu/9718700
 https://goodiptv.club/douyu/9477316
 #EXTINF:-1 tvg-id="" tvg-name="大汁猪" group-title="其他频道",大汁猪
 https://goodiptv.club/douyu/9191071
-#EXTINF:-1 tvg-id="" tvg-name="大河庄一世繁华" group-title="其他频道",大河庄一世繁华
-https://goodiptv.club/douyu/9501548
 #EXTINF:-1 tvg-id="" tvg-name="大漠叔叔Dm" group-title="其他频道",大漠叔叔Dm
 https://goodiptv.club/douyu/1109218
 #EXTINF:-1 tvg-id="" tvg-name="大熊观影" group-title="其他频道",大熊观影
@@ -922,28 +814,18 @@ https://goodiptv.club/douyu/10329300
 https://goodiptv.club/douyu/8792763
 #EXTINF:-1 tvg-id="" tvg-name="大蓝雀" group-title="其他频道",大蓝雀
 https://goodiptv.club/douyu/8656759
-#EXTINF:-1 tvg-id="" tvg-name="天JIANG" group-title="其他频道",天JIANG
-https://goodiptv.club/douyu/9455480
 #EXTINF:-1 tvg-id="" tvg-name="天才大熊猫啊" group-title="其他频道",天才大熊猫啊
 https://goodiptv.club/douyu/10646699
 #EXTINF:-1 tvg-id="" tvg-name="天才简史" group-title="其他频道",天才简史
 https://goodiptv.club/douyu/8662915
 #EXTINF:-1 tvg-id="" tvg-name="天才霸总的狐崽崽" group-title="其他频道",天才霸总的狐崽崽
 https://goodiptv.club/douyu/10394922
-#EXTINF:-1 tvg-id="" tvg-name="奇光主播" group-title="其他频道",奇光主播
-https://goodiptv.club/douyu/8009547
 #EXTINF:-1 tvg-id="" tvg-name="奇光主播R" group-title="其他频道",奇光主播R
 https://goodiptv.club/douyu/12080172
-#EXTINF:-1 tvg-id="" tvg-name="奇光主播e" group-title="其他频道",奇光主播e
-https://goodiptv.club/douyu/11849873
-#EXTINF:-1 tvg-id="" tvg-name="奇光主播q" group-title="其他频道",奇光主播q
-https://goodiptv.club/douyu/12560807
 #EXTINF:-1 tvg-id="" tvg-name="奇兮兮悄陌" group-title="其他频道",奇兮兮悄陌
 https://goodiptv.club/douyu/953193
 #EXTINF:-1 tvg-id="" tvg-name="奇妙博物馆" group-title="其他频道",奇妙博物馆
 https://goodiptv.club/douyu/9409723
-#EXTINF:-1 tvg-id="" tvg-name="奇趣研究" group-title="其他频道",奇趣研究
-https://goodiptv.club/douyu/8661456
 #EXTINF:-1 tvg-id="" tvg-name="奥雷卡尔克斯" group-title="其他频道",奥雷卡尔克斯
 https://goodiptv.club/douyu/1224356
 #EXTINF:-1 tvg-id="" tvg-name="女团社颜老师" group-title="其他频道",女团社颜老师
@@ -958,8 +840,6 @@ https://goodiptv.club/douyu/9624581
 https://goodiptv.club/douyu/9564845
 #EXTINF:-1 tvg-id="" tvg-name="婧公子" group-title="其他频道",婧公子
 https://goodiptv.club/douyu/9464182
-#EXTINF:-1 tvg-id="" tvg-name="孙毛毛Suny" group-title="其他频道",孙毛毛Suny
-https://goodiptv.club/douyu/9424103
 #EXTINF:-1 tvg-id="" tvg-name="学徒郭昱麟" group-title="其他频道",学徒郭昱麟
 https://goodiptv.club/douyu/8871095
 #EXTINF:-1 tvg-id="" tvg-name="宇宙探索飞船" group-title="其他频道",宇宙探索飞船
@@ -974,8 +854,6 @@ https://goodiptv.club/douyu/11283504
 https://goodiptv.club/douyu/9388783
 #EXTINF:-1 tvg-id="" tvg-name="宋小宝小品" group-title="其他频道",宋小宝小品
 https://goodiptv.club/douyu/9817729
-#EXTINF:-1 tvg-id="" tvg-name="宝蓝和朋友们" group-title="其他频道",宝蓝和朋友们
-https://goodiptv.club/douyu/9283356
 #EXTINF:-1 tvg-id="" tvg-name="尉迟杰影评" group-title="其他频道",尉迟杰影评
 https://goodiptv.club/douyu/8850682
 #EXTINF:-1 tvg-id="" tvg-name="小三笠笠酱" group-title="其他频道",小三笠笠酱
@@ -986,34 +864,20 @@ https://goodiptv.club/douyu/9734042
 https://goodiptv.club/douyu/11490031
 #EXTINF:-1 tvg-id="" tvg-name="小刚学长o" group-title="其他频道",小刚学长o
 https://goodiptv.club/douyu/9701497
-#EXTINF:-1 tvg-id="" tvg-name="小太V" group-title="其他频道",小太V
-https://goodiptv.club/douyu/9606954
 #EXTINF:-1 tvg-id="" tvg-name="小姐姐Bie跑哦" group-title="其他频道",小姐姐Bie跑哦
 https://goodiptv.club/douyu/8666258
-#EXTINF:-1 tvg-id="" tvg-name="小姐姐不记得" group-title="其他频道",小姐姐不记得
-https://goodiptv.club/douyu/3700024
 #EXTINF:-1 tvg-id="" tvg-name="小小天才搞笑视频" group-title="其他频道",小小天才搞笑视频
 https://goodiptv.club/douyu/9419678
 #EXTINF:-1 tvg-id="" tvg-name="小小甜的骑士" group-title="其他频道",小小甜的骑士
 https://goodiptv.club/douyu/9236042
-#EXTINF:-1 tvg-id="" tvg-name="小小鹿老师" group-title="其他频道",小小鹿老师
-https://goodiptv.club/douyu/9442889
 #EXTINF:-1 tvg-id="" tvg-name="小手枪Newhandgun" group-title="其他频道",小手枪Newhandgun
 https://goodiptv.club/douyu/8943060
 #EXTINF:-1 tvg-id="" tvg-name="小明不背锅up" group-title="其他频道",小明不背锅up
 https://goodiptv.club/douyu/117854
-#EXTINF:-1 tvg-id="" tvg-name="小木鱼de妈妈" group-title="其他频道",小木鱼de妈妈
-https://goodiptv.club/douyu/11199147
 #EXTINF:-1 tvg-id="" tvg-name="小林家的旗女仆" group-title="其他频道",小林家的旗女仆
 https://goodiptv.club/douyu/9211287
-#EXTINF:-1 tvg-id="" tvg-name="小毅主播A" group-title="其他频道",小毅主播A
-https://goodiptv.club/douyu/12780285
 #EXTINF:-1 tvg-id="" tvg-name="小毅主播R" group-title="其他频道",小毅主播R
 https://goodiptv.club/douyu/12805939
-#EXTINF:-1 tvg-id="" tvg-name="小毅主播e" group-title="其他频道",小毅主播e
-https://goodiptv.club/douyu/11851549
-#EXTINF:-1 tvg-id="" tvg-name="小毅主播q" group-title="其他频道",小毅主播q
-https://goodiptv.club/douyu/6906628
 #EXTINF:-1 tvg-id="" tvg-name="小猪优版剧院" group-title="其他频道",小猪优版剧院
 https://goodiptv.club/douyu/10297898
 #EXTINF:-1 tvg-id="" tvg-name="小猪搞笑精选" group-title="其他频道",小猪搞笑精选
@@ -1024,8 +888,6 @@ https://goodiptv.club/douyu/1492444
 https://goodiptv.club/douyu/9738854
 #EXTINF:-1 tvg-id="" tvg-name="小羊放映室" group-title="其他频道",小羊放映室
 https://goodiptv.club/douyu/9433806
-#EXTINF:-1 tvg-id="" tvg-name="小艾大叔" group-title="其他频道",小艾大叔
-https://goodiptv.club/douyu/9314668
 #EXTINF:-1 tvg-id="" tvg-name="小铁房乐队" group-title="其他频道",小铁房乐队
 https://goodiptv.club/douyu/9624976
 #EXTINF:-1 tvg-id="" tvg-name="小青放映社" group-title="其他频道",小青放映社
@@ -1034,8 +896,6 @@ https://goodiptv.club/douyu/9314689
 https://goodiptv.club/douyu/9028721
 #EXTINF:-1 tvg-id="" tvg-name="小鸭子老师" group-title="其他频道",小鸭子老师
 https://goodiptv.club/douyu/9627625
-#EXTINF:-1 tvg-id="" tvg-name="小鹏漫剪" group-title="其他频道",小鹏漫剪
-https://goodiptv.club/douyu/9476810
 #EXTINF:-1 tvg-id="" tvg-name="小黑豹子啊" group-title="其他频道",小黑豹子啊
 https://goodiptv.club/douyu/9458184
 #EXTINF:-1 tvg-id="" tvg-name="少女娜娜酱" group-title="其他频道",少女娜娜酱
@@ -1062,16 +922,12 @@ https://goodiptv.club/douyu/10329889
 https://goodiptv.club/douyu/9409703
 #EXTINF:-1 tvg-id="" tvg-name="崔杋圭五颜一" group-title="其他频道",崔杋圭五颜一
 https://goodiptv.club/douyu/8189873
-#EXTINF:-1 tvg-id="" tvg-name="崔然竣舞台天才" group-title="其他频道",崔然竣舞台天才
-https://goodiptv.club/douyu/113158
 #EXTINF:-1 tvg-id="" tvg-name="巅峰球迷会" group-title="其他频道",巅峰球迷会
 https://goodiptv.club/douyu/10417360
 #EXTINF:-1 tvg-id="" tvg-name="工藤新医heart" group-title="其他频道",工藤新医heart
 https://goodiptv.club/douyu/8741860
 #EXTINF:-1 tvg-id="" tvg-name="巫妖王丶怀旧电视游戏" group-title="其他频道",巫妖王丶怀旧电视游戏
 https://goodiptv.club/douyu/1023277
-#EXTINF:-1 tvg-id="" tvg-name="师落" group-title="其他频道",师落
-https://goodiptv.club/douyu/6911044
 #EXTINF:-1 tvg-id="" tvg-name="庄尼兔拟音实验室" group-title="其他频道",庄尼兔拟音实验室
 https://goodiptv.club/douyu/9546169
 #EXTINF:-1 tvg-id="" tvg-name="庆皇龙利余" group-title="其他频道",庆皇龙利余
@@ -1118,14 +974,8 @@ https://goodiptv.club/douyu/9199976
 https://goodiptv.club/douyu/9145648
 #EXTINF:-1 tvg-id="" tvg-name="德井鱼" group-title="其他频道",德井鱼
 https://goodiptv.club/douyu/9184833
-#EXTINF:-1 tvg-id="" tvg-name="心叽酱" group-title="其他频道",心叽酱
-https://goodiptv.club/douyu/9488056
 #EXTINF:-1 tvg-id="" tvg-name="忆暄Ethan" group-title="其他频道",忆暄Ethan
 https://goodiptv.club/douyu/9570042
-#EXTINF:-1 tvg-id="" tvg-name="快乐的小波子" group-title="其他频道",快乐的小波子
-https://goodiptv.club/douyu/9039399
-#EXTINF:-1 tvg-id="" tvg-name="怠惰守夜" group-title="其他频道",怠惰守夜
-https://goodiptv.club/douyu/8842108
 #EXTINF:-1 tvg-id="" tvg-name="怡宝妹妹丶" group-title="其他频道",怡宝妹妹丶
 https://goodiptv.club/douyu/434971
 #EXTINF:-1 tvg-id="" tvg-name="怪事屋" group-title="其他频道",怪事屋
@@ -1138,14 +988,10 @@ https://goodiptv.club/douyu/7974136
 https://goodiptv.club/douyu/9401473
 #EXTINF:-1 tvg-id="" tvg-name="悬疑MOVIE" group-title="影视频道",悬疑MOVIE
 https://goodiptv.club/douyu/9601429
-#EXTINF:-1 tvg-id="" tvg-name="情感测试小分队" group-title="其他频道",情感测试小分队
-https://goodiptv.club/douyu/9697688
 #EXTINF:-1 tvg-id="" tvg-name="懂懂1234" group-title="其他频道",懂懂1234
 https://goodiptv.club/douyu/8729614
 #EXTINF:-1 tvg-id="" tvg-name="懒猫是只喵" group-title="其他频道",懒猫是只喵
 https://goodiptv.club/douyu/260322
-#EXTINF:-1 tvg-id="" tvg-name="戏晶SHOW" group-title="其他频道",戏晶SHOW
-https://goodiptv.club/douyu/9565130
 #EXTINF:-1 tvg-id="" tvg-name="成龙历险纪" group-title="其他频道",成龙历险纪
 https://goodiptv.club/douyu/2287949
 #EXTINF:-1 tvg-id="" tvg-name="我为奥迪上黄金" group-title="其他频道",我为奥迪上黄金
@@ -1154,10 +1000,6 @@ https://goodiptv.club/douyu/9336286
 https://goodiptv.club/douyu/329667
 #EXTINF:-1 tvg-id="" tvg-name="我叫孙火旺" group-title="其他频道",我叫孙火旺
 https://goodiptv.club/douyu/9770949
-#EXTINF:-1 tvg-id="" tvg-name="我叫萌迪迪V" group-title="其他频道",我叫萌迪迪V
-https://goodiptv.club/douyu/5354705
-#EXTINF:-1 tvg-id="" tvg-name="我是YOLO啊" group-title="其他频道",我是YOLO啊
-https://goodiptv.club/douyu/5077166
 #EXTINF:-1 tvg-id="" tvg-name="我是一只粽子啊啊" group-title="其他频道",我是一只粽子啊啊
 https://goodiptv.club/douyu/8867276
 #EXTINF:-1 tvg-id="" tvg-name="我是一只西瓜啊" group-title="其他频道",我是一只西瓜啊
@@ -1172,8 +1014,6 @@ https://goodiptv.club/douyu/9486020
 https://goodiptv.club/douyu/9501159
 #EXTINF:-1 tvg-id="" tvg-name="我砸晕了牛顿奥" group-title="其他频道",我砸晕了牛顿奥
 https://goodiptv.club/douyu/1218414
-#EXTINF:-1 tvg-id="" tvg-name="戒喵中心" group-title="其他频道",戒喵中心
-https://goodiptv.club/douyu/8658212
 #EXTINF:-1 tvg-id="" tvg-name="戴萌兔" group-title="其他频道",戴萌兔
 https://goodiptv.club/douyu/9522315
 #EXTINF:-1 tvg-id="" tvg-name="户外老曹" group-title="其他频道",户外老曹
@@ -1182,10 +1022,6 @@ https://goodiptv.club/douyu/9957389
 https://goodiptv.club/douyu/9649913
 #EXTINF:-1 tvg-id="" tvg-name="打工战士SWEET" group-title="其他频道",打工战士SWEET
 https://goodiptv.club/douyu/8795660
-#EXTINF:-1 tvg-id="" tvg-name="托尔兹桃花剑" group-title="其他频道",托尔兹桃花剑
-https://goodiptv.club/douyu/8896743
-#EXTINF:-1 tvg-id="" tvg-name="拳击大王" group-title="其他频道",拳击大王
-https://goodiptv.club/douyu/9385340
 #EXTINF:-1 tvg-id="" tvg-name="拳叔二次元" group-title="其他频道",拳叔二次元
 https://goodiptv.club/douyu/9484105
 #EXTINF:-1 tvg-id="" tvg-name="挖沟连彭沟长" group-title="其他频道",挖沟连彭沟长
@@ -1194,8 +1030,6 @@ https://goodiptv.club/douyu/8413092
 https://goodiptv.club/douyu/1770806
 #EXTINF:-1 tvg-id="" tvg-name="探奇录" group-title="其他频道",探奇录
 https://goodiptv.club/douyu/9746763
-#EXTINF:-1 tvg-id="" tvg-name="探秘者大正" group-title="其他频道",探秘者大正
-https://goodiptv.club/douyu/9330485
 #EXTINF:-1 tvg-id="" tvg-name="搞笑动漫大本营" group-title="其他频道",搞笑动漫大本营
 https://goodiptv.club/douyu/9650181
 #EXTINF:-1 tvg-id="" tvg-name="搞笑天堂岛" group-title="其他频道",搞笑天堂岛
@@ -1204,8 +1038,6 @@ https://goodiptv.club/douyu/6916081
 https://goodiptv.club/douyu/9766337
 #EXTINF:-1 tvg-id="" tvg-name="搞笑院长" group-title="其他频道",搞笑院长
 https://goodiptv.club/douyu/8829915
-#EXTINF:-1 tvg-id="" tvg-name="政宗君de情敌" group-title="其他频道",政宗君de情敌
-https://goodiptv.club/douyu/9624330
 #EXTINF:-1 tvg-id="" tvg-name="敢来碰我" group-title="其他频道",敢来碰我
 https://goodiptv.club/douyu/10308225
 #EXTINF:-1 tvg-id="" tvg-name="敬汉卿250" group-title="其他频道",敬汉卿250
@@ -1218,14 +1050,8 @@ https://goodiptv.club/douyu/10317257
 https://goodiptv.club/douyu/2680501
 #EXTINF:-1 tvg-id="" tvg-name="文西与阿漆" group-title="其他频道",文西与阿漆
 https://goodiptv.club/douyu/8737695
-#EXTINF:-1 tvg-id="" tvg-name="斗鱼恐怖游戏合集" group-title="其他频道",斗鱼恐怖游戏合集
-https://goodiptv.club/douyu/10401481
-#EXTINF:-1 tvg-id="" tvg-name="方攵日央木几" group-title="其他频道",方攵日央木几
-https://goodiptv.club/douyu/9942574
 #EXTINF:-1 tvg-id="" tvg-name="无才先生" group-title="其他频道",无才先生
 https://goodiptv.club/douyu/8317571
-#EXTINF:-1 tvg-id="" tvg-name="旧梦随人心" group-title="其他频道",旧梦随人心
-https://goodiptv.club/douyu/692533
 #EXTINF:-1 tvg-id="" tvg-name="旺仔大哥哥阿" group-title="其他频道",旺仔大哥哥阿
 https://goodiptv.club/douyu/9629361
 #EXTINF:-1 tvg-id="" tvg-name="昆仑决KLF" group-title="其他频道",昆仑决KLF
@@ -1236,16 +1062,8 @@ https://goodiptv.club/douyu/7919720
 https://goodiptv.club/douyu/8635497
 #EXTINF:-1 tvg-id="" tvg-name="是chshh" group-title="其他频道",是chshh
 https://goodiptv.club/douyu/9570579
-#EXTINF:-1 tvg-id="" tvg-name="是不是Pro" group-title="其他频道",是不是Pro
-https://goodiptv.club/douyu/9475113
 #EXTINF:-1 tvg-id="" tvg-name="是个小可爱iiii" group-title="其他频道",是个小可爱iiii
 https://goodiptv.club/douyu/9650782
-#EXTINF:-1 tvg-id="" tvg-name="是你的迷弟吖" group-title="其他频道",是你的迷弟吖
-https://goodiptv.club/douyu/7039598
-#EXTINF:-1 tvg-id="" tvg-name="是小x同学呀" group-title="其他频道",是小x同学呀
-https://goodiptv.club/douyu/9415020
-#EXTINF:-1 tvg-id="" tvg-name="是忆昔啊" group-title="其他频道",是忆昔啊
-https://goodiptv.club/douyu/9455518
 #EXTINF:-1 tvg-id="" tvg-name="是真的林虎LinHu" group-title="其他频道",是真的林虎LinHu
 https://goodiptv.club/douyu/9540113
 #EXTINF:-1 tvg-id="" tvg-name="是纯洁上校" group-title="其他频道",是纯洁上校
@@ -1280,12 +1098,8 @@ https://goodiptv.club/douyu/9741805
 https://goodiptv.club/douyu/9038894
 #EXTINF:-1 tvg-id="" tvg-name="李李李蚊香" group-title="其他频道",李李李蚊香
 https://goodiptv.club/douyu/4786399
-#EXTINF:-1 tvg-id="" tvg-name="村野趣事荟" group-title="其他频道",村野趣事荟
-https://goodiptv.club/douyu/5794474
 #EXTINF:-1 tvg-id="" tvg-name="来呀官人V" group-title="其他频道",来呀官人V
 https://goodiptv.club/douyu/9986305
-#EXTINF:-1 tvg-id="" tvg-name="杨山羊goat" group-title="其他频道",杨山羊goat
-https://goodiptv.club/douyu/6300365
 #EXTINF:-1 tvg-id="" tvg-name="杰克大魔王V" group-title="其他频道",杰克大魔王V
 https://goodiptv.club/douyu/9729740
 #EXTINF:-1 tvg-id="" tvg-name="林家渔妹" group-title="其他频道",林家渔妹
@@ -1302,16 +1116,12 @@ https://goodiptv.club/douyu/8896100
 https://goodiptv.club/douyu/9720895
 #EXTINF:-1 tvg-id="" tvg-name="柠檬檬檬儿vlog" group-title="其他频道",柠檬檬檬儿vlog
 https://goodiptv.club/douyu/9624845
-#EXTINF:-1 tvg-id="" tvg-name="柳青瑶本尊" group-title="其他频道",柳青瑶本尊
-https://goodiptv.club/douyu/2281324
 #EXTINF:-1 tvg-id="" tvg-name="树根龙门阵" group-title="其他频道",树根龙门阵
 https://goodiptv.club/douyu/1833459
 #EXTINF:-1 tvg-id="" tvg-name="桀骜不驯认识" group-title="其他频道",桀骜不驯认识
 https://goodiptv.club/douyu/2041014
 #EXTINF:-1 tvg-id="" tvg-name="桃红梨白专栏" group-title="其他频道",桃红梨白专栏
 https://goodiptv.club/douyu/9568196
-#EXTINF:-1 tvg-id="" tvg-name="梦夫人啊" group-title="其他频道",梦夫人啊
-https://goodiptv.club/douyu/9384527
 #EXTINF:-1 tvg-id="" tvg-name="梦觉教游泳" group-title="其他频道",梦觉教游泳
 https://goodiptv.club/douyu/4531679
 #EXTINF:-1 tvg-id="" tvg-name="植物椿de房间" group-title="其他频道",植物椿de房间
@@ -1320,8 +1130,6 @@ https://goodiptv.club/douyu/9771247
 https://goodiptv.club/douyu/6785471
 #EXTINF:-1 tvg-id="" tvg-name="橘癫疯Oswald" group-title="其他频道",橘癫疯Oswald
 https://goodiptv.club/douyu/8793544
-#EXTINF:-1 tvg-id="" tvg-name="橙记Orange丶" group-title="其他频道",橙记Orange丶
-https://goodiptv.club/douyu/4549169
 #EXTINF:-1 tvg-id="" tvg-name="正宗吔汁吔树牌" group-title="其他频道",正宗吔汁吔树牌
 https://goodiptv.club/douyu/10217953
 #EXTINF:-1 tvg-id="" tvg-name="正直的陈易" group-title="其他频道",正直的陈易
@@ -1330,34 +1138,20 @@ https://goodiptv.club/douyu/9365118
 https://goodiptv.club/douyu/9285904
 #EXTINF:-1 tvg-id="" tvg-name="民工小代" group-title="其他频道",民工小代
 https://goodiptv.club/douyu/9616619
-#EXTINF:-1 tvg-id="" tvg-name="民间高手show" group-title="其他频道",民间高手show
-https://goodiptv.club/douyu/10372765
 #EXTINF:-1 tvg-id="" tvg-name="永无叙V" group-title="其他频道",永无叙V
 https://goodiptv.club/douyu/9442980
 #EXTINF:-1 tvg-id="" tvg-name="永远快乐的小美女" group-title="其他频道",永远快乐的小美女
 https://goodiptv.club/douyu/6091425
-#EXTINF:-1 tvg-id="" tvg-name="求求扣扣困困" group-title="其他频道",求求扣扣困困
-https://goodiptv.club/douyu/8795274
-#EXTINF:-1 tvg-id="" tvg-name="沂沐啊" group-title="其他频道",沂沐啊
-https://goodiptv.club/douyu/9481137
 #EXTINF:-1 tvg-id="" tvg-name="沉郁观影" group-title="其他频道",沉郁观影
 https://goodiptv.club/douyu/9393577
 #EXTINF:-1 tvg-id="" tvg-name="没腿毛的哥哥" group-title="其他频道",没腿毛的哥哥
 https://goodiptv.club/douyu/9720447
-#EXTINF:-1 tvg-id="" tvg-name="沫子瞪片" group-title="其他频道",沫子瞪片
-https://goodiptv.club/douyu/8783035
-#EXTINF:-1 tvg-id="" tvg-name="油兔不二字幕组" group-title="其他频道",油兔不二字幕组
-https://goodiptv.club/douyu/8850453
-#EXTINF:-1 tvg-id="" tvg-name="泽静" group-title="其他频道",泽静
-https://goodiptv.club/douyu/9055742
 #EXTINF:-1 tvg-id="" tvg-name="洋房姐姐" group-title="其他频道",洋房姐姐
 https://goodiptv.club/douyu/9172774
 #EXTINF:-1 tvg-id="" tvg-name="洛飕飕" group-title="其他频道",洛飕飕
 https://goodiptv.club/douyu/9543361
 #EXTINF:-1 tvg-id="" tvg-name="流小豆" group-title="其他频道",流小豆
 https://goodiptv.club/douyu/2441228
-#EXTINF:-1 tvg-id="" tvg-name="流心影者" group-title="其他频道",流心影者
-https://goodiptv.club/douyu/9447717
 #EXTINF:-1 tvg-id="" tvg-name="流浪吧王温暖" group-title="其他频道",流浪吧王温暖
 https://goodiptv.club/douyu/655973
 #EXTINF:-1 tvg-id="" tvg-name="海森堡事件录" group-title="其他频道",海森堡事件录
@@ -1380,8 +1174,6 @@ https://goodiptv.club/douyu/9091847
 https://goodiptv.club/douyu/1447771
 #EXTINF:-1 tvg-id="" tvg-name="渔民老海" group-title="其他频道",渔民老海
 https://goodiptv.club/douyu/9272327
-#EXTINF:-1 tvg-id="" tvg-name="渚岸汐潮233" group-title="其他频道",渚岸汐潮233
-https://goodiptv.club/douyu/9518082
 #EXTINF:-1 tvg-id="" tvg-name="游戏上Miss" group-title="其他频道",游戏上Miss
 https://goodiptv.club/douyu/1355801
 #EXTINF:-1 tvg-id="" tvg-name="游钓中国李大毛" group-title="其他频道",游钓中国李大毛
@@ -1394,14 +1186,10 @@ https://goodiptv.club/douyu/12091975
 https://goodiptv.club/douyu/8829706
 #EXTINF:-1 tvg-id="" tvg-name="满汉女神Yangqi" group-title="其他频道",满汉女神Yangqi
 https://goodiptv.club/douyu/9650246
-#EXTINF:-1 tvg-id="" tvg-name="漠漠fumiyo" group-title="其他频道",漠漠fumiyo
-https://goodiptv.club/douyu/8911070
 #EXTINF:-1 tvg-id="" tvg-name="漫威君" group-title="其他频道",漫威君
 https://goodiptv.club/douyu/1713615
 #EXTINF:-1 tvg-id="" tvg-name="潇湘公子L" group-title="其他频道",潇湘公子L
 https://goodiptv.club/douyu/9535657
-#EXTINF:-1 tvg-id="" tvg-name="潜伏sc" group-title="其他频道",潜伏sc
-https://goodiptv.club/douyu/9458345
 #EXTINF:-1 tvg-id="" tvg-name="火宗君丶" group-title="其他频道",火宗君丶
 https://goodiptv.club/douyu/9580477
 #EXTINF:-1 tvg-id="" tvg-name="火柴人HyunsDojo" group-title="其他频道",火柴人HyunsDojo
@@ -1410,10 +1198,6 @@ https://goodiptv.club/douyu/9430394
 https://goodiptv.club/douyu/8405922
 #EXTINF:-1 tvg-id="" tvg-name="然续续" group-title="其他频道",然续续
 https://goodiptv.club/douyu/9609171
-#EXTINF:-1 tvg-id="" tvg-name="爆笑行为大赏" group-title="其他频道",爆笑行为大赏
-https://goodiptv.club/douyu/10329767
-#EXTINF:-1 tvg-id="" tvg-name="爪子drumdoll" group-title="其他频道",爪子drumdoll
-https://goodiptv.club/douyu/6428730
 #EXTINF:-1 tvg-id="" tvg-name="爱唱跳Rap的胖虎" group-title="其他频道",爱唱跳Rap的胖虎
 https://goodiptv.club/douyu/5895598
 #EXTINF:-1 tvg-id="" tvg-name="爱好恐怖片的美男子" group-title="其他频道",爱好恐怖片的美男子
@@ -1430,6 +1214,8 @@ https://goodiptv.club/douyu/9576933
 https://goodiptv.club/douyu/5261342
 #EXTINF:-1 tvg-id="" tvg-name="犀利影评" group-title="其他频道",犀利影评
 https://goodiptv.club/douyu/9647845
+#EXTINF:-1 tvg-id="" tvg-name="狂拽酷炫" group-title="其他频道",狂拽酷炫
+https://goodiptv.club/douyu/4332
 #EXTINF:-1 tvg-id="" tvg-name="狂阿弥爷" group-title="其他频道",狂阿弥爷
 https://goodiptv.club/douyu/8975282
 #EXTINF:-1 tvg-id="" tvg-name="狄胖胖与李乖乖" group-title="其他频道",狄胖胖与李乖乖
@@ -1460,8 +1246,6 @@ https://goodiptv.club/douyu/9583975
 https://goodiptv.club/douyu/9430799
 #EXTINF:-1 tvg-id="" tvg-name="理娱打挺疼" group-title="其他频道",理娱打挺疼
 https://goodiptv.club/douyu/2925563
-#EXTINF:-1 tvg-id="" tvg-name="瑟克斯潘克斯" group-title="其他频道",瑟克斯潘克斯
-https://goodiptv.club/douyu/9370434
 #EXTINF:-1 tvg-id="" tvg-name="瓦岗寨主坑爹李" group-title="其他频道",瓦岗寨主坑爹李
 https://goodiptv.club/douyu/7661496
 #EXTINF:-1 tvg-id="" tvg-name="甜漫妮666" group-title="其他频道",甜漫妮666
@@ -1486,12 +1270,8 @@ https://goodiptv.club/douyu/9072066
 https://goodiptv.club/douyu/5522351
 #EXTINF:-1 tvg-id="" tvg-name="疯狂尛潴潴" group-title="其他频道",疯狂尛潴潴
 https://goodiptv.club/douyu/4290711
-#EXTINF:-1 tvg-id="" tvg-name="白了个痴" group-title="其他频道",白了个痴
-https://goodiptv.club/douyu/319576
 #EXTINF:-1 tvg-id="" tvg-name="白燥No1" group-title="其他频道",白燥No1
 https://goodiptv.club/douyu/280064
-#EXTINF:-1 tvg-id="" tvg-name="白鱼Sakana" group-title="其他频道",白鱼Sakana
-https://goodiptv.club/douyu/9611771
 #EXTINF:-1 tvg-id="" tvg-name="百万巨星麒麟君" group-title="其他频道",百万巨星麒麟君
 https://goodiptv.club/douyu/3431701
 #EXTINF:-1 tvg-id="" tvg-name="百态人间大赏" group-title="其他频道",百态人间大赏
@@ -1512,8 +1292,6 @@ https://goodiptv.club/douyu/9412981
 https://goodiptv.club/douyu/9575293
 #EXTINF:-1 tvg-id="" tvg-name="神奇的大智" group-title="其他频道",神奇的大智
 https://goodiptv.club/douyu/9650047
-#EXTINF:-1 tvg-id="" tvg-name="神奇的老皮AmazingLP" group-title="其他频道",神奇的老皮AmazingLP
-https://goodiptv.club/douyu/8891285
 #EXTINF:-1 tvg-id="" tvg-name="神烦xp" group-title="其他频道",神烦xp
 https://goodiptv.club/douyu/8286679
 #EXTINF:-1 tvg-id="" tvg-name="神迹小霸霸" group-title="其他频道",神迹小霸霸
@@ -1534,8 +1312,6 @@ https://goodiptv.club/douyu/9191358
 https://goodiptv.club/douyu/9602107
 #EXTINF:-1 tvg-id="" tvg-name="竹儿公公" group-title="其他频道",竹儿公公
 https://goodiptv.club/douyu/8807568
-#EXTINF:-1 tvg-id="" tvg-name="竹公子有礼了" group-title="其他频道",竹公子有礼了
-https://goodiptv.club/douyu/8887432
 #EXTINF:-1 tvg-id="" tvg-name="竹内亮导演" group-title="其他频道",竹内亮导演
 https://goodiptv.club/douyu/8933612
 #EXTINF:-1 tvg-id="" tvg-name="竹叶的熊猫" group-title="其他频道",竹叶的熊猫
@@ -1544,8 +1320,6 @@ https://goodiptv.club/douyu/3870925
 https://goodiptv.club/douyu/9535757
 #EXTINF:-1 tvg-id="" tvg-name="笑笑笑团长" group-title="其他频道",笑笑笑团长
 https://goodiptv.club/douyu/10329368
-#EXTINF:-1 tvg-id="" tvg-name="管哥视频" group-title="其他频道",管哥视频
-https://goodiptv.club/douyu/10181584
 #EXTINF:-1 tvg-id="" tvg-name="箩卜君" group-title="其他频道",箩卜君
 https://goodiptv.club/douyu/7495810
 #EXTINF:-1 tvg-id="" tvg-name="篮球之家老李" group-title="其他频道",篮球之家老李
@@ -1566,8 +1340,6 @@ https://goodiptv.club/douyu/9445279
 https://goodiptv.club/douyu/8764282
 #EXTINF:-1 tvg-id="" tvg-name="粤知一二" group-title="其他频道",粤知一二
 https://goodiptv.club/douyu/2940299
-#EXTINF:-1 tvg-id="" tvg-name="粽子酱v" group-title="其他频道",粽子酱v
-https://goodiptv.club/douyu/9390685
 #EXTINF:-1 tvg-id="" tvg-name="繁星之所在" group-title="其他频道",繁星之所在
 https://goodiptv.club/douyu/6033135
 #EXTINF:-1 tvg-id="" tvg-name="纪录片之家字幕组" group-title="其他频道",纪录片之家字幕组
@@ -1590,8 +1362,6 @@ https://goodiptv.club/douyu/2174405
 https://goodiptv.club/douyu/508118
 #EXTINF:-1 tvg-id="" tvg-name="罗休休休" group-title="其他频道",罗休休休
 https://goodiptv.club/douyu/9403178
-#EXTINF:-1 tvg-id="" tvg-name="罗先生699" group-title="其他频道",罗先生699
-https://goodiptv.club/douyu/12065805
 #EXTINF:-1 tvg-id="" tvg-name="羊小川" group-title="其他频道",羊小川
 https://goodiptv.club/douyu/11081842
 #EXTINF:-1 tvg-id="" tvg-name="美人而已" group-title="其他频道",美人而已
@@ -1600,8 +1370,6 @@ https://goodiptv.club/douyu/5138817
 https://goodiptv.club/douyu/9533226
 #EXTINF:-1 tvg-id="" tvg-name="羽翼天使的挽歌" group-title="其他频道",羽翼天使的挽歌
 https://goodiptv.club/douyu/9193179
-#EXTINF:-1 tvg-id="" tvg-name="翦瞳秋" group-title="其他频道",翦瞳秋
-https://goodiptv.club/douyu/9623057
 #EXTINF:-1 tvg-id="" tvg-name="老人家小熊猫君" group-title="其他频道",老人家小熊猫君
 https://goodiptv.club/douyu/753342
 #EXTINF:-1 tvg-id="" tvg-name="老段带你钓青鱼" group-title="其他频道",老段带你钓青鱼
@@ -1618,8 +1386,6 @@ https://goodiptv.club/douyu/236461
 https://goodiptv.club/douyu/1557288
 #EXTINF:-1 tvg-id="" tvg-name="聚聚聚一个月" group-title="其他频道",聚聚聚一个月
 https://goodiptv.club/douyu/4105989
-#EXTINF:-1 tvg-id="" tvg-name="肥宅小草" group-title="其他频道",肥宅小草
-https://goodiptv.club/douyu/8887438
 #EXTINF:-1 tvg-id="" tvg-name="育碧先生v" group-title="其他频道",育碧先生v
 https://goodiptv.club/douyu/9505962
 #EXTINF:-1 tvg-id="" tvg-name="胆子不小的郑吉祥" group-title="其他频道",胆子不小的郑吉祥
@@ -1628,10 +1394,6 @@ https://goodiptv.club/douyu/9171887
 https://goodiptv.club/douyu/9662856
 #EXTINF:-1 tvg-id="" tvg-name="胡椒粉的胡歌" group-title="其他频道",胡椒粉的胡歌
 https://goodiptv.club/douyu/5448413
-#EXTINF:-1 tvg-id="" tvg-name="胥渡吧直播号" group-title="其他频道",胥渡吧直播号
-https://goodiptv.club/douyu/2040822
-#EXTINF:-1 tvg-id="" tvg-name="脑袋大1937" group-title="其他频道",脑袋大1937
-https://goodiptv.club/douyu/7655471
 #EXTINF:-1 tvg-id="" tvg-name="芒果酱Mangoo" group-title="其他频道",芒果酱Mangoo
 https://goodiptv.club/douyu/138959
 #EXTINF:-1 tvg-id="" tvg-name="芙芙家的洗碗君" group-title="其他频道",芙芙家的洗碗君
@@ -1656,8 +1418,6 @@ https://goodiptv.club/douyu/2925610
 https://goodiptv.club/douyu/997925
 #EXTINF:-1 tvg-id="" tvg-name="草泥泥影院" group-title="其他频道",草泥泥影院
 https://goodiptv.club/douyu/9091049
-#EXTINF:-1 tvg-id="" tvg-name="荒野万池王" group-title="其他频道",荒野万池王
-https://goodiptv.club/douyu/9544576
 #EXTINF:-1 tvg-id="" tvg-name="荒野伊甸园" group-title="其他频道",荒野伊甸园
 https://goodiptv.club/douyu/9611578
 #EXTINF:-1 tvg-id="" tvg-name="荒野动物园" group-title="其他频道",荒野动物园
@@ -1678,16 +1438,10 @@ https://goodiptv.club/douyu/12400977
 https://goodiptv.club/douyu/3949681
 #EXTINF:-1 tvg-id="" tvg-name="萌宠妙妙屋" group-title="其他频道",萌宠妙妙屋
 https://goodiptv.club/douyu/8653533
-#EXTINF:-1 tvg-id="" tvg-name="萌小鬼" group-title="其他频道",萌小鬼
-https://goodiptv.club/douyu/3928
-#EXTINF:-1 tvg-id="" tvg-name="萨摩耶王小羊" group-title="其他频道",萨摩耶王小羊
-https://goodiptv.club/douyu/9559063
 #EXTINF:-1 tvg-id="" tvg-name="萱草丶daylily" group-title="其他频道",萱草丶daylily
 https://goodiptv.club/douyu/9685770
 #EXTINF:-1 tvg-id="" tvg-name="董王老登" group-title="其他频道",董王老登
 https://goodiptv.club/douyu/9412287
-#EXTINF:-1 tvg-id="" tvg-name="蓝光乐队" group-title="其他频道",蓝光乐队
-https://goodiptv.club/douyu/9572351
 #EXTINF:-1 tvg-id="" tvg-name="蓝星人一ET" group-title="其他频道",蓝星人一ET
 https://goodiptv.club/douyu/9431727
 #EXTINF:-1 tvg-id="" tvg-name="蓝格雷" group-title="其他频道",蓝格雷
@@ -1736,16 +1490,12 @@ https://goodiptv.club/douyu/9817716
 https://goodiptv.club/douyu/9348766
 #EXTINF:-1 tvg-id="" tvg-name="起来啦小躺" group-title="其他频道",起来啦小躺
 https://goodiptv.club/douyu/8849047
-#EXTINF:-1 tvg-id="" tvg-name="超wu的大白兔" group-title="其他频道",超wu的大白兔
-https://goodiptv.club/douyu/2925299
 #EXTINF:-1 tvg-id="" tvg-name="趣评测李杰灵" group-title="其他频道",趣评测李杰灵
 https://goodiptv.club/douyu/751316
 #EXTINF:-1 tvg-id="" tvg-name="跟着盟哥去探秘" group-title="其他频道",跟着盟哥去探秘
 https://goodiptv.club/douyu/1178229
 #EXTINF:-1 tvg-id="" tvg-name="车模颜值大赏" group-title="其他频道",车模颜值大赏
 https://goodiptv.club/douyu/10118209
-#EXTINF:-1 tvg-id="" tvg-name="轩邈Elias" group-title="其他频道",轩邈Elias
-https://goodiptv.club/douyu/9412454
 #EXTINF:-1 tvg-id="" tvg-name="轻风乍起的号" group-title="其他频道",轻风乍起的号
 https://goodiptv.club/douyu/9445489
 #EXTINF:-1 tvg-id="" tvg-name="过往1908" group-title="其他频道",过往1908
@@ -1764,24 +1514,14 @@ https://goodiptv.club/douyu/9665298
 https://goodiptv.club/douyu/2995636
 #EXTINF:-1 tvg-id="" tvg-name="郭云神奇" group-title="其他频道",郭云神奇
 https://goodiptv.club/douyu/8694831
-#EXTINF:-1 tvg-id="" tvg-name="都市夜魔人老王" group-title="其他频道",都市夜魔人老王
-https://goodiptv.club/douyu/610972
 #EXTINF:-1 tvg-id="" tvg-name="鄂东老男孩" group-title="其他频道",鄂东老男孩
 https://goodiptv.club/douyu/8837707
 #EXTINF:-1 tvg-id="" tvg-name="酉晨君" group-title="其他频道",酉晨君
 https://goodiptv.club/douyu/9484541
 #EXTINF:-1 tvg-id="" tvg-name="酋知鱼" group-title="其他频道",酋知鱼
 https://goodiptv.club/douyu/5408225
-#EXTINF:-1 tvg-id="" tvg-name="酒痴东梦a" group-title="其他频道",酒痴东梦a
-https://goodiptv.club/douyu/9477805
 #EXTINF:-1 tvg-id="" tvg-name="酷酷的滕" group-title="其他频道",酷酷的滕
 https://goodiptv.club/douyu/1286383
-#EXTINF:-1 tvg-id="" tvg-name="醉我天涯zwty" group-title="其他频道",醉我天涯zwty
-https://goodiptv.club/douyu/9479775
-#EXTINF:-1 tvg-id="" tvg-name="野灿baka" group-title="其他频道",野灿baka
-https://goodiptv.club/douyu/8867233
-#EXTINF:-1 tvg-id="" tvg-name="野生岛民" group-title="其他频道",野生岛民
-https://goodiptv.club/douyu/10217843
 #EXTINF:-1 tvg-id="" tvg-name="野行涛哥V" group-title="其他频道",野行涛哥V
 https://goodiptv.club/douyu/9329608
 #EXTINF:-1 tvg-id="" tvg-name="金枪娱" group-title="其他频道",金枪娱
@@ -1796,8 +1536,6 @@ https://goodiptv.club/douyu/9547575
 https://goodiptv.club/douyu/10074370
 #EXTINF:-1 tvg-id="" tvg-name="钓鱼欧尼AnglerJJung" group-title="其他频道",钓鱼欧尼AnglerJJung
 https://goodiptv.club/douyu/10616765
-#EXTINF:-1 tvg-id="" tvg-name="钟意嚼完唔松弟弟边炉" group-title="其他频道",钟意嚼完唔松弟弟边炉
-https://goodiptv.club/douyu/8912325
 #EXTINF:-1 tvg-id="" tvg-name="铁头与橘子" group-title="其他频道",铁头与橘子
 https://goodiptv.club/douyu/9450942
 #EXTINF:-1 tvg-id="" tvg-name="铁头钢脚" group-title="其他频道",铁头钢脚
@@ -1846,8 +1584,6 @@ https://goodiptv.club/douyu/865331
 https://goodiptv.club/douyu/9629943
 #EXTINF:-1 tvg-id="" tvg-name="顾止最爱的小胖宝贝" group-title="其他频道",顾止最爱的小胖宝贝
 https://goodiptv.club/douyu/238643
-#EXTINF:-1 tvg-id="" tvg-name="预言家Alice" group-title="其他频道",预言家Alice
-https://goodiptv.club/douyu/9483772
 #EXTINF:-1 tvg-id="" tvg-name="颜雪落落落" group-title="其他频道",颜雪落落落
 https://goodiptv.club/douyu/8864291
 #EXTINF:-1 tvg-id="" tvg-name="风云I人物志" group-title="其他频道",风云I人物志
@@ -1876,18 +1612,10 @@ https://goodiptv.club/douyu/8695854
 https://goodiptv.club/douyu/9367188
 #EXTINF:-1 tvg-id="" tvg-name="麦绿素dustdream" group-title="其他频道",麦绿素dustdream
 https://goodiptv.club/douyu/9336437
-#EXTINF:-1 tvg-id="" tvg-name="麻雀喳喳野行记" group-title="其他频道",麻雀喳喳野行记
-https://goodiptv.club/douyu/10088966
 #EXTINF:-1 tvg-id="" tvg-name="黄栗子Ye" group-title="其他频道",黄栗子Ye
 https://goodiptv.club/douyu/9046097
 #EXTINF:-1 tvg-id="" tvg-name="黑T毒物" group-title="其他频道",黑T毒物
 https://goodiptv.club/douyu/3579219
-#EXTINF:-1 tvg-id="" tvg-name="黑色脑回路" group-title="其他频道",黑色脑回路
-https://goodiptv.club/douyu/9339300
-#EXTINF:-1 tvg-id="" tvg-name="黑衣陌秦mq" group-title="其他频道",黑衣陌秦mq
-https://goodiptv.club/douyu/9559308
-#EXTINF:-1 tvg-id="" tvg-name="齐司礼" group-title="其他频道",齐司礼
-https://goodiptv.club/douyu/9481340
 #EXTINF:-1 tvg-id="" tvg-name="齐木楠雄的哦呼v" group-title="其他频道",齐木楠雄的哦呼v
 https://goodiptv.club/douyu/9415755
 #EXTINF:-1 tvg-id="" tvg-name="龙又z" group-title="其他频道",龙又z
@@ -1910,8 +1638,6 @@ https://goodiptv.club/douyu/9375430
 https://goodiptv.club/douyu/9375450
 #EXTINF:-1 tvg-id="" tvg-name="龙馍馍UP" group-title="其他频道",龙馍馍UP
 https://goodiptv.club/douyu/1717648
-#EXTINF:-1 tvg-id="" tvg-name="𬙊缘老给给" group-title="其他频道",𬙊缘老给给
-https://goodiptv.club/douyu/9543413
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" group-title="其他频道",广东珠江
 http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="厦门卫视" group-title="卫视频道",厦门卫视
@@ -1925,7 +1651,7 @@ http://222.128.55.152:9080/live/dwq.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东教育" group-title="其他频道",山东教育
 http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=20250927080126244a72fa1b554182ae03568fff35bca7&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20250927080126&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=106.13.250.83&SecurityKey=20250927080126&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=41ee1554c91427e91ee78ce8b64f7a33&ddCalcu=3431eae27e9f104565b48ce9c18472e7ee19
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" group-title="其他频道",广东体育
-http://cdn2.132.us.kg/live/gdty/stream.m3u8
+https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="快乐垂钓" group-title="其他频道",快乐垂钓
 http://drive.mxmy.net:8888/udp/239.3.1.164:8001
 #EXTINF:-1 tvg-id="" tvg-name="七台河新闻综合" group-title="其他频道",七台河新闻综合
@@ -1950,6 +1676,10 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="" tvg-name="东丰综合" group-title="其他频道",东丰综合
 http://stream3.jlntv.cn:80/aac_dfgb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东莞新闻综合" group-title="其他频道",东莞新闻综合
+https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东莞生活资讯" group-title="其他频道",东莞生活资讯
+https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中华特产" group-title="其他频道",中华特产
 http://120.76.248.139/live/bfgd/4200000158.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国蓝新闻" group-title="其他频道",中国蓝新闻
@@ -2086,6 +1816,8 @@ https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="哈尔滨娱乐" group-title="其他频道",哈尔滨娱乐
 https://stream.hrbtv.net/ylpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="哈尔滨新闻综合" group-title="其他频道",哈尔滨新闻综合
+http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
 #EXTINF:-1 tvg-id="" tvg-name="哈尔滨生活" group-title="其他频道",哈尔滨生活
 http://111.43.126.240:9003/hls/3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="哈尔滨资讯" group-title="其他频道",哈尔滨资讯
@@ -2310,6 +2042,10 @@ https://shuyang-tv-hls.cm.jstv.com:443/shuyang-tv/shuyangzh.m3u8
 https://ls.qingting.fm/live/1650/64k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北都市" group-title="其他频道",河北都市
 https://radio.pull.hebtv.com/live/hebnczx.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河源公共" group-title="其他频道",河源公共
+http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="河源综合" group-title="其他频道",河源综合
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="泌阳新闻综合" group-title="其他频道",泌阳新闻综合
 http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="泗洪新闻综合" group-title="其他频道",泗洪新闻综合
@@ -2320,6 +2056,8 @@ http://3739115337.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=nw
 http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="洞头综合" group-title="其他频道",洞头综合
 http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="津南一套" group-title="其他频道",津南一套
+http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 #EXTINF:-1 tvg-id="" tvg-name="济源电视一套" group-title="其他频道",济源电视一套
 http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江休闲台" group-title="其他频道",浙江休闲台
@@ -2394,8 +2132,6 @@ https://mgtv.ottiptv.cc/migu/639737327.m3u8?migutoken=4c07b7afe94ad06d114a6bccae
 http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 tvg-id="" tvg-name="滦平新闻" group-title="其他频道",滦平新闻
 http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="滨海新闻综合" group-title="其他频道",滨海新闻综合
-http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="潢川综合" group-title="其他频道",潢川综合
 http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="灌阳新闻综合" group-title="其他频道",灌阳新闻综合
@@ -2708,12 +2444,8 @@ http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 https://goodiptv.club/douyu/9822277
 #EXTINF:-1 tvg-id="" tvg-name="3说电影" group-title="影视频道",3说电影
 https://goodiptv.club/douyu/9643264
-#EXTINF:-1 tvg-id="" tvg-name="77说电影" group-title="影视频道",77说电影
-https://goodiptv.club/douyu/9444320
 #EXTINF:-1 tvg-id="" tvg-name="Ido漫说" group-title="其他频道",Ido漫说
 https://goodiptv.club/douyu/9456379
-#EXTINF:-1 tvg-id="" tvg-name="JG影视解说" group-title="影视频道",JG影视解说
-https://goodiptv.club/douyu/9391277
 #EXTINF:-1 tvg-id="" tvg-name="JustXiaIt嘻咦啊看" group-title="其他频道",JustXiaIt嘻咦啊看
 https://goodiptv.club/douyu/2660125
 #EXTINF:-1 tvg-id="" tvg-name="Michael说大片" group-title="其他频道",Michael说大片
@@ -2728,22 +2460,14 @@ https://goodiptv.club/douyu/884073
 https://goodiptv.club/douyu/10050914
 #EXTINF:-1 tvg-id="" tvg-name="丽姐说电影" group-title="影视频道",丽姐说电影
 https://goodiptv.club/douyu/9437283
-#EXTINF:-1 tvg-id="" tvg-name="九叔说电影v" group-title="影视频道",九叔说电影v
-https://goodiptv.club/douyu/9348282
-#EXTINF:-1 tvg-id="" tvg-name="二哈讲电影" group-title="影视频道",二哈讲电影
-https://goodiptv.club/douyu/8778280
 #EXTINF:-1 tvg-id="" tvg-name="享看电影" group-title="影视频道",享看电影
 https://goodiptv.club/douyu/8974130
 #EXTINF:-1 tvg-id="" tvg-name="代娱说美剧" group-title="其他频道",代娱说美剧
 https://goodiptv.club/douyu/9123570
-#EXTINF:-1 tvg-id="" tvg-name="伦帝电影说" group-title="影视频道",伦帝电影说
-https://goodiptv.club/douyu/9368091
 #EXTINF:-1 tvg-id="" tvg-name="伯乐说电影V" group-title="影视频道",伯乐说电影V
 https://goodiptv.club/douyu/9386057
 #EXTINF:-1 tvg-id="" tvg-name="侃片大师兄" group-title="其他频道",侃片大师兄
 https://goodiptv.club/douyu/9338839
-#EXTINF:-1 tvg-id="" tvg-name="侃片黑菠萝" group-title="其他频道",侃片黑菠萝
-https://goodiptv.club/douyu/5803764
 #EXTINF:-1 tvg-id="" tvg-name="俗哥看电影" group-title="影视频道",俗哥看电影
 https://goodiptv.club/douyu/2161818
 #EXTINF:-1 tvg-id="" tvg-name="八月看大片" group-title="其他频道",八月看大片
@@ -2762,16 +2486,12 @@ https://goodiptv.club/douyu/8828811
 https://goodiptv.club/douyu/9064711
 #EXTINF:-1 tvg-id="" tvg-name="博然讲电影" group-title="影视频道",博然讲电影
 https://goodiptv.club/douyu/9561992
-#EXTINF:-1 tvg-id="" tvg-name="可乐撩电影" group-title="影视频道",可乐撩电影
-https://goodiptv.club/douyu/9371552
 #EXTINF:-1 tvg-id="" tvg-name="史君说剧" group-title="其他频道",史君说剧
 https://goodiptv.club/douyu/9419771
 #EXTINF:-1 tvg-id="" tvg-name="听wo姐说" group-title="其他频道",听wo姐说
 https://goodiptv.club/douyu/8830082
 #EXTINF:-1 tvg-id="" tvg-name="周墨看电影" group-title="影视频道",周墨看电影
 https://goodiptv.club/douyu/9505584
-#EXTINF:-1 tvg-id="" tvg-name="唐司令说电影" group-title="影视频道",唐司令说电影
-https://goodiptv.club/douyu/8774345
 #EXTINF:-1 tvg-id="" tvg-name="喵妹说电影" group-title="影视频道",喵妹说电影
 https://goodiptv.club/douyu/9312432
 #EXTINF:-1 tvg-id="" tvg-name="多多看车" group-title="其他频道",多多看车
@@ -2780,20 +2500,14 @@ https://goodiptv.club/douyu/4921957
 https://goodiptv.club/douyu/9437349
 #EXTINF:-1 tvg-id="" tvg-name="大趴电影院" group-title="影视频道",大趴电影院
 https://goodiptv.club/douyu/8747638
-#EXTINF:-1 tvg-id="" tvg-name="女汉子说电影" group-title="影视频道",女汉子说电影
-https://goodiptv.club/douyu/9395966
 #EXTINF:-1 tvg-id="" tvg-name="女神撩电影" group-title="影视频道",女神撩电影
 https://goodiptv.club/douyu/9439594
-#EXTINF:-1 tvg-id="" tvg-name="好像视说故事" group-title="其他频道",好像视说故事
-https://goodiptv.club/douyu/8891883
 #EXTINF:-1 tvg-id="" tvg-name="好剧看不停" group-title="其他频道",好剧看不停
 https://goodiptv.club/douyu/9388938
 #EXTINF:-1 tvg-id="" tvg-name="宇哥讲电影" group-title="影视频道",宇哥讲电影
 https://goodiptv.club/douyu/2104744
 #EXTINF:-1 tvg-id="" tvg-name="安小闫说电影x" group-title="影视频道",安小闫说电影x
 https://goodiptv.club/douyu/1842621
-#EXTINF:-1 tvg-id="" tvg-name="将军侃片" group-title="其他频道",将军侃片
-https://goodiptv.club/douyu/8529736
 #EXTINF:-1 tvg-id="" tvg-name="小丽说电影" group-title="影视频道",小丽说电影
 https://goodiptv.club/douyu/9368016
 #EXTINF:-1 tvg-id="" tvg-name="小乔讲电影" group-title="影视频道",小乔讲电影
@@ -2806,8 +2520,6 @@ https://goodiptv.club/douyu/9390955
 https://goodiptv.club/douyu/9665834
 #EXTINF:-1 tvg-id="" tvg-name="小涛讲电影V" group-title="影视频道",小涛讲电影V
 https://goodiptv.club/douyu/8415464
-#EXTINF:-1 tvg-id="" tvg-name="小爱看大片" group-title="其他频道",小爱看大片
-https://goodiptv.club/douyu/9312805
 #EXTINF:-1 tvg-id="" tvg-name="小片片说大片" group-title="其他频道",小片片说大片
 https://goodiptv.club/douyu/4258555
 #EXTINF:-1 tvg-id="" tvg-name="小片片说大片二台" group-title="其他频道",小片片说大片二台
@@ -2816,32 +2528,18 @@ https://goodiptv.club/douyu/10011547
 https://goodiptv.club/douyu/3432645
 #EXTINF:-1 tvg-id="" tvg-name="小陶气说动漫" group-title="其他频道",小陶气说动漫
 https://goodiptv.club/douyu/9527700
-#EXTINF:-1 tvg-id="" tvg-name="小马哥说电影" group-title="影视频道",小马哥说电影
-https://goodiptv.club/douyu/9396672
 #EXTINF:-1 tvg-id="" tvg-name="少年看电影" group-title="影视频道",少年看电影
 https://goodiptv.club/douyu/8762120
-#EXTINF:-1 tvg-id="" tvg-name="崽崽撩电影" group-title="影视频道",崽崽撩电影
-https://goodiptv.club/douyu/8325511
 #EXTINF:-1 tvg-id="" tvg-name="已知艺术家漫画解说" group-title="其他频道",已知艺术家漫画解说
 https://goodiptv.club/douyu/5907076
-#EXTINF:-1 tvg-id="" tvg-name="幕撩电影" group-title="影视频道",幕撩电影
-https://goodiptv.club/douyu/9486015
-#EXTINF:-1 tvg-id="" tvg-name="强人说笑" group-title="其他频道",强人说笑
-https://goodiptv.club/douyu/10329713
 #EXTINF:-1 tvg-id="" tvg-name="微笑影视解说" group-title="影视频道",微笑影视解说
 https://goodiptv.club/douyu/9476790
 #EXTINF:-1 tvg-id="" tvg-name="快哥说老片" group-title="其他频道",快哥说老片
 https://goodiptv.club/douyu/10411518
 #EXTINF:-1 tvg-id="" tvg-name="快看张不止" group-title="其他频道",快看张不止
 https://goodiptv.club/douyu/8413226
-#EXTINF:-1 tvg-id="" tvg-name="我是吃泡面看电影" group-title="影视频道",我是吃泡面看电影
-https://goodiptv.club/douyu/8851063
 #EXTINF:-1 tvg-id="" tvg-name="指缝里看电影" group-title="影视频道",指缝里看电影
 https://goodiptv.club/douyu/9647834
-#EXTINF:-1 tvg-id="" tvg-name="据说放映室" group-title="其他频道",据说放映室
-https://goodiptv.club/douyu/8837964
-#EXTINF:-1 tvg-id="" tvg-name="撩电影8" group-title="影视频道",撩电影8
-https://goodiptv.club/douyu/9351043
 #EXTINF:-1 tvg-id="" tvg-name="新视角解说" group-title="其他频道",新视角解说
 https://goodiptv.club/douyu/8813254
 #EXTINF:-1 tvg-id="" tvg-name="易说影视" group-title="影视频道",易说影视
@@ -2852,8 +2550,6 @@ https://goodiptv.club/douyu/8014467
 https://goodiptv.club/douyu/9430717
 #EXTINF:-1 tvg-id="" tvg-name="晓麦讲电影" group-title="影视频道",晓麦讲电影
 https://goodiptv.club/douyu/453963
-#EXTINF:-1 tvg-id="" tvg-name="末日说电影" group-title="影视频道",末日说电影
-https://goodiptv.club/douyu/9431125
 #EXTINF:-1 tvg-id="" tvg-name="松轩说电影" group-title="影视频道",松轩说电影
 https://goodiptv.club/douyu/1524969
 #EXTINF:-1 tvg-id="" tvg-name="梓帆说电影" group-title="影视频道",梓帆说电影
@@ -2863,13 +2559,11 @@ https://goodiptv.club/douyu/9375743
 #EXTINF:-1 tvg-id="" tvg-name="汪哥说电影" group-title="影视频道",汪哥说电影
 https://goodiptv.club/douyu/9312685
 #EXTINF:-1 tvg-id="" tvg-name="漫画解说" group-title="其他频道",漫画解说
-https://www.goodiptv.club/douyu/5907076
+https://yylunbo.ottiptv.cc/yy/1382735568
 #EXTINF:-1 tvg-id="" tvg-name="火龙果讲电影本人" group-title="影视频道",火龙果讲电影本人
 https://goodiptv.club/douyu/2039501
 #EXTINF:-1 tvg-id="" tvg-name="火龙果说电影" group-title="影视频道",火龙果说电影
 https://goodiptv.club/douyu/9559158
-#EXTINF:-1 tvg-id="" tvg-name="灯泡兄弟影游谈" group-title="其他频道",灯泡兄弟影游谈
-https://goodiptv.club/douyu/1690081
 #EXTINF:-1 tvg-id="" tvg-name="灵佑奇谈" group-title="其他频道",灵佑奇谈
 https://goodiptv.club/douyu/9678207
 #EXTINF:-1 tvg-id="" tvg-name="热影连连看" group-title="其他频道",热影连连看
@@ -2882,8 +2576,6 @@ https://goodiptv.club/douyu/2758565
 https://goodiptv.club/douyu/10010651
 #EXTINF:-1 tvg-id="" tvg-name="狂野的种马小说家" group-title="其他频道",狂野的种马小说家
 https://goodiptv.club/douyu/8849703
-#EXTINF:-1 tvg-id="" tvg-name="猫丶趴趴" group-title="其他频道",猫丶趴趴
-https://goodiptv.club/douyu/1255068
 #EXTINF:-1 tvg-id="" tvg-name="猫叔说电影" group-title="影视频道",猫叔说电影
 https://goodiptv.club/douyu/9820039
 #EXTINF:-1 tvg-id="" tvg-name="猴博士爱讲课V" group-title="其他频道",猴博士爱讲课V
@@ -2942,8 +2634,6 @@ https://goodiptv.club/douyu/9542834
 https://goodiptv.club/douyu/7532080
 #EXTINF:-1 tvg-id="" tvg-name="讲故事的角马" group-title="其他频道",讲故事的角马
 https://goodiptv.club/douyu/4400816
-#EXTINF:-1 tvg-id="" tvg-name="说笑武林" group-title="其他频道",说笑武林
-https://goodiptv.club/douyu/10329706
 #EXTINF:-1 tvg-id="" tvg-name="说说电影故事" group-title="影视频道",说说电影故事
 https://goodiptv.club/douyu/9444627
 #EXTINF:-1 tvg-id="" tvg-name="谁语说电影" group-title="影视频道",谁语说电影
@@ -3182,7 +2872,7 @@ http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黄龙" group-title="其他频道",黄龙
 https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="2026-03-15 06:26:05" group-title="其他频道",2026-03-15 06:26:05
+#EXTINF:-1 tvg-id="" tvg-name="2026-03-15 12:28:36" group-title="其他频道",2026-03-15 12:28:36
 https://vd3.bdstatic.com/mda-rkaittm5s06vzzyq/sc/cae_h264/1762869883709304452/mda-rkaittm5s06vzzyq.mp4
 #EXTINF:-1 tvg-id="" tvg-name="00s Replay" group-title="其他频道",00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
