@@ -33,7 +33,7 @@ jobs:
 
       - name: Run IPTV generator
         run: |
-          python3 main.py
+          python3 mian.py
 
       - name: Commit and push changes
         run: |
