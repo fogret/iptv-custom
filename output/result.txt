@@ -1,7 +1,4 @@
-# 更新时间: 2026-03-15 15:31:31
-未命名频道,其他频道,https://www.xxx.com/live/cctv1
-未命名频道,其他频道,https://www.xxx.com/stream/hunan
-未命名频道,其他频道,https://tv.xxx.com/play/12345
+# 更新时间: 2026-03-15 15:32:11
 未命名频道,其他频道,https://live.zbds.top/tv/iptv4.m3u
 未命名频道,其他频道,https://iptv-org.github.io/iptv/index.m3u
 未命名频道,其他频道,https://iptv-org.github.io/iptv/countries/cn.m3u
