@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated at 2026-03-14 18:38:49
+# Generated at 2026-03-15 02:26:15
 #EXTINF:-1 tvg-id="" tvg-name="未命名频道" group-title="其他频道",未命名频道
 https://www.xxx.com/live/cctv1
 #EXTINF:-1 tvg-id="" tvg-name="未命名频道" group-title="其他频道",未命名频道
@@ -141,7 +141,7 @@ http://183.11.239.36:808/hls/17/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" group-title="卫视频道",山东卫视
 http://120.76.248.139/live/bfgd/4200000099.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山西卫视" group-title="卫视频道",山西卫视
-http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" group-title="卫视频道",陕西卫视
 http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
@@ -220,6 +220,8 @@ http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
 http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="冰冰影剧" group-title="其他频道",冰冰影剧
 http://www.goodiptv.club/douyu/74374
+#EXTINF:-1 tvg-id="" tvg-name="刀刀影院" group-title="其他频道",刀刀影院
+http://www.goodiptv.club/douyu/747764
 #EXTINF:-1 tvg-id="" tvg-name="刘哔电影" group-title="影视频道",刘哔电影
 https://goodiptv.club/douyu/2632223
 #EXTINF:-1 tvg-id="" tvg-name="前任电影" group-title="影视频道",前任电影
@@ -234,8 +236,6 @@ http://www.goodiptv.club/douyu/2793084
 https://goodiptv.club/douyu/10155359
 #EXTINF:-1 tvg-id="" tvg-name="哈利影视" group-title="影视频道",哈利影视
 https://goodiptv.club/douyu/8475821
-#EXTINF:-1 tvg-id="" tvg-name="哈尔滨影视" group-title="影视频道",哈尔滨影视
-http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 #EXTINF:-1 tvg-id="" tvg-name="喜人电影" group-title="影视频道",喜人电影
 https://goodiptv.club/douyu/10348735
 #EXTINF:-1 tvg-id="" tvg-name="喜剧电影笑不停" group-title="影视频道",喜剧电影笑不停
@@ -262,8 +262,6 @@ https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
 https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="小儛电影嘚啵嘚" group-title="影视频道",小儛电影嘚啵嘚
 https://goodiptv.club/douyu/8362978
-#EXTINF:-1 tvg-id="" tvg-name="广东影视" group-title="影视频道",广东影视
-http://119.32.12.17:2901/udp/224.1.100.11:11111
 #EXTINF:-1 tvg-id="" tvg-name="影视梗大叔" group-title="影视频道",影视梗大叔
 https://goodiptv.club/douyu/9480648
 #EXTINF:-1 tvg-id="" tvg-name="影视笑工场" group-title="影视频道",影视笑工场
@@ -296,50 +294,46 @@ https://goodiptv.club/douyu/9533302
 https://goodiptv.club/douyu/9414884
 #EXTINF:-1 tvg-id="" tvg-name="浙江教科影视" group-title="影视频道",浙江教科影视
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="涛浪浪电影" group-title="影视频道",涛浪浪电影
+https://goodiptv.club/douyu/5424258
 #EXTINF:-1 tvg-id="" tvg-name="淘剧场" group-title="其他频道",淘剧场
 http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887497.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="淘娱乐" group-title="其他频道",淘娱乐
 http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="热门港剧" group-title="其他频道",热门港剧
+http://www.goodiptv.club/douyu/5522351
+#EXTINF:-1 tvg-id="" tvg-name="熊猫电影" group-title="影视频道",熊猫电影
+https://goodiptv.club/douyu/3506483
 #EXTINF:-1 tvg-id="" tvg-name="爱星影视" group-title="影视频道",爱星影视
 https://goodiptv.club/douyu/9476806
 #EXTINF:-1 tvg-id="" tvg-name="特辑电影院" group-title="影视频道",特辑电影院
 https://goodiptv.club/douyu/3637778
+#EXTINF:-1 tvg-id="" tvg-name="狗毛电影" group-title="影视频道",狗毛电影
+https://goodiptv.club/douyu/9356637
 #EXTINF:-1 tvg-id="" tvg-name="独立鱼电影" group-title="影视频道",独立鱼电影
 https://goodiptv.club/douyu/2413555
 #EXTINF:-1 tvg-id="" tvg-name="猫眼电影" group-title="影视频道",猫眼电影
 https://goodiptv.club/douyu/8726221
 #EXTINF:-1 tvg-id="" tvg-name="玖月影视" group-title="影视频道",玖月影视
 https://goodiptv.club/douyu/9339251
+#EXTINF:-1 tvg-id="" tvg-name="电影七十二变" group-title="影视频道",电影七十二变
+https://goodiptv.club/douyu/9323164
 #EXTINF:-1 tvg-id="" tvg-name="电影先锋V" group-title="影视频道",电影先锋V
 https://goodiptv.club/douyu/8711212
-#EXTINF:-1 tvg-id="" tvg-name="电影八点档" group-title="影视频道",电影八点档
-http://live.metshop.top/huya/880261?cdn=alicdn
 #EXTINF:-1 tvg-id="" tvg-name="电影冷知识" group-title="影视频道",电影冷知识
 https://goodiptv.club/douyu/9660835
-#EXTINF:-1 tvg-id="" tvg-name="电影刘德华" group-title="影视频道",电影刘德华
-http://live.metshop.top/huya/11342424?cdn=alicdn
 #EXTINF:-1 tvg-id="" tvg-name="电影刘油果" group-title="影视频道",电影刘油果
 https://goodiptv.club/douyu/3985805
-#EXTINF:-1 tvg-id="" tvg-name="电影动作电影" group-title="影视频道",电影动作电影
-http://live.metshop.top/huya/11602077?cdn=alicdn
 #EXTINF:-1 tvg-id="" tvg-name="电影吐槽汇" group-title="影视频道",电影吐槽汇
 https://goodiptv.club/douyu/9447668
-#EXTINF:-1 tvg-id="" tvg-name="电影周星星" group-title="影视频道",电影周星星
-http://live.metshop.top/huya/11336587?cdn=alicdn
-#EXTINF:-1 tvg-id="" tvg-name="电影嫣然影厅" group-title="影视频道",电影嫣然影厅
-http://live.metshop.top/huya/11601977?cdn=alicdn
 #EXTINF:-1 tvg-id="" tvg-name="电影小班长" group-title="影视频道",电影小班长
 https://goodiptv.club/douyu/549693
-#EXTINF:-1 tvg-id="" tvg-name="电影搞笑喜剧" group-title="影视频道",电影搞笑喜剧
-http://live.metshop.top/huya/11342423?cdn=alicdn
+#EXTINF:-1 tvg-id="" tvg-name="电影幕后喵" group-title="影视频道",电影幕后喵
+https://goodiptv.club/douyu/8884074
 #EXTINF:-1 tvg-id="" tvg-name="电影漩涡" group-title="影视频道",电影漩涡
 https://goodiptv.club/douyu/8706350
-#EXTINF:-1 tvg-id="" tvg-name="电影蜘蛛侠" group-title="影视频道",电影蜘蛛侠
-http://live.metshop.top/huya/21059599?cdn=alicdn
-#EXTINF:-1 tvg-id="" tvg-name="电影谍战片" group-title="影视频道",电影谍战片
-http://live.metshop.top/huya/21059587?cdn=alicdn
-#EXTINF:-1 tvg-id="" tvg-name="电影贺岁" group-title="影视频道",电影贺岁
-http://live.metshop.top/huya/11601971?cdn=alicdn
+#EXTINF:-1 tvg-id="" tvg-name="电影笔记" group-title="影视频道",电影笔记
+https://goodiptv.club/douyu/9636034
 #EXTINF:-1 tvg-id="" tvg-name="电影迷小雅" group-title="影视频道",电影迷小雅
 https://goodiptv.club/douyu/9639225
 #EXTINF:-1 tvg-id="" tvg-name="电影黑匣子" group-title="影视频道",电影黑匣子
@@ -356,8 +350,12 @@ https://goodiptv.club/douyu/8706393
 https://live.tvfix.org/live/mydy/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="老王的夜电影院" group-title="影视频道",老王的夜电影院
 https://goodiptv.club/douyu/3498219
+#EXTINF:-1 tvg-id="" tvg-name="老电影故事" group-title="影视频道",老电影故事
+https://goodiptv.club/douyu/9167273
 #EXTINF:-1 tvg-id="" tvg-name="腹黑电影" group-title="影视频道",腹黑电影
 https://goodiptv.club/douyu/8867878
+#EXTINF:-1 tvg-id="" tvg-name="莱纳电影" group-title="影视频道",莱纳电影
+https://goodiptv.club/douyu/9356937
 #EXTINF:-1 tvg-id="" tvg-name="让子弹飞" group-title="其他频道",让子弹飞
 https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="豆瓣电影" group-title="影视频道",豆瓣电影
@@ -374,6 +372,8 @@ http://120.76.248.139/live/bfgd/4200000070.m3u8
 https://goodiptv.club/douyu/4058285
 #EXTINF:-1 tvg-id="" tvg-name="邵氏影院" group-title="其他频道",邵氏影院
 http://www.goodiptv.club/douyu/4246519
+#EXTINF:-1 tvg-id="" tvg-name="野格影视" group-title="影视频道",野格影视
+https://goodiptv.club/douyu/9931766
 #EXTINF:-1 tvg-id="" tvg-name="铁血影视汇" group-title="影视频道",铁血影视汇
 https://goodiptv.club/douyu/9649701
 #EXTINF:-1 tvg-id="" tvg-name="阿苏电影" group-title="影视频道",阿苏电影
@@ -398,8 +398,6 @@ http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 http://120.76.248.139/live/bfgd/4200000249.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="纪实科教" group-title="其他频道",纪实科教
 http://120.76.248.139/live/bfgd/4200000113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="优漫卡通" group-title="其他频道",优漫卡通
-http://119.32.12.17:2901/udp/224.1.100.119:11111
 #EXTINF:-1 tvg-id="" tvg-name="卡酷少儿" group-title="其他频道",卡酷少儿
 http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" group-title="其他频道",金鹰卡通
@@ -408,16 +406,16 @@ http://58.57.40.22:9901/tsfile/live/1059_1.m3u8
 http://gmxw.7766.org:808/hls/175/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江少儿" group-title="其他频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="七龙珠" group-title="其他频道",七龙珠
-https://live.metshop.top/huya/11601966
 #EXTINF:-1 tvg-id="" tvg-name="中华小当家" group-title="其他频道",中华小当家
-https://live.metshop.top/huya/11342413
+https://live.iill.top/huya/11342413
 #EXTINF:-1 tvg-id="" tvg-name="动画大师姐" group-title="其他频道",动画大师姐
 https://goodiptv.club/douyu/9742136
 #EXTINF:-1 tvg-id="" tvg-name="动画魂" group-title="其他频道",动画魂
 https://goodiptv.club/douyu/9393242
 #EXTINF:-1 tvg-id="" tvg-name="南京少儿" group-title="其他频道",南京少儿
 http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="武汉少儿频道" group-title="其他频道",武汉少儿频道
+http://hzzzz530.com:4022/udp/239.69.1.6:9676
 #EXTINF:-1 tvg-id="" tvg-name="海绵宝宝" group-title="其他频道",海绵宝宝
 https://live.metshop.top/douyu/3949681
 #EXTINF:-1 tvg-id="" tvg-name="漫尼动画" group-title="其他频道",漫尼动画
@@ -442,8 +440,12 @@ https://goodiptv.club/douyu/7796193
 https://goodiptv.club/douyu/9286868
 #EXTINF:-1 tvg-id="" tvg-name="3秒爱上学习V" group-title="其他频道",3秒爱上学习V
 https://goodiptv.club/douyu/9541736
+#EXTINF:-1 tvg-id="" tvg-name="5毒士" group-title="其他频道",5毒士
+https://goodiptv.club/douyu/9406600
 #EXTINF:-1 tvg-id="" tvg-name="7师傅" group-title="其他频道",7师傅
 https://goodiptv.club/douyu/17732
+#EXTINF:-1 tvg-id="" tvg-name="9iota" group-title="其他频道",9iota
+https://goodiptv.club/douyu/8881729
 #EXTINF:-1 tvg-id="" tvg-name="AK萌虎" group-title="其他频道",AK萌虎
 https://goodiptv.club/douyu/4049310
 #EXTINF:-1 tvg-id="" tvg-name="Acer丶宏正" group-title="其他频道",Acer丶宏正
@@ -476,8 +478,6 @@ https://goodiptv.club/douyu/9481151
 https://goodiptv.club/douyu/9477851
 #EXTINF:-1 tvg-id="" tvg-name="Fatal飞雪" group-title="其他频道",Fatal飞雪
 https://goodiptv.club/douyu/8813596
-#EXTINF:-1 tvg-id="" tvg-name="Hi欣欣" group-title="其他频道",Hi欣欣
-https://goodiptv.club/douyu/11996166
 #EXTINF:-1 tvg-id="" tvg-name="JhZj丶天明" group-title="其他频道",JhZj丶天明
 https://goodiptv.club/douyu/1006179
 #EXTINF:-1 tvg-id="" tvg-name="Jonas888" group-title="其他频道",Jonas888
@@ -500,12 +500,16 @@ https://goodiptv.club/douyu/9204381
 https://goodiptv.club/douyu/9488836
 #EXTINF:-1 tvg-id="" tvg-name="Melo的健身课堂" group-title="其他频道",Melo的健身课堂
 https://goodiptv.club/douyu/9306609
+#EXTINF:-1 tvg-id="" tvg-name="MordonFreeman是谁" group-title="其他频道",MordonFreeman是谁
+https://goodiptv.club/douyu/9524579
 #EXTINF:-1 tvg-id="" tvg-name="Nino学长" group-title="其他频道",Nino学长
 https://goodiptv.club/douyu/9525473
+#EXTINF:-1 tvg-id="" tvg-name="OE档案" group-title="其他频道",OE档案
+https://goodiptv.club/douyu/6725858
 #EXTINF:-1 tvg-id="" tvg-name="OneGuy丶" group-title="其他频道",OneGuy丶
 https://goodiptv.club/douyu/9734098
-#EXTINF:-1 tvg-id="" tvg-name="Only丶邵氏" group-title="其他频道",Only丶邵氏
-https://goodiptv.club/douyu/4246519
+#EXTINF:-1 tvg-id="" tvg-name="OooOlivia奥莉蕉" group-title="其他频道",OooOlivia奥莉蕉
+https://goodiptv.club/douyu/9678862
 #EXTINF:-1 tvg-id="" tvg-name="PhantomStrider" group-title="其他频道",PhantomStrider
 https://goodiptv.club/douyu/9683911
 #EXTINF:-1 tvg-id="" tvg-name="Poison丶冰冰" group-title="其他频道",Poison丶冰冰
@@ -514,6 +518,8 @@ https://goodiptv.club/douyu/74374
 https://goodiptv.club/douyu/9753585
 #EXTINF:-1 tvg-id="" tvg-name="QLIMES" group-title="其他频道",QLIMES
 https://goodiptv.club/douyu/1039732
+#EXTINF:-1 tvg-id="" tvg-name="RNDxc" group-title="其他频道",RNDxc
+https://goodiptv.club/douyu/4585643
 #EXTINF:-1 tvg-id="" tvg-name="Rabbit每日爆料" group-title="其他频道",Rabbit每日爆料
 https://goodiptv.club/douyu/9685652
 #EXTINF:-1 tvg-id="" tvg-name="Red袖袖" group-title="其他频道",Red袖袖
@@ -542,6 +548,8 @@ https://goodiptv.club/douyu/9480767
 https://goodiptv.club/douyu/3617935
 #EXTINF:-1 tvg-id="" tvg-name="YIKa777" group-title="其他频道",YIKa777
 https://goodiptv.club/douyu/8868213
+#EXTINF:-1 tvg-id="" tvg-name="a5dmin" group-title="其他频道",a5dmin
+https://goodiptv.club/douyu/1102973
 #EXTINF:-1 tvg-id="" tvg-name="a萌小翘臀" group-title="其他频道",a萌小翘臀
 https://goodiptv.club/douyu/7552568
 #EXTINF:-1 tvg-id="" tvg-name="baby丶贝贝" group-title="其他频道",baby丶贝贝
@@ -550,16 +558,24 @@ https://goodiptv.club/douyu/431460
 https://goodiptv.club/douyu/11752532
 #EXTINF:-1 tvg-id="" tvg-name="dw151295068" group-title="其他频道",dw151295068
 https://goodiptv.club/douyu/12655359
+#EXTINF:-1 tvg-id="" tvg-name="dy荒野建造" group-title="其他频道",dy荒野建造
+https://goodiptv.club/douyu/10039437
 #EXTINF:-1 tvg-id="" tvg-name="epcdiy" group-title="其他频道",epcdiy
 https://goodiptv.club/douyu/8759268
 #EXTINF:-1 tvg-id="" tvg-name="e尔袏" group-title="其他频道",e尔袏
 https://goodiptv.club/douyu/12015111
 #EXTINF:-1 tvg-id="" tvg-name="fans圈娱乐" group-title="其他频道",fans圈娱乐
 https://goodiptv.club/douyu/9630581
+#EXTINF:-1 tvg-id="" tvg-name="gslaini" group-title="其他频道",gslaini
+https://goodiptv.club/douyu/6997954
+#EXTINF:-1 tvg-id="" tvg-name="ljgdy" group-title="其他频道",ljgdy
+https://goodiptv.club/douyu/1600769
 #EXTINF:-1 tvg-id="" tvg-name="low君热剧" group-title="其他频道",low君热剧
 https://goodiptv.club/douyu/8461020
 #EXTINF:-1 tvg-id="" tvg-name="mad叶月Mashiro灬" group-title="其他频道",mad叶月Mashiro灬
 https://goodiptv.club/douyu/9192932
+#EXTINF:-1 tvg-id="" tvg-name="mzx阿哲" group-title="其他频道",mzx阿哲
+https://goodiptv.club/douyu/9483965
 #EXTINF:-1 tvg-id="" tvg-name="py86阿" group-title="其他频道",py86阿
 https://goodiptv.club/douyu/8849954
 #EXTINF:-1 tvg-id="" tvg-name="sekai的光子" group-title="其他频道",sekai的光子
@@ -578,6 +594,12 @@ https://goodiptv.club/douyu/9606281
 https://goodiptv.club/douyu/7356023
 #EXTINF:-1 tvg-id="" tvg-name="一束光开始" group-title="其他频道",一束光开始
 https://goodiptv.club/douyu/8662684
+#EXTINF:-1 tvg-id="" tvg-name="一条正弦sin" group-title="其他频道",一条正弦sin
+https://goodiptv.club/douyu/9497985
+#EXTINF:-1 tvg-id="" tvg-name="一条闲木鱼" group-title="其他频道",一条闲木鱼
+https://goodiptv.club/douyu/10102281
+#EXTINF:-1 tvg-id="" tvg-name="一生titus" group-title="其他频道",一生titus
+https://goodiptv.club/douyu/12065569
 #EXTINF:-1 tvg-id="" tvg-name="一目十影" group-title="其他频道",一目十影
 https://goodiptv.club/douyu/3643605
 #EXTINF:-1 tvg-id="" tvg-name="一颗咕咕星" group-title="其他频道",一颗咕咕星
@@ -610,6 +632,8 @@ https://goodiptv.club/douyu/9297412
 https://goodiptv.club/douyu/9369468
 #EXTINF:-1 tvg-id="" tvg-name="世界纪录大全" group-title="其他频道",世界纪录大全
 https://goodiptv.club/douyu/9406359
+#EXTINF:-1 tvg-id="" tvg-name="丛林工程师" group-title="其他频道",丛林工程师
+https://goodiptv.club/douyu/9804149
 #EXTINF:-1 tvg-id="" tvg-name="中二大帝妮可姬" group-title="其他频道",中二大帝妮可姬
 https://goodiptv.club/douyu/9612400
 #EXTINF:-1 tvg-id="" tvg-name="中二的枫哲酱" group-title="其他频道",中二的枫哲酱
@@ -626,8 +650,14 @@ https://goodiptv.club/douyu/9046649
 https://goodiptv.club/douyu/10075154
 #EXTINF:-1 tvg-id="" tvg-name="乐儿丶Ler" group-title="其他频道",乐儿丶Ler
 https://goodiptv.club/douyu/8221699
+#EXTINF:-1 tvg-id="" tvg-name="九仙人儿" group-title="其他频道",九仙人儿
+https://goodiptv.club/douyu/8669085
 #EXTINF:-1 tvg-id="" tvg-name="九冢嵬" group-title="其他频道",九冢嵬
 https://goodiptv.club/douyu/9393501
+#EXTINF:-1 tvg-id="" tvg-name="乡村水龙" group-title="其他频道",乡村水龙
+https://goodiptv.club/douyu/9486905
+#EXTINF:-1 tvg-id="" tvg-name="乡间大路上" group-title="其他频道",乡间大路上
+https://goodiptv.club/douyu/9850661
 #EXTINF:-1 tvg-id="" tvg-name="书岳钓鱼" group-title="其他频道",书岳钓鱼
 https://goodiptv.club/douyu/10100206
 #EXTINF:-1 tvg-id="" tvg-name="二次元fans鹿鹿" group-title="其他频道",二次元fans鹿鹿
@@ -636,14 +666,20 @@ https://goodiptv.club/douyu/8661526
 https://goodiptv.club/douyu/10508677
 #EXTINF:-1 tvg-id="" tvg-name="京城笑工坊" group-title="其他频道",京城笑工坊
 https://goodiptv.club/douyu/10329324
+#EXTINF:-1 tvg-id="" tvg-name="亮亮也是酿酿" group-title="其他频道",亮亮也是酿酿
+https://goodiptv.club/douyu/4340136
 #EXTINF:-1 tvg-id="" tvg-name="人生回答机本机" group-title="其他频道",人生回答机本机
 https://goodiptv.club/douyu/9409722
 #EXTINF:-1 tvg-id="" tvg-name="人类早期驯服" group-title="其他频道",人类早期驯服
 https://goodiptv.club/douyu/8892864
 #EXTINF:-1 tvg-id="" tvg-name="仓鼠大逃亡" group-title="其他频道",仓鼠大逃亡
 https://goodiptv.club/douyu/10354920
+#EXTINF:-1 tvg-id="" tvg-name="伊太刀刀" group-title="其他频道",伊太刀刀
+https://goodiptv.club/douyu/747764
 #EXTINF:-1 tvg-id="" tvg-name="伊西wind" group-title="其他频道",伊西wind
 https://goodiptv.club/douyu/12641373
+#EXTINF:-1 tvg-id="" tvg-name="你挺能闹nc" group-title="其他频道",你挺能闹nc
+https://goodiptv.club/douyu/9177914
 #EXTINF:-1 tvg-id="" tvg-name="你的瑜伽女孩" group-title="其他频道",你的瑜伽女孩
 https://goodiptv.club/douyu/10205199
 #EXTINF:-1 tvg-id="" tvg-name="你真像个小丑" group-title="其他频道",你真像个小丑
@@ -654,14 +690,16 @@ https://goodiptv.club/douyu/8896746
 https://goodiptv.club/douyu/10121755
 #EXTINF:-1 tvg-id="" tvg-name="倓张TanZ" group-title="其他频道",倓张TanZ
 https://goodiptv.club/douyu/9687221
-#EXTINF:-1 tvg-id="" tvg-name="傲天皇妃sama" group-title="其他频道",傲天皇妃sama
-https://goodiptv.club/douyu/2073
-#EXTINF:-1 tvg-id="" tvg-name="光之镇魂曲" group-title="其他频道",光之镇魂曲
-https://goodiptv.club/douyu/12684513
+#EXTINF:-1 tvg-id="" tvg-name="傲娇一喵喵" group-title="其他频道",傲娇一喵喵
+https://goodiptv.club/douyu/9392610
+#EXTINF:-1 tvg-id="" tvg-name="傲娇的超级赛亚人" group-title="其他频道",傲娇的超级赛亚人
+https://goodiptv.club/douyu/4373285
 #EXTINF:-1 tvg-id="" tvg-name="兔兔MC维辰软桃团" group-title="其他频道",兔兔MC维辰软桃团
 https://goodiptv.club/douyu/8266799
 #EXTINF:-1 tvg-id="" tvg-name="八幡老师1" group-title="其他频道",八幡老师1
 https://goodiptv.club/douyu/9272043
+#EXTINF:-1 tvg-id="" tvg-name="关云猖" group-title="其他频道",关云猖
+https://goodiptv.club/douyu/8820996
 #EXTINF:-1 tvg-id="" tvg-name="养狗的一浩" group-title="其他频道",养狗的一浩
 https://goodiptv.club/douyu/9478842
 #EXTINF:-1 tvg-id="" tvg-name="内蒙卡秋" group-title="其他频道",内蒙卡秋
@@ -734,10 +772,14 @@ https://goodiptv.club/douyu/9484187
 https://goodiptv.club/douyu/7481383
 #EXTINF:-1 tvg-id="" tvg-name="半藏同学" group-title="其他频道",半藏同学
 https://goodiptv.club/douyu/9372627
+#EXTINF:-1 tvg-id="" tvg-name="华白雨" group-title="其他频道",华白雨
+https://goodiptv.club/douyu/9495454
 #EXTINF:-1 tvg-id="" tvg-name="单纯的顺才少爷" group-title="其他频道",单纯的顺才少爷
 https://goodiptv.club/douyu/10084875
 #EXTINF:-1 tvg-id="" tvg-name="卖女孩滴小姑凉" group-title="其他频道",卖女孩滴小姑凉
 https://goodiptv.club/douyu/922564
+#EXTINF:-1 tvg-id="" tvg-name="卖爆鱼的小姑娘" group-title="其他频道",卖爆鱼的小姑娘
+https://goodiptv.club/douyu/5982597
 #EXTINF:-1 tvg-id="" tvg-name="南国小豆豆" group-title="其他频道",南国小豆豆
 https://goodiptv.club/douyu/3310454
 #EXTINF:-1 tvg-id="" tvg-name="卡密密尼" group-title="其他频道",卡密密尼
@@ -748,10 +790,14 @@ https://goodiptv.club/douyu/9050486
 https://goodiptv.club/douyu/7286439
 #EXTINF:-1 tvg-id="" tvg-name="历史经典烩" group-title="其他频道",历史经典烩
 https://goodiptv.club/douyu/9487003
+#EXTINF:-1 tvg-id="" tvg-name="压力洋哥" group-title="其他频道",压力洋哥
+https://goodiptv.club/douyu/5297259
 #EXTINF:-1 tvg-id="" tvg-name="去种田的向凹凸" group-title="其他频道",去种田的向凹凸
 https://goodiptv.club/douyu/9570290
 #EXTINF:-1 tvg-id="" tvg-name="双笙陈元汐" group-title="其他频道",双笙陈元汐
 https://goodiptv.club/douyu/6476693
+#EXTINF:-1 tvg-id="" tvg-name="只关于篮球的只老师" group-title="其他频道",只关于篮球的只老师
+https://goodiptv.club/douyu/9367541
 #EXTINF:-1 tvg-id="" tvg-name="可乐家的老骑士" group-title="其他频道",可乐家的老骑士
 https://goodiptv.club/douyu/9958943
 #EXTINF:-1 tvg-id="" tvg-name="台球帝" group-title="其他频道",台球帝
@@ -766,6 +812,8 @@ https://goodiptv.club/douyu/9382395
 https://goodiptv.club/douyu/9370197
 #EXTINF:-1 tvg-id="" tvg-name="同学请坐吧" group-title="其他频道",同学请坐吧
 https://goodiptv.club/douyu/3736649
+#EXTINF:-1 tvg-id="" tvg-name="同行渔猎笔记" group-title="其他频道",同行渔猎笔记
+https://goodiptv.club/douyu/2718202
 #EXTINF:-1 tvg-id="" tvg-name="名人物语DY" group-title="其他频道",名人物语DY
 https://goodiptv.club/douyu/9539063
 #EXTINF:-1 tvg-id="" tvg-name="名曰老饕" group-title="其他频道",名曰老饕
@@ -778,6 +826,8 @@ https://goodiptv.club/douyu/9337049
 https://goodiptv.club/douyu/2987100
 #EXTINF:-1 tvg-id="" tvg-name="吸奇侠" group-title="其他频道",吸奇侠
 https://goodiptv.club/douyu/8986636
+#EXTINF:-1 tvg-id="" tvg-name="吾恩5nn" group-title="其他频道",吾恩5nn
+https://goodiptv.club/douyu/9631914
 #EXTINF:-1 tvg-id="" tvg-name="周六野Zoey" group-title="其他频道",周六野Zoey
 https://goodiptv.club/douyu/8912150
 #EXTINF:-1 tvg-id="" tvg-name="周扒片" group-title="其他频道",周扒片
@@ -810,6 +860,8 @@ https://goodiptv.club/douyu/2067020
 https://goodiptv.club/douyu/9619048
 #EXTINF:-1 tvg-id="" tvg-name="喵喵喵的猫酱酱" group-title="其他频道",喵喵喵的猫酱酱
 https://goodiptv.club/douyu/11179077
+#EXTINF:-1 tvg-id="" tvg-name="喵招诗雨" group-title="其他频道",喵招诗雨
+https://goodiptv.club/douyu/9651121
 #EXTINF:-1 tvg-id="" tvg-name="喵来啦V" group-title="其他频道",喵来啦V
 https://goodiptv.club/douyu/8657669
 #EXTINF:-1 tvg-id="" tvg-name="嘴巴鼻子没有沟" group-title="其他频道",嘴巴鼻子没有沟
@@ -866,10 +918,10 @@ https://goodiptv.club/douyu/8851140
 https://goodiptv.club/douyu/10217975
 #EXTINF:-1 tvg-id="" tvg-name="大笑影院" group-title="其他频道",大笑影院
 https://goodiptv.club/douyu/10329300
+#EXTINF:-1 tvg-id="" tvg-name="大胡子魏" group-title="其他频道",大胡子魏
+https://goodiptv.club/douyu/8792763
 #EXTINF:-1 tvg-id="" tvg-name="大蓝雀" group-title="其他频道",大蓝雀
 https://goodiptv.club/douyu/8656759
-#EXTINF:-1 tvg-id="" tvg-name="大黄喵吖" group-title="其他频道",大黄喵吖
-https://goodiptv.club/douyu/12392971
 #EXTINF:-1 tvg-id="" tvg-name="天JIANG" group-title="其他频道",天JIANG
 https://goodiptv.club/douyu/9455480
 #EXTINF:-1 tvg-id="" tvg-name="天才大熊猫啊" group-title="其他频道",天才大熊猫啊
@@ -918,6 +970,8 @@ https://goodiptv.club/douyu/3194372
 https://goodiptv.club/douyu/9498354
 #EXTINF:-1 tvg-id="" tvg-name="安安601801" group-title="其他频道",安安601801
 https://goodiptv.club/douyu/11283504
+#EXTINF:-1 tvg-id="" tvg-name="安琪儿的羽翼" group-title="其他频道",安琪儿的羽翼
+https://goodiptv.club/douyu/9388783
 #EXTINF:-1 tvg-id="" tvg-name="宋小宝小品" group-title="其他频道",宋小宝小品
 https://goodiptv.club/douyu/9817729
 #EXTINF:-1 tvg-id="" tvg-name="宝蓝和朋友们" group-title="其他频道",宝蓝和朋友们
@@ -926,6 +980,10 @@ https://goodiptv.club/douyu/9283356
 https://goodiptv.club/douyu/8850682
 #EXTINF:-1 tvg-id="" tvg-name="小三笠笠酱" group-title="其他频道",小三笠笠酱
 https://goodiptv.club/douyu/9188696
+#EXTINF:-1 tvg-id="" tvg-name="小侠来了" group-title="其他频道",小侠来了
+https://goodiptv.club/douyu/9734042
+#EXTINF:-1 tvg-id="" tvg-name="小兰酱177" group-title="其他频道",小兰酱177
+https://goodiptv.club/douyu/11490031
 #EXTINF:-1 tvg-id="" tvg-name="小刚学长o" group-title="其他频道",小刚学长o
 https://goodiptv.club/douyu/9701497
 #EXTINF:-1 tvg-id="" tvg-name="小太V" group-title="其他频道",小太V
@@ -938,6 +996,8 @@ https://goodiptv.club/douyu/3700024
 https://goodiptv.club/douyu/9419678
 #EXTINF:-1 tvg-id="" tvg-name="小小甜的骑士" group-title="其他频道",小小甜的骑士
 https://goodiptv.club/douyu/9236042
+#EXTINF:-1 tvg-id="" tvg-name="小小鹿老师" group-title="其他频道",小小鹿老师
+https://goodiptv.club/douyu/9442889
 #EXTINF:-1 tvg-id="" tvg-name="小手枪Newhandgun" group-title="其他频道",小手枪Newhandgun
 https://goodiptv.club/douyu/8943060
 #EXTINF:-1 tvg-id="" tvg-name="小明不背锅up" group-title="其他频道",小明不背锅up
@@ -946,8 +1006,18 @@ https://goodiptv.club/douyu/117854
 https://goodiptv.club/douyu/11199147
 #EXTINF:-1 tvg-id="" tvg-name="小林家的旗女仆" group-title="其他频道",小林家的旗女仆
 https://goodiptv.club/douyu/9211287
+#EXTINF:-1 tvg-id="" tvg-name="小毅主播A" group-title="其他频道",小毅主播A
+https://goodiptv.club/douyu/12780285
 #EXTINF:-1 tvg-id="" tvg-name="小毅主播R" group-title="其他频道",小毅主播R
 https://goodiptv.club/douyu/12805939
+#EXTINF:-1 tvg-id="" tvg-name="小毅主播e" group-title="其他频道",小毅主播e
+https://goodiptv.club/douyu/11851549
+#EXTINF:-1 tvg-id="" tvg-name="小毅主播q" group-title="其他频道",小毅主播q
+https://goodiptv.club/douyu/6906628
+#EXTINF:-1 tvg-id="" tvg-name="小猪优版剧院" group-title="其他频道",小猪优版剧院
+https://goodiptv.club/douyu/10297898
+#EXTINF:-1 tvg-id="" tvg-name="小猪搞笑精选" group-title="其他频道",小猪搞笑精选
+https://goodiptv.club/douyu/10329752
 #EXTINF:-1 tvg-id="" tvg-name="小红在农村" group-title="其他频道",小红在农村
 https://goodiptv.club/douyu/1492444
 #EXTINF:-1 tvg-id="" tvg-name="小约翰可汗" group-title="其他频道",小约翰可汗
@@ -958,6 +1028,8 @@ https://goodiptv.club/douyu/9433806
 https://goodiptv.club/douyu/9314668
 #EXTINF:-1 tvg-id="" tvg-name="小铁房乐队" group-title="其他频道",小铁房乐队
 https://goodiptv.club/douyu/9624976
+#EXTINF:-1 tvg-id="" tvg-name="小青放映社" group-title="其他频道",小青放映社
+https://goodiptv.club/douyu/9314689
 #EXTINF:-1 tvg-id="" tvg-name="小馒头叫包几" group-title="其他频道",小馒头叫包几
 https://goodiptv.club/douyu/9028721
 #EXTINF:-1 tvg-id="" tvg-name="小鸭子老师" group-title="其他频道",小鸭子老师
@@ -976,10 +1048,14 @@ https://goodiptv.club/douyu/11531165
 https://goodiptv.club/douyu/9656124
 #EXTINF:-1 tvg-id="" tvg-name="尽整没用D" group-title="其他频道",尽整没用D
 https://goodiptv.club/douyu/8791622
+#EXTINF:-1 tvg-id="" tvg-name="屁屁鲁男孩" group-title="其他频道",屁屁鲁男孩
+https://goodiptv.club/douyu/708526
 #EXTINF:-1 tvg-id="" tvg-name="屁屁鸭家族LOVE" group-title="其他频道",屁屁鸭家族LOVE
 https://goodiptv.club/douyu/9461930
 #EXTINF:-1 tvg-id="" tvg-name="山下智博official" group-title="其他频道",山下智博official
 https://goodiptv.club/douyu/9186596
+#EXTINF:-1 tvg-id="" tvg-name="山里记" group-title="其他频道",山里记
+https://goodiptv.club/douyu/9410236
 #EXTINF:-1 tvg-id="" tvg-name="屿风体育" group-title="其他频道",屿风体育
 https://goodiptv.club/douyu/10329889
 #EXTINF:-1 tvg-id="" tvg-name="岚FLL" group-title="其他频道",岚FLL
@@ -1028,14 +1104,16 @@ https://goodiptv.club/douyu/5875025
 https://goodiptv.club/douyu/9446338
 #EXTINF:-1 tvg-id="" tvg-name="彼岸心属MADEIN伊藤美优" group-title="其他频道",彼岸心属MADEIN伊藤美优
 https://goodiptv.club/douyu/40471
+#EXTINF:-1 tvg-id="" tvg-name="往事vs随风1" group-title="其他频道",往事vs随风1
+https://goodiptv.club/douyu/3113309
 #EXTINF:-1 tvg-id="" tvg-name="律子桑" group-title="其他频道",律子桑
 https://goodiptv.club/douyu/9371308
 #EXTINF:-1 tvg-id="" tvg-name="徐大sao" group-title="其他频道",徐大sao
 https://goodiptv.club/douyu/7107176
+#EXTINF:-1 tvg-id="" tvg-name="御前狼王顾云川" group-title="其他频道",御前狼王顾云川
+https://goodiptv.club/douyu/9517289
 #EXTINF:-1 tvg-id="" tvg-name="御魔君" group-title="其他频道",御魔君
 https://goodiptv.club/douyu/9199976
-#EXTINF:-1 tvg-id="" tvg-name="微梦屋" group-title="其他频道",微梦屋
-https://goodiptv.club/douyu/7027040
 #EXTINF:-1 tvg-id="" tvg-name="徳彪的奇妙冒险" group-title="其他频道",徳彪的奇妙冒险
 https://goodiptv.club/douyu/9145648
 #EXTINF:-1 tvg-id="" tvg-name="德井鱼" group-title="其他频道",德井鱼
@@ -1044,6 +1122,8 @@ https://goodiptv.club/douyu/9184833
 https://goodiptv.club/douyu/9488056
 #EXTINF:-1 tvg-id="" tvg-name="忆暄Ethan" group-title="其他频道",忆暄Ethan
 https://goodiptv.club/douyu/9570042
+#EXTINF:-1 tvg-id="" tvg-name="快乐的小波子" group-title="其他频道",快乐的小波子
+https://goodiptv.club/douyu/9039399
 #EXTINF:-1 tvg-id="" tvg-name="怠惰守夜" group-title="其他频道",怠惰守夜
 https://goodiptv.club/douyu/8842108
 #EXTINF:-1 tvg-id="" tvg-name="怡宝妹妹丶" group-title="其他频道",怡宝妹妹丶
@@ -1070,8 +1150,12 @@ https://goodiptv.club/douyu/9565130
 https://goodiptv.club/douyu/2287949
 #EXTINF:-1 tvg-id="" tvg-name="我为奥迪上黄金" group-title="其他频道",我为奥迪上黄金
 https://goodiptv.club/douyu/9336286
+#EXTINF:-1 tvg-id="" tvg-name="我们可爱的程程" group-title="其他频道",我们可爱的程程
+https://goodiptv.club/douyu/329667
 #EXTINF:-1 tvg-id="" tvg-name="我叫孙火旺" group-title="其他频道",我叫孙火旺
 https://goodiptv.club/douyu/9770949
+#EXTINF:-1 tvg-id="" tvg-name="我叫萌迪迪V" group-title="其他频道",我叫萌迪迪V
+https://goodiptv.club/douyu/5354705
 #EXTINF:-1 tvg-id="" tvg-name="我是YOLO啊" group-title="其他频道",我是YOLO啊
 https://goodiptv.club/douyu/5077166
 #EXTINF:-1 tvg-id="" tvg-name="我是一只粽子啊啊" group-title="其他频道",我是一只粽子啊啊
@@ -1086,20 +1170,32 @@ https://goodiptv.club/douyu/9665696
 https://goodiptv.club/douyu/9486020
 #EXTINF:-1 tvg-id="" tvg-name="我的超能力女友" group-title="其他频道",我的超能力女友
 https://goodiptv.club/douyu/9501159
+#EXTINF:-1 tvg-id="" tvg-name="我砸晕了牛顿奥" group-title="其他频道",我砸晕了牛顿奥
+https://goodiptv.club/douyu/1218414
 #EXTINF:-1 tvg-id="" tvg-name="戒喵中心" group-title="其他频道",戒喵中心
 https://goodiptv.club/douyu/8658212
 #EXTINF:-1 tvg-id="" tvg-name="戴萌兔" group-title="其他频道",戴萌兔
 https://goodiptv.club/douyu/9522315
 #EXTINF:-1 tvg-id="" tvg-name="户外老曹" group-title="其他频道",户外老曹
 https://goodiptv.club/douyu/9957389
+#EXTINF:-1 tvg-id="" tvg-name="扒圈圈V" group-title="其他频道",扒圈圈V
+https://goodiptv.club/douyu/9649913
 #EXTINF:-1 tvg-id="" tvg-name="打工战士SWEET" group-title="其他频道",打工战士SWEET
 https://goodiptv.club/douyu/8795660
+#EXTINF:-1 tvg-id="" tvg-name="托尔兹桃花剑" group-title="其他频道",托尔兹桃花剑
+https://goodiptv.club/douyu/8896743
 #EXTINF:-1 tvg-id="" tvg-name="拳击大王" group-title="其他频道",拳击大王
 https://goodiptv.club/douyu/9385340
+#EXTINF:-1 tvg-id="" tvg-name="拳叔二次元" group-title="其他频道",拳叔二次元
+https://goodiptv.club/douyu/9484105
 #EXTINF:-1 tvg-id="" tvg-name="挖沟连彭沟长" group-title="其他频道",挖沟连彭沟长
 https://goodiptv.club/douyu/8413092
+#EXTINF:-1 tvg-id="" tvg-name="掌上Club" group-title="其他频道",掌上Club
+https://goodiptv.club/douyu/1770806
 #EXTINF:-1 tvg-id="" tvg-name="探奇录" group-title="其他频道",探奇录
 https://goodiptv.club/douyu/9746763
+#EXTINF:-1 tvg-id="" tvg-name="探秘者大正" group-title="其他频道",探秘者大正
+https://goodiptv.club/douyu/9330485
 #EXTINF:-1 tvg-id="" tvg-name="搞笑动漫大本营" group-title="其他频道",搞笑动漫大本营
 https://goodiptv.club/douyu/9650181
 #EXTINF:-1 tvg-id="" tvg-name="搞笑天堂岛" group-title="其他频道",搞笑天堂岛
@@ -1116,6 +1212,8 @@ https://goodiptv.club/douyu/10308225
 https://goodiptv.club/douyu/2912165
 #EXTINF:-1 tvg-id="" tvg-name="数据库saber" group-title="其他频道",数据库saber
 https://goodiptv.club/douyu/9720506
+#EXTINF:-1 tvg-id="" tvg-name="文侠灬杨杨" group-title="其他频道",文侠灬杨杨
+https://goodiptv.club/douyu/10317257
 #EXTINF:-1 tvg-id="" tvg-name="文曰小强" group-title="其他频道",文曰小强
 https://goodiptv.club/douyu/2680501
 #EXTINF:-1 tvg-id="" tvg-name="文西与阿漆" group-title="其他频道",文西与阿漆
@@ -1124,16 +1222,26 @@ https://goodiptv.club/douyu/8737695
 https://goodiptv.club/douyu/10401481
 #EXTINF:-1 tvg-id="" tvg-name="方攵日央木几" group-title="其他频道",方攵日央木几
 https://goodiptv.club/douyu/9942574
+#EXTINF:-1 tvg-id="" tvg-name="无才先生" group-title="其他频道",无才先生
+https://goodiptv.club/douyu/8317571
 #EXTINF:-1 tvg-id="" tvg-name="旧梦随人心" group-title="其他频道",旧梦随人心
 https://goodiptv.club/douyu/692533
 #EXTINF:-1 tvg-id="" tvg-name="旺仔大哥哥阿" group-title="其他频道",旺仔大哥哥阿
 https://goodiptv.club/douyu/9629361
+#EXTINF:-1 tvg-id="" tvg-name="昆仑决KLF" group-title="其他频道",昆仑决KLF
+https://goodiptv.club/douyu/1753007
 #EXTINF:-1 tvg-id="" tvg-name="昆特牌之大哥食正野" group-title="其他频道",昆特牌之大哥食正野
 https://goodiptv.club/douyu/7919720
+#EXTINF:-1 tvg-id="" tvg-name="星空茶茶" group-title="其他频道",星空茶茶
+https://goodiptv.club/douyu/8635497
 #EXTINF:-1 tvg-id="" tvg-name="是chshh" group-title="其他频道",是chshh
 https://goodiptv.club/douyu/9570579
+#EXTINF:-1 tvg-id="" tvg-name="是不是Pro" group-title="其他频道",是不是Pro
+https://goodiptv.club/douyu/9475113
 #EXTINF:-1 tvg-id="" tvg-name="是个小可爱iiii" group-title="其他频道",是个小可爱iiii
 https://goodiptv.club/douyu/9650782
+#EXTINF:-1 tvg-id="" tvg-name="是你的迷弟吖" group-title="其他频道",是你的迷弟吖
+https://goodiptv.club/douyu/7039598
 #EXTINF:-1 tvg-id="" tvg-name="是小x同学呀" group-title="其他频道",是小x同学呀
 https://goodiptv.club/douyu/9415020
 #EXTINF:-1 tvg-id="" tvg-name="是忆昔啊" group-title="其他频道",是忆昔啊
@@ -1144,8 +1252,10 @@ https://goodiptv.club/douyu/9540113
 https://goodiptv.club/douyu/9666042
 #EXTINF:-1 tvg-id="" tvg-name="是脑洞君君君" group-title="其他频道",是脑洞君君君
 https://goodiptv.club/douyu/9360149
-#EXTINF:-1 tvg-id="" tvg-name="晓晓666666" group-title="其他频道",晓晓666666
-https://goodiptv.club/douyu/426517
+#EXTINF:-1 tvg-id="" tvg-name="暮肆Mousse" group-title="其他频道",暮肆Mousse
+https://goodiptv.club/douyu/9634199
+#EXTINF:-1 tvg-id="" tvg-name="暴走兄弟v" group-title="其他频道",暴走兄弟v
+https://goodiptv.club/douyu/9350960
 #EXTINF:-1 tvg-id="" tvg-name="暴走漫画" group-title="其他频道",暴走漫画
 https://goodiptv.club/douyu/1275878
 #EXTINF:-1 tvg-id="" tvg-name="暴躁少女零九" group-title="其他频道",暴躁少女零九
@@ -1154,8 +1264,6 @@ https://goodiptv.club/douyu/9065302
 https://goodiptv.club/douyu/10289400
 #EXTINF:-1 tvg-id="" tvg-name="月影Yueing212" group-title="其他频道",月影Yueing212
 https://goodiptv.club/douyu/8885525
-#EXTINF:-1 tvg-id="" tvg-name="有一辆立标奔驰" group-title="其他频道",有一辆立标奔驰
-https://goodiptv.club/douyu/12442176
 #EXTINF:-1 tvg-id="" tvg-name="有趣视频分享" group-title="其他频道",有趣视频分享
 https://goodiptv.club/douyu/1816353
 #EXTINF:-1 tvg-id="" tvg-name="朔涵君" group-title="其他频道",朔涵君
@@ -1192,6 +1300,10 @@ https://goodiptv.club/douyu/5279518
 https://goodiptv.club/douyu/8896100
 #EXTINF:-1 tvg-id="" tvg-name="柠柠柠萌菌" group-title="其他频道",柠柠柠萌菌
 https://goodiptv.club/douyu/9720895
+#EXTINF:-1 tvg-id="" tvg-name="柠檬檬檬儿vlog" group-title="其他频道",柠檬檬檬儿vlog
+https://goodiptv.club/douyu/9624845
+#EXTINF:-1 tvg-id="" tvg-name="柳青瑶本尊" group-title="其他频道",柳青瑶本尊
+https://goodiptv.club/douyu/2281324
 #EXTINF:-1 tvg-id="" tvg-name="树根龙门阵" group-title="其他频道",树根龙门阵
 https://goodiptv.club/douyu/1833459
 #EXTINF:-1 tvg-id="" tvg-name="桀骜不驯认识" group-title="其他频道",桀骜不驯认识
@@ -1210,6 +1322,8 @@ https://goodiptv.club/douyu/6785471
 https://goodiptv.club/douyu/8793544
 #EXTINF:-1 tvg-id="" tvg-name="橙记Orange丶" group-title="其他频道",橙记Orange丶
 https://goodiptv.club/douyu/4549169
+#EXTINF:-1 tvg-id="" tvg-name="正宗吔汁吔树牌" group-title="其他频道",正宗吔汁吔树牌
+https://goodiptv.club/douyu/10217953
 #EXTINF:-1 tvg-id="" tvg-name="正直的陈易" group-title="其他频道",正直的陈易
 https://goodiptv.club/douyu/9365118
 #EXTINF:-1 tvg-id="" tvg-name="武侠剧场" group-title="其他频道",武侠剧场
@@ -1220,6 +1334,10 @@ https://goodiptv.club/douyu/9616619
 https://goodiptv.club/douyu/10372765
 #EXTINF:-1 tvg-id="" tvg-name="永无叙V" group-title="其他频道",永无叙V
 https://goodiptv.club/douyu/9442980
+#EXTINF:-1 tvg-id="" tvg-name="永远快乐的小美女" group-title="其他频道",永远快乐的小美女
+https://goodiptv.club/douyu/6091425
+#EXTINF:-1 tvg-id="" tvg-name="求求扣扣困困" group-title="其他频道",求求扣扣困困
+https://goodiptv.club/douyu/8795274
 #EXTINF:-1 tvg-id="" tvg-name="沂沐啊" group-title="其他频道",沂沐啊
 https://goodiptv.club/douyu/9481137
 #EXTINF:-1 tvg-id="" tvg-name="沉郁观影" group-title="其他频道",沉郁观影
@@ -1234,6 +1352,8 @@ https://goodiptv.club/douyu/8850453
 https://goodiptv.club/douyu/9055742
 #EXTINF:-1 tvg-id="" tvg-name="洋房姐姐" group-title="其他频道",洋房姐姐
 https://goodiptv.club/douyu/9172774
+#EXTINF:-1 tvg-id="" tvg-name="洛飕飕" group-title="其他频道",洛飕飕
+https://goodiptv.club/douyu/9543361
 #EXTINF:-1 tvg-id="" tvg-name="流小豆" group-title="其他频道",流小豆
 https://goodiptv.club/douyu/2441228
 #EXTINF:-1 tvg-id="" tvg-name="流心影者" group-title="其他频道",流心影者
@@ -1252,10 +1372,16 @@ https://goodiptv.club/douyu/613850
 https://goodiptv.club/douyu/2519745
 #EXTINF:-1 tvg-id="" tvg-name="淼漫迷" group-title="其他频道",淼漫迷
 https://goodiptv.club/douyu/9455567
+#EXTINF:-1 tvg-id="" tvg-name="渔农泰叔" group-title="其他频道",渔农泰叔
+https://goodiptv.club/douyu/9348784
 #EXTINF:-1 tvg-id="" tvg-name="渔戈兄弟赶海" group-title="其他频道",渔戈兄弟赶海
 https://goodiptv.club/douyu/9091847
 #EXTINF:-1 tvg-id="" tvg-name="渔村小马" group-title="其他频道",渔村小马
 https://goodiptv.club/douyu/1447771
+#EXTINF:-1 tvg-id="" tvg-name="渔民老海" group-title="其他频道",渔民老海
+https://goodiptv.club/douyu/9272327
+#EXTINF:-1 tvg-id="" tvg-name="渚岸汐潮233" group-title="其他频道",渚岸汐潮233
+https://goodiptv.club/douyu/9518082
 #EXTINF:-1 tvg-id="" tvg-name="游戏上Miss" group-title="其他频道",游戏上Miss
 https://goodiptv.club/douyu/1355801
 #EXTINF:-1 tvg-id="" tvg-name="游钓中国李大毛" group-title="其他频道",游钓中国李大毛
@@ -1276,6 +1402,8 @@ https://goodiptv.club/douyu/1713615
 https://goodiptv.club/douyu/9535657
 #EXTINF:-1 tvg-id="" tvg-name="潜伏sc" group-title="其他频道",潜伏sc
 https://goodiptv.club/douyu/9458345
+#EXTINF:-1 tvg-id="" tvg-name="火宗君丶" group-title="其他频道",火宗君丶
+https://goodiptv.club/douyu/9580477
 #EXTINF:-1 tvg-id="" tvg-name="火柴人HyunsDojo" group-title="其他频道",火柴人HyunsDojo
 https://goodiptv.club/douyu/9430394
 #EXTINF:-1 tvg-id="" tvg-name="热星音乐菌" group-title="其他频道",热星音乐菌
@@ -1300,8 +1428,8 @@ https://goodiptv.club/douyu/317409
 https://goodiptv.club/douyu/9576933
 #EXTINF:-1 tvg-id="" tvg-name="牛奶味的梦猪猪" group-title="其他频道",牛奶味的梦猪猪
 https://goodiptv.club/douyu/5261342
-#EXTINF:-1 tvg-id="" tvg-name="牢漠" group-title="其他频道",牢漠
-https://goodiptv.club/douyu/12774766
+#EXTINF:-1 tvg-id="" tvg-name="犀利影评" group-title="其他频道",犀利影评
+https://goodiptv.club/douyu/9647845
 #EXTINF:-1 tvg-id="" tvg-name="狂阿弥爷" group-title="其他频道",狂阿弥爷
 https://goodiptv.club/douyu/8975282
 #EXTINF:-1 tvg-id="" tvg-name="狄胖胖与李乖乖" group-title="其他频道",狄胖胖与李乖乖
@@ -1340,10 +1468,14 @@ https://goodiptv.club/douyu/7661496
 https://goodiptv.club/douyu/1569773
 #EXTINF:-1 tvg-id="" tvg-name="甜粉粉的旅人呀" group-title="其他频道",甜粉粉的旅人呀
 https://goodiptv.club/douyu/7335280
-#EXTINF:-1 tvg-id="" tvg-name="用户88877169" group-title="其他频道",用户88877169
-https://goodiptv.club/douyu/12224189
+#EXTINF:-1 tvg-id="" tvg-name="用户1275665728" group-title="其他频道",用户1275665728
+https://goodiptv.club/douyu/9067836
+#EXTINF:-1 tvg-id="" tvg-name="用户2979101" group-title="其他频道",用户2979101
+https://goodiptv.club/douyu/9273031
 #EXTINF:-1 tvg-id="" tvg-name="用青春去旅行" group-title="其他频道",用青春去旅行
 https://goodiptv.club/douyu/9629423
+#EXTINF:-1 tvg-id="" tvg-name="田园小漠" group-title="其他频道",田园小漠
+https://goodiptv.club/douyu/8669435
 #EXTINF:-1 tvg-id="" tvg-name="田浅浅w" group-title="其他频道",田浅浅w
 https://goodiptv.club/douyu/9747144
 #EXTINF:-1 tvg-id="" tvg-name="电视这个圈儿" group-title="其他频道",电视这个圈儿
@@ -1356,6 +1488,8 @@ https://goodiptv.club/douyu/5522351
 https://goodiptv.club/douyu/4290711
 #EXTINF:-1 tvg-id="" tvg-name="白了个痴" group-title="其他频道",白了个痴
 https://goodiptv.club/douyu/319576
+#EXTINF:-1 tvg-id="" tvg-name="白燥No1" group-title="其他频道",白燥No1
+https://goodiptv.club/douyu/280064
 #EXTINF:-1 tvg-id="" tvg-name="白鱼Sakana" group-title="其他频道",白鱼Sakana
 https://goodiptv.club/douyu/9611771
 #EXTINF:-1 tvg-id="" tvg-name="百万巨星麒麟君" group-title="其他频道",百万巨星麒麟君
@@ -1380,6 +1514,8 @@ https://goodiptv.club/douyu/9575293
 https://goodiptv.club/douyu/9650047
 #EXTINF:-1 tvg-id="" tvg-name="神奇的老皮AmazingLP" group-title="其他频道",神奇的老皮AmazingLP
 https://goodiptv.club/douyu/8891285
+#EXTINF:-1 tvg-id="" tvg-name="神烦xp" group-title="其他频道",神烦xp
+https://goodiptv.club/douyu/8286679
 #EXTINF:-1 tvg-id="" tvg-name="神迹小霸霸" group-title="其他频道",神迹小霸霸
 https://goodiptv.club/douyu/8837963
 #EXTINF:-1 tvg-id="" tvg-name="科学放映室" group-title="其他频道",科学放映室
@@ -1388,14 +1524,20 @@ https://goodiptv.club/douyu/9439712
 https://goodiptv.club/douyu/3508304
 #EXTINF:-1 tvg-id="" tvg-name="科幻战舰" group-title="其他频道",科幻战舰
 https://goodiptv.club/douyu/8772060
+#EXTINF:-1 tvg-id="" tvg-name="科幻梦工场" group-title="其他频道",科幻梦工场
+https://goodiptv.club/douyu/9608874
 #EXTINF:-1 tvg-id="" tvg-name="科技PRO" group-title="其他频道",科技PRO
 https://goodiptv.club/douyu/9446511
 #EXTINF:-1 tvg-id="" tvg-name="程情写意" group-title="其他频道",程情写意
 https://goodiptv.club/douyu/9191358
+#EXTINF:-1 tvg-id="" tvg-name="穆杉车话" group-title="其他频道",穆杉车话
+https://goodiptv.club/douyu/9602107
 #EXTINF:-1 tvg-id="" tvg-name="竹儿公公" group-title="其他频道",竹儿公公
 https://goodiptv.club/douyu/8807568
 #EXTINF:-1 tvg-id="" tvg-name="竹公子有礼了" group-title="其他频道",竹公子有礼了
 https://goodiptv.club/douyu/8887432
+#EXTINF:-1 tvg-id="" tvg-name="竹内亮导演" group-title="其他频道",竹内亮导演
+https://goodiptv.club/douyu/8933612
 #EXTINF:-1 tvg-id="" tvg-name="竹叶的熊猫" group-title="其他频道",竹叶的熊猫
 https://goodiptv.club/douyu/3870925
 #EXTINF:-1 tvg-id="" tvg-name="笑点组长" group-title="其他频道",笑点组长
@@ -1410,6 +1552,8 @@ https://goodiptv.club/douyu/7495810
 https://goodiptv.club/douyu/9170147
 #EXTINF:-1 tvg-id="" tvg-name="篮球人物" group-title="其他频道",篮球人物
 https://goodiptv.club/douyu/8434598
+#EXTINF:-1 tvg-id="" tvg-name="篮球小人物" group-title="其他频道",篮球小人物
+https://goodiptv.club/douyu/9184257
 #EXTINF:-1 tvg-id="" tvg-name="篮球过人技巧" group-title="其他频道",篮球过人技巧
 https://goodiptv.club/douyu/9406897
 #EXTINF:-1 tvg-id="" tvg-name="篮球长镜头" group-title="其他频道",篮球长镜头
@@ -1448,8 +1592,12 @@ https://goodiptv.club/douyu/508118
 https://goodiptv.club/douyu/9403178
 #EXTINF:-1 tvg-id="" tvg-name="罗先生699" group-title="其他频道",罗先生699
 https://goodiptv.club/douyu/12065805
+#EXTINF:-1 tvg-id="" tvg-name="羊小川" group-title="其他频道",羊小川
+https://goodiptv.club/douyu/11081842
 #EXTINF:-1 tvg-id="" tvg-name="美人而已" group-title="其他频道",美人而已
 https://goodiptv.club/douyu/5138817
+#EXTINF:-1 tvg-id="" tvg-name="羽羊朩夂一" group-title="其他频道",羽羊朩夂一
+https://goodiptv.club/douyu/9533226
 #EXTINF:-1 tvg-id="" tvg-name="羽翼天使的挽歌" group-title="其他频道",羽翼天使的挽歌
 https://goodiptv.club/douyu/9193179
 #EXTINF:-1 tvg-id="" tvg-name="翦瞳秋" group-title="其他频道",翦瞳秋
@@ -1468,12 +1616,16 @@ https://goodiptv.club/douyu/9937291
 https://goodiptv.club/douyu/236461
 #EXTINF:-1 tvg-id="" tvg-name="耗子像个战神" group-title="其他频道",耗子像个战神
 https://goodiptv.club/douyu/1557288
+#EXTINF:-1 tvg-id="" tvg-name="聚聚聚一个月" group-title="其他频道",聚聚聚一个月
+https://goodiptv.club/douyu/4105989
 #EXTINF:-1 tvg-id="" tvg-name="肥宅小草" group-title="其他频道",肥宅小草
 https://goodiptv.club/douyu/8887438
 #EXTINF:-1 tvg-id="" tvg-name="育碧先生v" group-title="其他频道",育碧先生v
 https://goodiptv.club/douyu/9505962
 #EXTINF:-1 tvg-id="" tvg-name="胆子不小的郑吉祥" group-title="其他频道",胆子不小的郑吉祥
 https://goodiptv.club/douyu/9171887
+#EXTINF:-1 tvg-id="" tvg-name="胖段段fre" group-title="其他频道",胖段段fre
+https://goodiptv.club/douyu/9662856
 #EXTINF:-1 tvg-id="" tvg-name="胡椒粉的胡歌" group-title="其他频道",胡椒粉的胡歌
 https://goodiptv.club/douyu/5448413
 #EXTINF:-1 tvg-id="" tvg-name="胥渡吧直播号" group-title="其他频道",胥渡吧直播号
@@ -1496,6 +1648,8 @@ https://goodiptv.club/douyu/9262563
 https://goodiptv.club/douyu/9174097
 #EXTINF:-1 tvg-id="" tvg-name="苹果Zei妖" group-title="其他频道",苹果Zei妖
 https://goodiptv.club/douyu/2793084
+#EXTINF:-1 tvg-id="" tvg-name="苹果Zei甜" group-title="其他频道",苹果Zei甜
+https://goodiptv.club/douyu/1174353
 #EXTINF:-1 tvg-id="" tvg-name="茶啊二中官方" group-title="其他频道",茶啊二中官方
 https://goodiptv.club/douyu/2925610
 #EXTINF:-1 tvg-id="" tvg-name="草帽丶海贼团" group-title="其他频道",草帽丶海贼团
@@ -1516,8 +1670,6 @@ https://goodiptv.club/douyu/10650322
 https://goodiptv.club/douyu/10675329
 #EXTINF:-1 tvg-id="" tvg-name="荒野避难所" group-title="其他频道",荒野避难所
 https://goodiptv.club/douyu/10234334
-#EXTINF:-1 tvg-id="" tvg-name="莫兮凤流寨" group-title="其他频道",莫兮凤流寨
-https://goodiptv.club/douyu/1755813
 #EXTINF:-1 tvg-id="" tvg-name="莫扎金" group-title="其他频道",莫扎金
 https://goodiptv.club/douyu/9272077
 #EXTINF:-1 tvg-id="" tvg-name="菠萝屋SpongeBob" group-title="其他频道",菠萝屋SpongeBob
@@ -1534,6 +1686,8 @@ https://goodiptv.club/douyu/9559063
 https://goodiptv.club/douyu/9685770
 #EXTINF:-1 tvg-id="" tvg-name="董王老登" group-title="其他频道",董王老登
 https://goodiptv.club/douyu/9412287
+#EXTINF:-1 tvg-id="" tvg-name="蓝光乐队" group-title="其他频道",蓝光乐队
+https://goodiptv.club/douyu/9572351
 #EXTINF:-1 tvg-id="" tvg-name="蓝星人一ET" group-title="其他频道",蓝星人一ET
 https://goodiptv.club/douyu/9431727
 #EXTINF:-1 tvg-id="" tvg-name="蓝格雷" group-title="其他频道",蓝格雷
@@ -1544,6 +1698,8 @@ https://goodiptv.club/douyu/7459925
 https://goodiptv.club/douyu/9662853
 #EXTINF:-1 tvg-id="" tvg-name="蔡老板家的长工丶" group-title="其他频道",蔡老板家的长工丶
 https://goodiptv.club/douyu/8869614
+#EXTINF:-1 tvg-id="" tvg-name="蕃薯粥粥煮好了" group-title="其他频道",蕃薯粥粥煮好了
+https://goodiptv.club/douyu/11878141
 #EXTINF:-1 tvg-id="" tvg-name="虾米大模王" group-title="其他频道",虾米大模王
 https://goodiptv.club/douyu/102114
 #EXTINF:-1 tvg-id="" tvg-name="血小板呐呐" group-title="其他频道",血小板呐呐
@@ -1552,6 +1708,8 @@ https://goodiptv.club/douyu/4285043
 https://goodiptv.club/douyu/4231787
 #EXTINF:-1 tvg-id="" tvg-name="要不要请你吃元宝蜡烛" group-title="其他频道",要不要请你吃元宝蜡烛
 https://goodiptv.club/douyu/4168287
+#EXTINF:-1 tvg-id="" tvg-name="见世君V" group-title="其他频道",见世君V
+https://goodiptv.club/douyu/10220896
 #EXTINF:-1 tvg-id="" tvg-name="言官有本" group-title="其他频道",言官有本
 https://goodiptv.club/douyu/9660124
 #EXTINF:-1 tvg-id="" tvg-name="训练师十六" group-title="其他频道",训练师十六
@@ -1560,12 +1718,18 @@ https://goodiptv.club/douyu/9721338
 https://goodiptv.club/douyu/10419558
 #EXTINF:-1 tvg-id="" tvg-name="话很多的小姐姐们" group-title="其他频道",话很多的小姐姐们
 https://goodiptv.club/douyu/8611011
+#EXTINF:-1 tvg-id="" tvg-name="话龙电竞" group-title="其他频道",话龙电竞
+https://goodiptv.club/douyu/9957571
 #EXTINF:-1 tvg-id="" tvg-name="负担亡魂" group-title="其他频道",负担亡魂
 https://goodiptv.club/douyu/10308242
 #EXTINF:-1 tvg-id="" tvg-name="贾玲经典小品" group-title="其他频道",贾玲经典小品
 https://goodiptv.club/douyu/10419541
+#EXTINF:-1 tvg-id="" tvg-name="贾贵队长真男神" group-title="其他频道",贾贵队长真男神
+https://goodiptv.club/douyu/299854
 #EXTINF:-1 tvg-id="" tvg-name="赤焰男孩" group-title="其他频道",赤焰男孩
 https://goodiptv.club/douyu/9835644
+#EXTINF:-1 tvg-id="" tvg-name="赵本删不删" group-title="其他频道",赵本删不删
+https://goodiptv.club/douyu/9837104
 #EXTINF:-1 tvg-id="" tvg-name="赵本山经典小品" group-title="其他频道",赵本山经典小品
 https://goodiptv.club/douyu/9817716
 #EXTINF:-1 tvg-id="" tvg-name="赶海大弟" group-title="其他频道",赶海大弟
@@ -1578,10 +1742,14 @@ https://goodiptv.club/douyu/2925299
 https://goodiptv.club/douyu/751316
 #EXTINF:-1 tvg-id="" tvg-name="跟着盟哥去探秘" group-title="其他频道",跟着盟哥去探秘
 https://goodiptv.club/douyu/1178229
+#EXTINF:-1 tvg-id="" tvg-name="车模颜值大赏" group-title="其他频道",车模颜值大赏
+https://goodiptv.club/douyu/10118209
 #EXTINF:-1 tvg-id="" tvg-name="轩邈Elias" group-title="其他频道",轩邈Elias
 https://goodiptv.club/douyu/9412454
 #EXTINF:-1 tvg-id="" tvg-name="轻风乍起的号" group-title="其他频道",轻风乍起的号
 https://goodiptv.club/douyu/9445489
+#EXTINF:-1 tvg-id="" tvg-name="过往1908" group-title="其他频道",过往1908
+https://goodiptv.club/douyu/8721095
 #EXTINF:-1 tvg-id="" tvg-name="迷剧阿菁" group-title="其他频道",迷剧阿菁
 https://goodiptv.club/douyu/9486024
 #EXTINF:-1 tvg-id="" tvg-name="迷影至下Filmlast" group-title="其他频道",迷影至下Filmlast
@@ -1590,22 +1758,32 @@ https://goodiptv.club/douyu/9187596
 https://goodiptv.club/douyu/5727066
 #EXTINF:-1 tvg-id="" tvg-name="逍遥自在白辰皓" group-title="其他频道",逍遥自在白辰皓
 https://goodiptv.club/douyu/8859276
+#EXTINF:-1 tvg-id="" tvg-name="邸生" group-title="其他频道",邸生
+https://goodiptv.club/douyu/9665298
 #EXTINF:-1 tvg-id="" tvg-name="郑云工作室" group-title="其他频道",郑云工作室
 https://goodiptv.club/douyu/2995636
 #EXTINF:-1 tvg-id="" tvg-name="郭云神奇" group-title="其他频道",郭云神奇
 https://goodiptv.club/douyu/8694831
+#EXTINF:-1 tvg-id="" tvg-name="都市夜魔人老王" group-title="其他频道",都市夜魔人老王
+https://goodiptv.club/douyu/610972
 #EXTINF:-1 tvg-id="" tvg-name="鄂东老男孩" group-title="其他频道",鄂东老男孩
 https://goodiptv.club/douyu/8837707
 #EXTINF:-1 tvg-id="" tvg-name="酉晨君" group-title="其他频道",酉晨君
 https://goodiptv.club/douyu/9484541
+#EXTINF:-1 tvg-id="" tvg-name="酋知鱼" group-title="其他频道",酋知鱼
+https://goodiptv.club/douyu/5408225
 #EXTINF:-1 tvg-id="" tvg-name="酒痴东梦a" group-title="其他频道",酒痴东梦a
 https://goodiptv.club/douyu/9477805
 #EXTINF:-1 tvg-id="" tvg-name="酷酷的滕" group-title="其他频道",酷酷的滕
 https://goodiptv.club/douyu/1286383
+#EXTINF:-1 tvg-id="" tvg-name="醉我天涯zwty" group-title="其他频道",醉我天涯zwty
+https://goodiptv.club/douyu/9479775
 #EXTINF:-1 tvg-id="" tvg-name="野灿baka" group-title="其他频道",野灿baka
 https://goodiptv.club/douyu/8867233
 #EXTINF:-1 tvg-id="" tvg-name="野生岛民" group-title="其他频道",野生岛民
 https://goodiptv.club/douyu/10217843
+#EXTINF:-1 tvg-id="" tvg-name="野行涛哥V" group-title="其他频道",野行涛哥V
+https://goodiptv.club/douyu/9329608
 #EXTINF:-1 tvg-id="" tvg-name="金枪娱" group-title="其他频道",金枪娱
 https://goodiptv.club/douyu/2798717
 #EXTINF:-1 tvg-id="" tvg-name="金渐层沈同学" group-title="其他频道",金渐层沈同学
@@ -1626,6 +1804,8 @@ https://goodiptv.club/douyu/9450942
 https://goodiptv.club/douyu/9322081
 #EXTINF:-1 tvg-id="" tvg-name="铁牛杰哥" group-title="其他频道",铁牛杰哥
 https://goodiptv.club/douyu/8815425
+#EXTINF:-1 tvg-id="" tvg-name="铁甲影院" group-title="其他频道",铁甲影院
+https://goodiptv.club/douyu/1274132
 #EXTINF:-1 tvg-id="" tvg-name="锅盖哒" group-title="其他频道",锅盖哒
 https://goodiptv.club/douyu/9398828
 #EXTINF:-1 tvg-id="" tvg-name="锦书致南辞阿" group-title="其他频道",锦书致南辞阿
@@ -1646,6 +1826,16 @@ https://goodiptv.club/douyu/8662812
 https://goodiptv.club/douyu/9348876
 #EXTINF:-1 tvg-id="" tvg-name="阿福ThomasV" group-title="其他频道",阿福ThomasV
 https://goodiptv.club/douyu/9194089
+#EXTINF:-1 tvg-id="" tvg-name="阿魁方言配音" group-title="其他频道",阿魁方言配音
+https://goodiptv.club/douyu/9442903
+#EXTINF:-1 tvg-id="" tvg-name="陈瀚Siri" group-title="其他频道",陈瀚Siri
+https://goodiptv.club/douyu/759805
+#EXTINF:-1 tvg-id="" tvg-name="隐紫大人不会吐槽" group-title="其他频道",隐紫大人不会吐槽
+https://goodiptv.club/douyu/9207457
+#EXTINF:-1 tvg-id="" tvg-name="雨忆动漫" group-title="其他频道",雨忆动漫
+https://goodiptv.club/douyu/9568700
+#EXTINF:-1 tvg-id="" tvg-name="雪辉TnT" group-title="其他频道",雪辉TnT
+https://goodiptv.club/douyu/8936207
 #EXTINF:-1 tvg-id="" tvg-name="霹雳舞大叔" group-title="其他频道",霹雳舞大叔
 https://goodiptv.club/douyu/1528853
 #EXTINF:-1 tvg-id="" tvg-name="静静给你糖" group-title="其他频道",静静给你糖
@@ -1654,6 +1844,8 @@ https://goodiptv.club/douyu/11752454
 https://goodiptv.club/douyu/865331
 #EXTINF:-1 tvg-id="" tvg-name="音乐台长" group-title="其他频道",音乐台长
 https://goodiptv.club/douyu/9629943
+#EXTINF:-1 tvg-id="" tvg-name="顾止最爱的小胖宝贝" group-title="其他频道",顾止最爱的小胖宝贝
+https://goodiptv.club/douyu/238643
 #EXTINF:-1 tvg-id="" tvg-name="预言家Alice" group-title="其他频道",预言家Alice
 https://goodiptv.club/douyu/9483772
 #EXTINF:-1 tvg-id="" tvg-name="颜雪落落落" group-title="其他频道",颜雪落落落
@@ -1700,6 +1892,8 @@ https://goodiptv.club/douyu/9481340
 https://goodiptv.club/douyu/9415755
 #EXTINF:-1 tvg-id="" tvg-name="龙又z" group-title="其他频道",龙又z
 https://goodiptv.club/douyu/9477915
+#EXTINF:-1 tvg-id="" tvg-name="龙大人不喷火zZ" group-title="其他频道",龙大人不喷火zZ
+https://goodiptv.club/douyu/9437298
 #EXTINF:-1 tvg-id="" tvg-name="龙楼宝殿" group-title="其他频道",龙楼宝殿
 https://goodiptv.club/douyu/7422897
 #EXTINF:-1 tvg-id="" tvg-name="龙组队长天昊" group-title="其他频道",龙组队长天昊
@@ -1708,6 +1902,8 @@ https://goodiptv.club/douyu/1487654
 https://goodiptv.club/douyu/9374862
 #EXTINF:-1 tvg-id="" tvg-name="龙视本山快乐营" group-title="其他频道",龙视本山快乐营
 https://goodiptv.club/douyu/9374865
+#EXTINF:-1 tvg-id="" tvg-name="龙视欢乐英雄转" group-title="其他频道",龙视欢乐英雄转
+https://goodiptv.club/douyu/9374836
 #EXTINF:-1 tvg-id="" tvg-name="龙视爱笑会议室" group-title="其他频道",龙视爱笑会议室
 https://goodiptv.club/douyu/9375430
 #EXTINF:-1 tvg-id="" tvg-name="龙视超级笑匠" group-title="其他频道",龙视超级笑匠
@@ -1717,7 +1913,7 @@ https://goodiptv.club/douyu/1717648
 #EXTINF:-1 tvg-id="" tvg-name="𬙊缘老给给" group-title="其他频道",𬙊缘老给给
 https://goodiptv.club/douyu/9543413
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" group-title="其他频道",广东珠江
-http://gmxw.7766.org:808/hls/83/index.m3u8
+http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="厦门卫视" group-title="卫视频道",厦门卫视
 https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv
 #EXTINF:-1 tvg-id="" tvg-name="延边卫视" group-title="卫视频道",延边卫视
@@ -1754,10 +1950,6 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="" tvg-name="东丰综合" group-title="其他频道",东丰综合
 http://stream3.jlntv.cn:80/aac_dfgb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东莞新闻综合" group-title="其他频道",东莞新闻综合
-https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东莞生活资讯" group-title="其他频道",东莞生活资讯
-https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中华特产" group-title="其他频道",中华特产
 http://120.76.248.139/live/bfgd/4200000158.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中国蓝新闻" group-title="其他频道",中国蓝新闻
@@ -1894,14 +2086,10 @@ https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="哈尔滨娱乐" group-title="其他频道",哈尔滨娱乐
 https://stream.hrbtv.net/ylpd/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="哈尔滨新闻综合" group-title="其他频道",哈尔滨新闻综合
-http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
 #EXTINF:-1 tvg-id="" tvg-name="哈尔滨生活" group-title="其他频道",哈尔滨生活
 http://111.43.126.240:9003/hls/3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="哈尔滨资讯" group-title="其他频道",哈尔滨资讯
 http://stream.hrbtv.net/zxpd/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="哈尔滨都市咨询" group-title="其他频道",哈尔滨都市咨询
-http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild
 #EXTINF:-1 tvg-id="" tvg-name="唐河一套" group-title="其他频道",唐河一套
 http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="嘉兴新闻综合" group-title="其他频道",嘉兴新闻综合
@@ -1922,8 +2110,6 @@ https://play.kankanlive.com/live/1656487214793905.m3u8
 https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
 #EXTINF:-1 tvg-id="" tvg-name="夹江新闻综合" group-title="其他频道",夹江新闻综合
 http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd
-#EXTINF:-1 tvg-id="" tvg-name="奎屯哈萨克语" group-title="其他频道",奎屯哈萨克语
-http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
 #EXTINF:-1 tvg-id="" tvg-name="宁夏经济" group-title="其他频道",宁夏经济
 https://ls.qingting.fm/live/1841/64k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="安徽国际" group-title="其他频道",安徽国际
@@ -1968,12 +2154,8 @@ http://play-sh13.quklive.com/live/1690167908295069.m3u8?auth_key=2027466211-f190
 http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="平遥新闻综合" group-title="其他频道",平遥新闻综合
 https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
-#EXTINF:-1 tvg-id="" tvg-name="广东新闻" group-title="其他频道",广东新闻
-http://119.32.12.17:2901/udp/224.1.100.5:11111
 #EXTINF:-1 tvg-id="" tvg-name="广东民生" group-title="其他频道",广东民生
 http://183.11.239.36:808/hls/18/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="广东经济科教" group-title="其他频道",广东经济科教
-http://119.32.12.17:2901/udp/224.1.100.6:11111
 #EXTINF:-1 tvg-id="" tvg-name="广元公共" group-title="其他频道",广元公共
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广元综合" group-title="其他频道",广元综合
@@ -2138,8 +2320,6 @@ http://3739115337.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=nw
 http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="洞头综合" group-title="其他频道",洞头综合
 http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="津南一套" group-title="其他频道",津南一套
-http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 #EXTINF:-1 tvg-id="" tvg-name="济源电视一套" group-title="其他频道",济源电视一套
 http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江休闲台" group-title="其他频道",浙江休闲台
@@ -2155,7 +2335,7 @@ http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江数码时代" group-title="其他频道",浙江数码时代
 http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江新闻" group-title="其他频道",浙江新闻
-http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
+http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江民生" group-title="其他频道",浙江民生
 http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江民生休闲" group-title="其他频道",浙江民生休闲
@@ -2528,6 +2708,8 @@ http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 https://goodiptv.club/douyu/9822277
 #EXTINF:-1 tvg-id="" tvg-name="3说电影" group-title="影视频道",3说电影
 https://goodiptv.club/douyu/9643264
+#EXTINF:-1 tvg-id="" tvg-name="77说电影" group-title="影视频道",77说电影
+https://goodiptv.club/douyu/9444320
 #EXTINF:-1 tvg-id="" tvg-name="Ido漫说" group-title="其他频道",Ido漫说
 https://goodiptv.club/douyu/9456379
 #EXTINF:-1 tvg-id="" tvg-name="JG影视解说" group-title="影视频道",JG影视解说
@@ -2558,16 +2740,26 @@ https://goodiptv.club/douyu/9123570
 https://goodiptv.club/douyu/9368091
 #EXTINF:-1 tvg-id="" tvg-name="伯乐说电影V" group-title="影视频道",伯乐说电影V
 https://goodiptv.club/douyu/9386057
+#EXTINF:-1 tvg-id="" tvg-name="侃片大师兄" group-title="其他频道",侃片大师兄
+https://goodiptv.club/douyu/9338839
 #EXTINF:-1 tvg-id="" tvg-name="侃片黑菠萝" group-title="其他频道",侃片黑菠萝
 https://goodiptv.club/douyu/5803764
+#EXTINF:-1 tvg-id="" tvg-name="俗哥看电影" group-title="影视频道",俗哥看电影
+https://goodiptv.club/douyu/2161818
 #EXTINF:-1 tvg-id="" tvg-name="八月看大片" group-title="其他频道",八月看大片
 https://goodiptv.club/douyu/8816671
 #EXTINF:-1 tvg-id="" tvg-name="冬粮说故事" group-title="其他频道",冬粮说故事
 https://goodiptv.club/douyu/5192695
+#EXTINF:-1 tvg-id="" tvg-name="冷君聊大片" group-title="其他频道",冷君聊大片
+https://goodiptv.club/douyu/9666219
 #EXTINF:-1 tvg-id="" tvg-name="刘老师说电影" group-title="影视频道",刘老师说电影
 https://goodiptv.club/douyu/8317926
 #EXTINF:-1 tvg-id="" tvg-name="北京大妈有话说er" group-title="其他频道",北京大妈有话说er
 https://goodiptv.club/douyu/9440530
+#EXTINF:-1 tvg-id="" tvg-name="北大落说大片" group-title="其他频道",北大落说大片
+https://goodiptv.club/douyu/8828811
+#EXTINF:-1 tvg-id="" tvg-name="十里说" group-title="其他频道",十里说
+https://goodiptv.club/douyu/9064711
 #EXTINF:-1 tvg-id="" tvg-name="博然讲电影" group-title="影视频道",博然讲电影
 https://goodiptv.club/douyu/9561992
 #EXTINF:-1 tvg-id="" tvg-name="可乐撩电影" group-title="影视频道",可乐撩电影
@@ -2604,6 +2796,8 @@ https://goodiptv.club/douyu/1842621
 https://goodiptv.club/douyu/8529736
 #EXTINF:-1 tvg-id="" tvg-name="小丽说电影" group-title="影视频道",小丽说电影
 https://goodiptv.club/douyu/9368016
+#EXTINF:-1 tvg-id="" tvg-name="小乔讲电影" group-title="影视频道",小乔讲电影
+https://goodiptv.club/douyu/8413908
 #EXTINF:-1 tvg-id="" tvg-name="小司马说剧" group-title="其他频道",小司马说剧
 https://goodiptv.club/douyu/9660127
 #EXTINF:-1 tvg-id="" tvg-name="小岛讲电影" group-title="影视频道",小岛讲电影
@@ -2616,6 +2810,8 @@ https://goodiptv.club/douyu/8415464
 https://goodiptv.club/douyu/9312805
 #EXTINF:-1 tvg-id="" tvg-name="小片片说大片" group-title="其他频道",小片片说大片
 https://goodiptv.club/douyu/4258555
+#EXTINF:-1 tvg-id="" tvg-name="小片片说大片二台" group-title="其他频道",小片片说大片二台
+https://goodiptv.club/douyu/10011547
 #EXTINF:-1 tvg-id="" tvg-name="小超讲电影" group-title="影视频道",小超讲电影
 https://goodiptv.club/douyu/3432645
 #EXTINF:-1 tvg-id="" tvg-name="小陶气说动漫" group-title="其他频道",小陶气说动漫
@@ -2630,6 +2826,8 @@ https://goodiptv.club/douyu/8325511
 https://goodiptv.club/douyu/5907076
 #EXTINF:-1 tvg-id="" tvg-name="幕撩电影" group-title="影视频道",幕撩电影
 https://goodiptv.club/douyu/9486015
+#EXTINF:-1 tvg-id="" tvg-name="强人说笑" group-title="其他频道",强人说笑
+https://goodiptv.club/douyu/10329713
 #EXTINF:-1 tvg-id="" tvg-name="微笑影视解说" group-title="影视频道",微笑影视解说
 https://goodiptv.club/douyu/9476790
 #EXTINF:-1 tvg-id="" tvg-name="快哥说老片" group-title="其他频道",快哥说老片
@@ -2644,6 +2842,8 @@ https://goodiptv.club/douyu/9647834
 https://goodiptv.club/douyu/8837964
 #EXTINF:-1 tvg-id="" tvg-name="撩电影8" group-title="影视频道",撩电影8
 https://goodiptv.club/douyu/9351043
+#EXTINF:-1 tvg-id="" tvg-name="新视角解说" group-title="其他频道",新视角解说
+https://goodiptv.club/douyu/8813254
 #EXTINF:-1 tvg-id="" tvg-name="易说影视" group-title="影视频道",易说影视
 https://goodiptv.club/douyu/10859591
 #EXTINF:-1 tvg-id="" tvg-name="星君说电影" group-title="影视频道",星君说电影
@@ -2654,36 +2854,48 @@ https://goodiptv.club/douyu/9430717
 https://goodiptv.club/douyu/453963
 #EXTINF:-1 tvg-id="" tvg-name="末日说电影" group-title="影视频道",末日说电影
 https://goodiptv.club/douyu/9431125
+#EXTINF:-1 tvg-id="" tvg-name="松轩说电影" group-title="影视频道",松轩说电影
+https://goodiptv.club/douyu/1524969
 #EXTINF:-1 tvg-id="" tvg-name="梓帆说电影" group-title="影视频道",梓帆说电影
 https://goodiptv.club/douyu/9769563
 #EXTINF:-1 tvg-id="" tvg-name="楚哥说电影" group-title="影视频道",楚哥说电影
 https://goodiptv.club/douyu/9375743
 #EXTINF:-1 tvg-id="" tvg-name="汪哥说电影" group-title="影视频道",汪哥说电影
 https://goodiptv.club/douyu/9312685
-#EXTINF:-1 tvg-id="" tvg-name="浩贤说电影" group-title="影视频道",浩贤说电影
-https://goodiptv.club/douyu/10535867
 #EXTINF:-1 tvg-id="" tvg-name="漫画解说" group-title="其他频道",漫画解说
-https://yylunbo.ottiptv.cc/yy/1382735568
+https://www.goodiptv.club/douyu/5907076
+#EXTINF:-1 tvg-id="" tvg-name="火龙果讲电影本人" group-title="影视频道",火龙果讲电影本人
+https://goodiptv.club/douyu/2039501
 #EXTINF:-1 tvg-id="" tvg-name="火龙果说电影" group-title="影视频道",火龙果说电影
 https://goodiptv.club/douyu/9559158
 #EXTINF:-1 tvg-id="" tvg-name="灯泡兄弟影游谈" group-title="其他频道",灯泡兄弟影游谈
 https://goodiptv.club/douyu/1690081
+#EXTINF:-1 tvg-id="" tvg-name="灵佑奇谈" group-title="其他频道",灵佑奇谈
+https://goodiptv.club/douyu/9678207
 #EXTINF:-1 tvg-id="" tvg-name="热影连连看" group-title="其他频道",热影连连看
 https://goodiptv.club/douyu/9388931
 #EXTINF:-1 tvg-id="" tvg-name="爱讲神话的小志" group-title="其他频道",爱讲神话的小志
 https://goodiptv.club/douyu/9495613
 #EXTINF:-1 tvg-id="" tvg-name="牛叔说电影" group-title="影视频道",牛叔说电影
 https://goodiptv.club/douyu/2758565
+#EXTINF:-1 tvg-id="" tvg-name="牛叔说电影二台" group-title="影视频道",牛叔说电影二台
+https://goodiptv.club/douyu/10010651
+#EXTINF:-1 tvg-id="" tvg-name="狂野的种马小说家" group-title="其他频道",狂野的种马小说家
+https://goodiptv.club/douyu/8849703
 #EXTINF:-1 tvg-id="" tvg-name="猫丶趴趴" group-title="其他频道",猫丶趴趴
 https://goodiptv.club/douyu/1255068
 #EXTINF:-1 tvg-id="" tvg-name="猫叔说电影" group-title="影视频道",猫叔说电影
 https://goodiptv.club/douyu/9820039
 #EXTINF:-1 tvg-id="" tvg-name="猴博士爱讲课V" group-title="其他频道",猴博士爱讲课V
 https://goodiptv.club/douyu/8799739
+#EXTINF:-1 tvg-id="" tvg-name="王坑坑聊电影" group-title="影视频道",王坑坑聊电影
+https://goodiptv.club/douyu/9402110
 #EXTINF:-1 tvg-id="" tvg-name="珞珞说电影" group-title="影视频道",珞珞说电影
 https://goodiptv.club/douyu/3718888
 #EXTINF:-1 tvg-id="" tvg-name="百晓生说剧" group-title="其他频道",百晓生说剧
 https://goodiptv.club/douyu/9649681
+#EXTINF:-1 tvg-id="" tvg-name="看不见的罗杰" group-title="其他频道",看不见的罗杰
+https://goodiptv.club/douyu/8821917
 #EXTINF:-1 tvg-id="" tvg-name="看个M啊" group-title="其他频道",看个M啊
 https://goodiptv.club/douyu/9720919
 #EXTINF:-1 tvg-id="" tvg-name="看电影了没V" group-title="影视频道",看电影了没V
@@ -2702,12 +2914,16 @@ https://goodiptv.club/douyu/9542832
 https://goodiptv.club/douyu/9660704
 #EXTINF:-1 tvg-id="" tvg-name="精彩短剧看不停" group-title="其他频道",精彩短剧看不停
 https://goodiptv.club/douyu/11824307
+#EXTINF:-1 tvg-id="" tvg-name="绘说篮球C" group-title="其他频道",绘说篮球C
+https://goodiptv.club/douyu/9401305
 #EXTINF:-1 tvg-id="" tvg-name="罗叔说戏" group-title="其他频道",罗叔说戏
 https://goodiptv.club/douyu/9788756
 #EXTINF:-1 tvg-id="" tvg-name="老秦说秦" group-title="其他频道",老秦说秦
 https://goodiptv.club/douyu/9650131
 #EXTINF:-1 tvg-id="" tvg-name="老邪说电影" group-title="影视频道",老邪说电影
 https://goodiptv.club/douyu/9222870
+#EXTINF:-1 tvg-id="" tvg-name="老鱼说剧" group-title="其他频道",老鱼说剧
+https://goodiptv.club/douyu/9994377
 #EXTINF:-1 tvg-id="" tvg-name="胶片看电影" group-title="影视频道",胶片看电影
 https://goodiptv.club/douyu/3715426
 #EXTINF:-1 tvg-id="" tvg-name="自说自话的总裁" group-title="其他频道",自说自话的总裁
@@ -2716,8 +2932,12 @@ https://goodiptv.club/douyu/9317739
 https://goodiptv.club/douyu/9401905
 #EXTINF:-1 tvg-id="" tvg-name="菇菇说过" group-title="其他频道",菇菇说过
 https://goodiptv.club/douyu/8788687
+#EXTINF:-1 tvg-id="" tvg-name="菠萝说电影" group-title="影视频道",菠萝说电影
+https://goodiptv.club/douyu/3714736
 #EXTINF:-1 tvg-id="" tvg-name="虫哥说电影" group-title="影视频道",虫哥说电影
 https://goodiptv.club/douyu/8915074
+#EXTINF:-1 tvg-id="" tvg-name="蛋黄讲动漫" group-title="其他频道",蛋黄讲动漫
+https://goodiptv.club/douyu/9542834
 #EXTINF:-1 tvg-id="" tvg-name="西施撩电影" group-title="影视频道",西施撩电影
 https://goodiptv.club/douyu/7532080
 #EXTINF:-1 tvg-id="" tvg-name="讲故事的角马" group-title="其他频道",讲故事的角马
@@ -2736,6 +2956,8 @@ https://goodiptv.club/douyu/8883122
 https://goodiptv.club/douyu/9371407
 #EXTINF:-1 tvg-id="" tvg-name="逗米说电影" group-title="影视频道",逗米说电影
 https://goodiptv.club/douyu/421222
+#EXTINF:-1 tvg-id="" tvg-name="钱小元说电影" group-title="影视频道",钱小元说电影
+https://goodiptv.club/douyu/9368265
 #EXTINF:-1 tvg-id="" tvg-name="锋哥聊商机" group-title="其他频道",锋哥聊商机
 https://goodiptv.club/douyu/9472141
 #EXTINF:-1 tvg-id="" tvg-name="阎君说剧" group-title="其他频道",阎君说剧
@@ -2805,7 +3027,7 @@ https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTl
 #EXTINF:-1 tvg-id="" tvg-name="2024年春晚" group-title="其他频道",2024年春晚
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="2025年春晚" group-title="其他频道",2025年春晚
-https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
+https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中央电视塔东" group-title="其他频道",中央电视塔东
 https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中央电视塔南" group-title="其他频道",中央电视塔南
@@ -2960,7 +3182,7 @@ http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黄龙" group-title="其他频道",黄龙
 https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="2026-03-15 00:29:24" group-title="其他频道",2026-03-15 00:29:24
+#EXTINF:-1 tvg-id="" tvg-name="2026-03-15 06:26:05" group-title="其他频道",2026-03-15 06:26:05
 https://vd3.bdstatic.com/mda-rkaittm5s06vzzyq/sc/cae_h264/1762869883709304452/mda-rkaittm5s06vzzyq.mp4
 #EXTINF:-1 tvg-id="" tvg-name="00s Replay" group-title="其他频道",00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
@@ -3438,32 +3660,54 @@ http://41.205.93.154/ABC/index.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
 #EXTINF:-1 tvg-id="" tvg-name="ABC 2 Baltimore MD (WMAR) (720p)" group-title="其他频道",ABC 2 Baltimore MD (WMAR) (720p)
 https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC 2 Portland OR (KATU) (1080p)" group-title="其他频道",ABC 2 Portland OR (KATU) (1080p)
+https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC 4 Charleston SC (WCIV) (1080p)" group-title="其他频道",ABC 4 Charleston SC (WCIV) (1080p)
+https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC 4 Seattle WA (KOMO) (1080p)" group-title="其他频道",ABC 4 Seattle WA (KOMO) (1080p)
+https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC 5" group-title="其他频道",ABC 5
 https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC 5 Boston MA (WCVB) (720p)" group-title="其他频道",ABC 5 Boston MA (WCVB) (720p)
 https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC 5 St. Paul MN (KSTP) (1080p)" group-title="其他频道",ABC 5 St. Paul MN (KSTP) (1080p)
+https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC 6 Austin TX (KAAL) (1080p)" group-title="其他频道",ABC 6 Austin TX (KAAL) (1080p)
+https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC 6 Columbus OH (WSYX) (1080p)" group-title="其他频道",ABC 6 Columbus OH (WSYX) (1080p)
+https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC 6 Indianapolis IN (WRTV) (720p)" group-title="其他频道",ABC 6 Indianapolis IN (WRTV) (720p)
 https://aegis-cloudfront-1.tubi.video/bc9ff1c7-4dc1-4e36-9ef0-25b28c595ada/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC 7 Albuquerque NM (KOAT) (720p)" group-title="其他频道",ABC 7 Albuquerque NM (KOAT) (720p)
 https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC 7 Denver CO (KMGH) (720p)" group-title="其他频道",ABC 7 Denver CO (KMGH) (720p)
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC 7 Washington DC (WJLA) (1080p)" group-title="其他频道",ABC 7 Washington DC (WJLA) (1080p)
+https://linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC 9 Manchester NH (WMUR-TV) (720p)" group-title="其他频道",ABC 9 Manchester NH (WMUR-TV) (720p)
 https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC 9 Orlando FL (WFTV) (720p)" group-title="其他频道",ABC 9 Orlando FL (WFTV) (720p)
 https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC 9 Tucson AZ (KGUN) (720p)" group-title="其他频道",ABC 9 Tucson AZ (KGUN) (720p)
 https://aegis-cloudfront-1.tubi.video/a53514a7-f2aa-4d34-802e-c2b5594fc0d7/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC 10 Duluth MN (WDIO) (1080p)" group-title="其他频道",ABC 10 Duluth MN (WDIO) (1080p)
+https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC 10 San Diego CA (KGTV) (720p)" group-title="其他频道",ABC 10 San Diego CA (KGTV) (720p)
 https://aegis-cloudfront-1.tubi.video/1a352414-3a30-4f42-b14b-c091d02a5e45/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC 12 Milwaukee WI (WISN) (720p)" group-title="其他频道",ABC 12 Milwaukee WI (WISN) (720p)
 https://aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC 13 Asheville NC (WLOS) (1080p)" group-title="其他频道",ABC 13 Asheville NC (WLOS) (1080p)
+https://linear-695.frequency.stream/dist/stirr/695/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC 13 Las Vegas NV (KTNV) (720p)" group-title="其他频道",ABC 13 Las Vegas NV (KTNV) (720p)
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC 15 Myrtle Beach FL (WPDE) (1080p)" group-title="其他频道",ABC 15 Myrtle Beach FL (WPDE) (1080p)
+https://linear-696.frequency.stream/dist/stirr/696/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC 15 Phoenix AZ (KNXV) (720p)" group-title="其他频道",ABC 15 Phoenix AZ (KNXV) (720p)
 https://aegis-cloudfront-1.tubi.video/e923f4ce-7229-4e01-a25e-d453993dab82/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC 20/20 (1080p)" group-title="其他频道",ABC 20/20 (1080p)
 https://d4bq78o8d5tf5.cloudfront.net/ABC_2020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC 22 Dayton OH (WKEF) (1080p)" group-title="其他频道",ABC 22 Dayton OH (WKEF) (1080p)
+https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC 23 Bakersfield CA (KERO) (720p)" group-title="其他频道",ABC 23 Bakersfield CA (KERO) (720p)
 https://aegis-cloudfront-1.tubi.video/69c4e4f9-84fa-43eb-b38e-6d1f9464ca73/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC 25 News Central Texas" group-title="其他频道",ABC 25 News Central Texas
@@ -3560,6 +3804,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABP Sanjha (1080p)" group-title="其他频道",ABP Sanjha (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-sanjha/master.m3u8?ads.vf=pLnwLviYDD0
+#EXTINF:-1 tvg-id="" tvg-name="Absinthe TV (1080p)" group-title="其他频道",Absinthe TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/254b2fef-a3dd-4a6d-af18-38711e02e31c/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Abya Yala TV" group-title="其他频道",Abya Yala TV
 https://seo.tv.bo/tv/LIpSEO-TV-8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Abzy Dhakad (504p)" group-title="其他频道",Abzy Dhakad (504p)
@@ -4242,6 +4488,10 @@ https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
 https://jmp2.uk/plu-6408ae8f9b39550008caf94f.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="American Pickers by History (1080p) [Geo-blocked]" group-title="其他频道",American Pickers by History (1080p) [Geo-blocked]
 https://pb-k9ikw6ov8z4qi.akamaized.net/American_Pickers_by_History.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="American Stories (1080p)" group-title="其他频道",American Stories (1080p)
+https://linear-1016.frequency.stream/dist/stirr/1016/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="American Stories (720p)" group-title="其他频道",American Stories (720p)
+https://a-cdn.klowdtv.com/live2/asn/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ameritrade (1080p) [Not 24/7]" group-title="其他频道",Ameritrade (1080p) [Not 24/7]
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMG TV (1080p)" group-title="其他频道",AMG TV (1080p)
@@ -4638,6 +4888,8 @@ https://cdn.vegasplus.us/vegas/actv/playlist.m3u8
 https://edge2.roarzone.info:8447/roarzone/edge3/asian-tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AsianBox (1080p)" group-title="其他频道",AsianBox (1080p)
 https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
+#EXTINF:-1 tvg-id="" tvg-name="AsianCrush (1080p)" group-title="其他频道",AsianCrush (1080p)
+https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Asianet (576p)" group-title="其他频道",Asianet (576p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0474/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Asianet HD (720p)" group-title="其他频道",Asianet HD (720p)
@@ -4855,7 +5107,9 @@ https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AWE (720p)" group-title="其他频道",AWE (720p)
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AWE Encore (720p)" group-title="其他频道",AWE Encore (720p)
-https://aweencore-vizio.amagi.tv/playlist.m3u8
+https://a-cdn.klowdtv.com/live1/awee/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AWE International (720p)" group-title="其他频道",AWE International (720p)
+https://a-cdn.klowdtv.com/live1/aweint/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AWE Plus (720p)" group-title="其他频道",AWE Plus (720p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/playlist.m3u8?ads.vf=JS9U64wz-A8
 #EXTINF:-1 tvg-id="" tvg-name="Awesome TV [Geo-blocked]" group-title="其他频道",Awesome TV [Geo-blocked]
@@ -5508,6 +5762,8 @@ https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01
 https://jmp2.uk/plu-611f85396abc84000738417b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Beyond History" group-title="其他频道",Beyond History
 https://jmp2.uk/plu-62fb9844db5a4a0007ebc2a3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Beyond Paranormal (1080p)" group-title="其他频道",Beyond Paranormal (1080p)
+https://videoelephantlimited-beyondparanormal-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Beyond the Gates" group-title="其他频道",Beyond the Gates
 https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bflix Movies (576p)" group-title="影视频道",Bflix Movies (576p)
@@ -5630,6 +5886,8 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BL-TV/TV Storbyen (720p) [Not 24/7]" group-title="其他频道",BL-TV/TV Storbyen (720p) [Not 24/7]
 https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Black Enterprise Streaming Network (1080p)" group-title="其他频道",Black Enterprise Streaming Network (1080p)
+https://videoelephant-limited-blackenterprisestreamingnetwork-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Black Family Sitcoms" group-title="其他频道",Black Family Sitcoms
 https://jmp2.uk/plu-686d61503484d6073283059d.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Black Ink Crew" group-title="其他频道",Black Ink Crew
@@ -5750,12 +6008,16 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bolivisión LPZ (720p)" group-title="其他频道",Bolivisión LPZ (720p)
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bollywood 4U (1080p)" group-title="其他频道",Bollywood 4U (1080p)
+https://streams2.sofast.tv/umaxx/v1/0196d96223231ea506ec2e7986613e/0196d96312d71ebd416a37ff7b3317/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bollywood Classic (1080p)" group-title="其他频道",Bollywood Classic (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8?ads.vf=QzgeokcHKvy
 #EXTINF:-1 tvg-id="" tvg-name="Bollywood HD (1080p)" group-title="其他频道",Bollywood HD (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.vf=lWu9a-np_Vi
 #EXTINF:-1 tvg-id="" tvg-name="Bollywood Masala (1080p)" group-title="其他频道",Bollywood Masala (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8?ads.vf=SyLjWbscWiy
+#EXTINF:-1 tvg-id="" tvg-name="Bollywood Masala (1080p)" group-title="其他频道",Bollywood Masala (1080p)
+https://streams2.sofast.tv/vglive-sk-373192/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bolton Community Voice Channel (CVC) Education (Bolton CT) (480p)" group-title="其他频道",Bolton Community Voice Channel (CVC) Education (Bolton CT) (480p)
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bolton Community Voice Channel (CVC) Government (Bolton CT) (480p)" group-title="其他频道",Bolton Community Voice Channel (CVC) Government (Bolton CT) (480p)
@@ -6768,6 +7030,8 @@ https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC Windsor (CBET-DT) (720p) [Geo-blocked]" group-title="其他频道",CBC Windsor (CBET-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBeebies" group-title="其他频道",CBeebies
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc126/bbccbeebiesraw/bbccbeebiesraw.mpd
 #EXTINF:-1 tvg-id="" tvg-name="CBeebies Asia (720p)" group-title="其他频道",CBeebies Asia (720p)
 https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBeebies HD (1080p) [Geo-blocked]" group-title="其他频道",CBeebies HD (1080p) [Geo-blocked]
@@ -6782,14 +7046,30 @@ https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8
 https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBN TV (720p)" group-title="其他频道",CBN TV (720p)
 https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS 2 Salt Lake City UT (KUTV) (1080p)" group-title="其他频道",CBS 2 Salt Lake City UT (KUTV) (1080p)
+https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS 3 Kalamazoo MI (WWMT) (1080p)" group-title="其他频道",CBS 3 Kalamazoo MI (WWMT) (1080p)
+https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS 3 Omaha NE (KMTV) (720p)" group-title="其他频道",CBS 3 Omaha NE (KMTV) (720p)
 https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS 4 El Paso TX (KDBC) (1080p)" group-title="其他频道",CBS 4 El Paso TX (KDBC) (1080p)
+https://linear-706.frequency.stream/dist/stirr/706/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS 6 Richmond VA (WTVR) (720p)" group-title="其他频道",CBS 6 Richmond VA (WTVR) (720p)
 https://aegis-cloudfront-1.tubi.video/d8fc1d6c-fd55-45c8-973b-b7327ee1a6e0/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS 8 Des Moines IA (KCCI) (720p)" group-title="其他频道",CBS 8 Des Moines IA (KCCI) (720p)
 https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS 9 Oklahoma City OK (KWTV-DT1) (720p) [Not 24/7]" group-title="其他频道",CBS 9 Oklahoma City OK (KWTV-DT1) (720p) [Not 24/7]
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS 12 Cincinnati OH (WKRC) (1080p)" group-title="其他频道",CBS 12 Cincinnati OH (WKRC) (1080p)
+https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS 12 West Palm Beach FL (WPEC) (1080p)" group-title="其他频道",CBS 12 West Palm Beach FL (WPEC) (1080p)
+https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS 21 Harrisburg PA (WHP) (1080p)" group-title="其他频道",CBS 21 Harrisburg PA (WHP) (1080p)
+https://linear-697.frequency.stream/dist/stirr/697/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS 22 South Bend IN (WSBT) (1080p)" group-title="其他频道",CBS 22 South Bend IN (WSBT) (1080p)
+https://linear-693.frequency.stream/dist/stirr/693/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS 42 Austin TX (KEYE) (1080p)" group-title="其他频道",CBS 42 Austin TX (KEYE) (1080p)
+https://linear-704.frequency.stream/dist/stirr/704/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS en español" group-title="其他频道",CBS en español
 https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS News" group-title="其他频道",CBS News
@@ -6813,7 +7093,7 @@ https://jmp2.uk/plu-6231e9b7f6deff00074674f4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS News 24/7 (720p)" group-title="其他频道",CBS News 24/7 (720p)
 https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS News Baltimore (720p)" group-title="其他频道",CBS News Baltimore (720p)
-https://cbsnews.akamaized.net/hls/live/2099390/cbsnbal_11/master.m3u8
+https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS News Bay Area" group-title="其他频道",CBS News Bay Area
 https://jmp2.uk/plu-62cdc6c5a698740007d299b1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS News Bay Area (720p)" group-title="其他频道",CBS News Bay Area (720p)
@@ -6848,10 +7128,10 @@ https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS News Texas" group-title="其他频道",CBS News Texas
 https://jmp2.uk/plu-5eceb0d4065c240007688ec6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBS Sports Golazo Network" group-title="其他频道",CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBS Sports HQ" group-title="其他频道",CBS Sports HQ
-https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS Sports Golazo Network (720p)" group-title="其他频道",CBS Sports Golazo Network (720p)
+https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS Sports HQ (1080p) [Geo-blocked]" group-title="其他频道",CBS Sports HQ (1080p) [Geo-blocked]
+https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CC Pluto TV" group-title="其他频道",CC Pluto TV
 https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCPV TV (1080p)" group-title="其他频道",CCPV TV (1080p)
@@ -7222,6 +7502,8 @@ https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
 http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cigar TV (1080p)" group-title="其他频道",Cigar TV (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cigar-tv/amgplt0081.m3u8?ads.vf=r8Qicpt5w_C
+#EXTINF:-1 tvg-id="" tvg-name="Cigar TV (1080p)" group-title="其他频道",Cigar TV (1080p)
+https://streams2.sofast.tv/vglive-sk-798765/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cin Cin" group-title="其他频道",Cin Cin
 https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine 34 [Geo-blocked]" group-title="其他频道",Cine 34 [Geo-blocked]
@@ -7514,6 +7796,8 @@ https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8
 https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Color Blind TV (1080p)" group-title="其他频道",Color Blind TV (1080p)
 https://streamer2.nexgen.bz/12-CBTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Color Vision (480p) [Not 24/7]" group-title="其他频道",Color Vision (480p) [Not 24/7]
+http://38.159.232.166:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colorados Visión TV (1080p)" group-title="其他频道",Colorados Visión TV (1080p)
 http://177.234.247.66:9975/ColoradosTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colorized.TV (1080p)" group-title="其他频道",Colorized.TV (1080p)
@@ -7801,7 +8085,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="" tvg-name="Creta (540p) [Not 24/7]" group-title="其他频道",Creta (540p) [Not 24/7]
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cricket Gold (1080p)" group-title="其他频道",Cricket Gold (1080p)
-https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Crime 24/7 (720p) [Geo-blocked]" group-title="其他频道",Crime 24/7 (720p) [Geo-blocked]
 https://pb-l3ocdsysqugbb.akamaized.net/v1/aenetworks_crime247_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Crime 360" group-title="其他频道",Crime 360
@@ -7957,7 +8241,7 @@ https://liveingesta318.cdnmedia.tv/cugatcatlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CUISINE CULTURE (1080p)" group-title="其他频道",CUISINE CULTURE (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cuisine-culture/manifest.m3u8?ads.vf=ooQIdkKW8Pi
 #EXTINF:-1 tvg-id="" tvg-name="Cuisine Culture" group-title="其他频道",Cuisine Culture
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/34839a9b-a901-4f31-b593-07555f7937d4/manifest.m3u8
+https://streams2.sofast.tv/umaxx/v1/01970b146c091ebd470414fa6dc31a/01970b14d5f11ea506ec1fab16cfb0/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cultura Pará (480p) [Not 24/7]" group-title="其他频道",Cultura Pará (480p) [Not 24/7]
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cumbia Mix (720p)" group-title="其他频道",Cumbia Mix (720p)
@@ -8020,6 +8304,8 @@ https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/da-news-plus/index.m3u8?ads.vf=AyISeWRaL8G
 #EXTINF:-1 tvg-id="" tvg-name="DA News Plus (576p)" group-title="其他频道",DA News Plus (576p)
 https://mumt01.tangotv.in/HORNBILLTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci" group-title="其他频道",Da Vinci
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc109/davincihdraw/davincihdraw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Da Vinci Asia Vietnam" group-title="其他频道",Da Vinci Asia Vietnam
 https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DaAi1 (大愛1) (720p)" group-title="其他频道",DaAi1 (大愛1) (720p)
@@ -8116,10 +8402,10 @@ https://jmp2.uk/plu-651f239d9c7aeb0008286823.m3u8
 https://dathls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Davika TV (480p)" group-title="其他频道",Davika TV (480p)
 https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Daystar Español (720p)" group-title="其他频道",Daystar Español (720p)
-https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Daystar TV (1080p)" group-title="其他频道",Daystar TV (1080p)
 https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Daystar TV Espanol (1080p)" group-title="其他频道",Daystar TV Espanol (1080p)
+https://hls-live-media-gc.cdn01.net/mpegts/232076_2222907/karlKyiKToEdHsTFUcjs9g/1776816000/master_mpegts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Combat" group-title="其他频道",DAZN Combat
 https://jmp2.uk/plu-64df7ab4dfa32400083c517b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Combat" group-title="其他频道",DAZN Combat
@@ -8506,6 +8792,8 @@ https://voozmedia.fun/divinamourtv/livestream/playlist.m3u8
 https://d2ydcdd81wyosr.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Divya Darshan TV (720p)" group-title="其他频道",Divya Darshan TV (720p)
 http://live.divyadarshantv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIY Art (1080p)" group-title="其他频道",DIY Art (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2cafac16-f982-4563-9951-ccd6ab0c2c6b/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Diyanet TV (1080p)" group-title="其他频道",Diyanet TV (1080p)
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Diyar TV (720p)" group-title="其他频道",Diyar TV (720p)
@@ -8664,8 +8952,8 @@ http://epg.112114.xyz/douyu/8814650
 http://epg.112114.xyz/douyu/263824
 #EXTINF:-1 tvg-id="" tvg-name="douyu44" group-title="其他频道",douyu44
 http://epg.112114.xyz/douyu/323876
-#EXTINF:-1 tvg-id="" tvg-name="Dove (1080p)" group-title="其他频道",Dove (1080p)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dove/playlist.m3u8?ads.vf=NB2BrOxedaK
+#EXTINF:-1 tvg-id="" tvg-name="Dove Channel (1080p)" group-title="其他频道",Dove Channel (1080p)
+https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DR1 (1080p) [Geo-blocked]" group-title="其他频道",DR1 (1080p) [Geo-blocked]
 https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DR2 (1080p) [Geo-blocked]" group-title="其他频道",DR2 (1080p) [Geo-blocked]
@@ -8708,6 +8996,8 @@ https://cloudvideo.servers10.com:8081/8138/index.m3u8
 https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Drita TV" group-title="其他频道",Drita TV
 https://dritatv.protokolldns.xyz/dritaweb5587989/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Drive + Speed (1080p)" group-title="其他频道",Drive + Speed (1080p)
+https://streams2.sofast.tv/umaxx/v1/0196fce247271eb4611d16bd20c1ac/0196fce2a9361ea5064918d106ecf8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Drive In Movie Channel" group-title="影视频道",Drive In Movie Channel
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Drive TV (1080p)" group-title="其他频道",Drive TV (1080p)
@@ -8715,7 +9005,7 @@ https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Drochia TV (1080p) [Not 24/7]" group-title="其他频道",Drochia TV (1080p) [Not 24/7]
 https://hls.drochia.tv/tv/web.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Drone TV (1080p)" group-title="其他频道",Drone TV (1080p)
-https://dtc192m1s5jen.cloudfront.net/scheduler/scheduleMaster/440.m3u8
+https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DroneTV (1080p)" group-title="其他频道",DroneTV (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8?ads.vf=CdxJHukE0Om
 #EXTINF:-1 tvg-id="" tvg-name="Drool (1080p)" group-title="其他频道",Drool (1080p)
@@ -8970,8 +9260,6 @@ https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="El Comisario" group-title="其他频道",El Comisario
 https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El Conflicto TV (480p)" group-title="其他频道",El Conflicto TV (480p)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965
 #EXTINF:-1 tvg-id="" tvg-name="El Detective Endeavour" group-title="其他频道",El Detective Endeavour
 https://jmp2.uk/plu-619b9f16b8fee4000832d447.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="El encantador de perros" group-title="其他频道",El encantador de perros
@@ -9030,6 +9318,8 @@ https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Elevate TV (720p) [Not 24/7]" group-title="其他频道",Elevate TV (720p) [Not 24/7]
 https://goliveafrica.media:9998/live/64a98a7eac12a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Elevation Church (1080p)" group-title="其他频道",Elevation Church (1080p)
+https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Elevation Church Network (1080p)" group-title="其他频道",Elevation Church Network (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/elevation-church-network/playlist.m3u8?ads.vf=-Zd8ogbOmAi
 #EXTINF:-1 tvg-id="" tvg-name="Elias Pina TV (720p) [Not 24/7]" group-title="其他频道",Elias Pina TV (720p) [Not 24/7]
@@ -9119,9 +9409,9 @@ https://amg01447-samsungau-enthub-samsungau-ugr5u.amagi.tv/playlist/amg01447-sam
 #EXTINF:-1 tvg-id="" tvg-name="Entertainment Hub (1080p)" group-title="其他频道",Entertainment Hub (1080p)
 https://amg01447-samsungau-enthubnz-samsungnz-t9rkn.amagi.tv/playlist/amg01447-samsungau-enthubnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Entertainment Tonight (1080p)" group-title="其他频道",Entertainment Tonight (1080p)
-https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Entrepreneur TV [Geo-blocked]" group-title="其他频道",Entrepreneur TV [Geo-blocked]
-https://amg01201-amg01201c31-cineverse-us-2915.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-entrepreneurtv-cineverseus/playlist.m3u8
+https://cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Entuno TV (1080p) [Not 24/7]" group-title="其他频道",Entuno TV (1080p) [Not 24/7]
 https://soportedvb.click:3442/live/entunotvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Envoy FAST (720p) [Geo-blocked]" group-title="其他频道",Envoy FAST (720p) [Geo-blocked]
@@ -9618,8 +9908,6 @@ https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fidele TV (480p)" group-title="其他频道",Fidele TV (480p)
 https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fido TV (1080p)" group-title="其他频道",Fido TV (1080p)
-https://1123112950.rsc.cdn77.org/HLS/FIDO.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FIFA+" group-title="其他频道",FIFA+
 https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FIFA+" group-title="其他频道",FIFA+
@@ -9858,12 +10146,20 @@ https://webstreaming-3.viewmedia.tv/web_033/Stream/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/5689247c-331e-4444-92e1-f7cc21377360/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX 2 San Francisco CA (KTVU) (720p)" group-title="其他频道",FOX 2 San Francisco CA (KTVU) (720p)
 https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX 11 Green Bay WI (WLUK) (1080p)" group-title="其他频道",FOX 11 Green Bay WI (WLUK) (1080p)
+https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX 13 Seattle WA (KCPQ) (720p)" group-title="其他频道",FOX 13 Seattle WA (KCPQ) (720p)
 https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]" group-title="其他频道",FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]
 https://live.field59.com/kbsi/kbsi1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox 25 Boston (WFXT-TV) [Geo-blocked]" group-title="其他频道",Fox 25 Boston (WFXT-TV) [Geo-blocked]
 https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX 25 Oklahoma City OK (KOKH) (1080p)" group-title="其他频道",FOX 25 Oklahoma City OK (KOKH) (1080p)
+https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX 26 Visalia CA (KMPH) (1080p)" group-title="其他频道",FOX 26 Visalia CA (KMPH) (1080p)
+https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX 45 Baltimore MD (WBFF) (1080p)" group-title="其他频道",FOX 45 Baltimore MD (WBFF) (1080p)
+https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Business Network (720p) [Not 24/7]" group-title="其他频道",Fox Business Network (720p) [Not 24/7]
 https://tvpass.org/live/FoxBusiness/hd
 #EXTINF:-1 tvg-id="" tvg-name="FOX LOCAL Seattle" group-title="其他频道",FOX LOCAL Seattle
@@ -9975,7 +10271,7 @@ https://jmp2.uk/plu-61c19099bf8c520007a93cff.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FS1 Salzburg (720p) [Not 24/7]" group-title="其他频道",FS1 Salzburg (720p) [Not 24/7]
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FTF Sports (720p)" group-title="其他频道",FTF Sports (720p)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ftf/FTF_SCTE_B.m3u8?ads.vf=U3lqpPugV2W
+https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FTV" group-title="其他频道",FTV
 https://master.tucableip.com/ftvhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FTV (576p)" group-title="其他频道",FTV (576p)
@@ -10340,6 +10636,8 @@ https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8
 https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="God Stands TV Urdu" group-title="其他频道",God Stands TV Urdu
 https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOD TV (720p)" group-title="其他频道",GOD TV (720p)
+https://ott.god.tv/live/us/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="God's Learning Channel (480p)" group-title="其他频道",God's Learning Channel (480p)
 https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Goiena Eus (720p)" group-title="其他频道",Goiena Eus (720p)
@@ -10600,6 +10898,10 @@ https://cdn-6.pishow.tv/live/14/master.m3u8
 https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GZT (1080p)" group-title="其他频道",GZT (1080p)
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H20 TV (1080p)" group-title="其他频道",H20 TV (1080p)
+https://linear-738.frequency.stream/dist/stirr/738/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H20 TV (720p)" group-title="其他频道",H20 TV (720p)
+https://a-cdn.klowdtv.com/live2/h2o/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="H!T Music Channel (480p)" group-title="其他频道",H!T Music Channel (480p)
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hà Tĩnh TV (720p)" group-title="其他频道",Hà Tĩnh TV (720p)
@@ -11412,6 +11714,8 @@ https://d3l6x4fdwxv0np.cloudfront.net/In_Depth_With_Graham_Bensinger.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="In Touch+ (1080p)" group-title="其他频道",In Touch+ (1080p)
 https://amg01540-amg01540c2-distrotv-us-8133.playouts.now.amagi.tv/playlist/amg01540-apexmediafast-intouchplus-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="In Touch+ (1080p)" group-title="其他频道",In Touch+ (1080p)
+https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INA 70" group-title="其他频道",INA 70
 https://jmp2.uk/plu-639b54404cfdf7000729b3c1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INA 70s" group-title="其他频道",INA 70s
@@ -11538,8 +11842,8 @@ https://pb-5kduxc2en4kdz.akamaized.net/Intervention_by_AE.m3u8
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="InTravel (1080p)" group-title="其他频道",InTravel (1080p)
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="InTrouble (1080p) [Geo-blocked]" group-title="其他频道",InTrouble (1080p) [Geo-blocked]
-https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INTROUBLE (1080p)" group-title="其他频道",INTROUBLE (1080p)
+https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Intuitiva TV (720p)" group-title="其他频道",Intuitiva TV (720p)
 https://video2.lhdserver.es/cableperu/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INTV Australia (720p)" group-title="其他频道",INTV Australia (720p)
@@ -11560,6 +11864,8 @@ https://amg00346-vizioono-investigation-xumo-us.amagi.tv/playlist.m3u8
 https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INWILD (1080p) [Geo-blocked]" group-title="其他频道",INWILD (1080p) [Geo-blocked]
 https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INWILD (1080p)" group-title="其他频道",INWILD (1080p)
+https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="InWonder (1080p)" group-title="其他频道",InWonder (1080p)
 https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ION" group-title="其他频道",ION
@@ -12182,6 +12488,8 @@ https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Kapaz TV" group-title="其他频道",Kapaz TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kapitan Bomba TV" group-title="其他频道",Kapitan Bomba TV
+https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc127/kapitanbombaraw/kapitanbombaraw.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Kapos TV (1080p)" group-title="其他频道",Kapos TV (1080p)
 https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kappa TV (576p)" group-title="其他频道",Kappa TV (576p)
@@ -13990,10 +14298,16 @@ https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mi Miedo Canal (1080p)" group-title="其他频道",Mi Miedo Canal (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-miedo-canal/manifest.m3u8?ads.vf=MY55nkfJHZC
+#EXTINF:-1 tvg-id="" tvg-name="Mi Miedo Canal (1080p)" group-title="其他频道",Mi Miedo Canal (1080p)
+https://streams2.sofast.tv/sofast3/v1/019835b204cf1ea50649363a59b188/019835c7f7dd1ea506ec3d330f48ad/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mi Raza Canal (1080p)" group-title="其他频道",Mi Raza Canal (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-raza-canal/master.m3u8?ads.vf=Ntp7H8Ff1Ky
+#EXTINF:-1 tvg-id="" tvg-name="Mi Raza Canal (1080p)" group-title="其他频道",Mi Raza Canal (1080p)
+https://streams2.sofast.tv/umaxx/v1/01971c1e82751ebd47042b72b0c032/01971c2023791ea506492f5bf73b63/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mi Raza Canal Plus (1080p)" group-title="其他频道",Mi Raza Canal Plus (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-raza-canal-plus/manifest.m3u8?ads.vf=Ql0SI2Jofy8
+#EXTINF:-1 tvg-id="" tvg-name="Mi Raza Canal Plus (1080p)" group-title="其他频道",Mi Raza Canal Plus (1080p)
+https://streams2.sofast.tv/sofast3/v1/019835b55bef1ebd4704326f84ec86/019835ca63dd1ebd416a5a78cf461/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MI Turno TV" group-title="其他频道",MI Turno TV
 https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Miami Beach Tv (MBTV) (Miami Beach FL) (720p)" group-title="其他频道",Miami Beach Tv (MBTV) (Miami Beach FL) (720p)
@@ -14005,7 +14319,7 @@ https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Micto (360p)" group-title="其他频道",Micto (360p)
 http://93.78.206.172:8080/stream3/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Midnight Pulp (1080p)" group-title="其他频道",Midnight Pulp (1080p)
-https://d18l78mi5ujmqr.cloudfront.net/playlist.m3u8
+https://linear-897.frequency.stream/dist/cineverse/897/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p)" group-title="其他频道",Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p)
 https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Midpen Media Center Diversity and Culture Channel 75 (720p)" group-title="其他频道",Midpen Media Center Diversity and Culture Channel 75 (720p)
@@ -14140,10 +14454,10 @@ https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
 https://ms7.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MLB Channel (1080p) [Geo-blocked]" group-title="其他频道",MLB Channel (1080p) [Geo-blocked]
 https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MMA TV.com (1080p)" group-title="其他频道",MMA TV.com (1080p)
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MMA-TV" group-title="其他频道",MMA-TV
 http://31.148.48.15/M1_Global/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MMA-TV.com" group-title="其他频道",MMA-TV.com
-https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MMC TV USA (720p)" group-title="其他频道",MMC TV USA (720p)
 https://live.relentlessinnovations.net:1936/rspe-tv/rspe-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MMTV (1080p)" group-title="其他频道",MMTV (1080p)
@@ -14336,8 +14650,6 @@ https://jmp2.uk/plu-6081648340382e0007f73d45.m3u8
 https://jmp2.uk/plu-68e3bffe1cfcd7541d59090f.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mostanad" group-title="其他频道",Mostanad
 https://lenz.splus.ir/PLTV/88888888/224/3221226901/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MotoAmerica TV (1080p)" group-title="其他频道",MotoAmerica TV (1080p)
-https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MotoGP Channel (1080p)" group-title="其他频道",MotoGP Channel (1080p)
 https://d1kqz1q7knpsue.cloudfront.net/MotoGP.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Motor Trend" group-title="其他频道",Motor Trend
@@ -14736,6 +15048,8 @@ https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
 https://edge2a.v2h-cdn.com/live_mvhub/mvlao.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MV Mall DD (1080p)" group-title="其他频道",MV Mall DD (1080p)
 https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MVMT of Culture (1080p)" group-title="其他频道",MVMT of Culture (1080p)
+https://d2kwqe56yti97f.cloudfront.net/scheduler/scheduleMaster/490.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MVS TV [Geo-blocked]" group-title="其他频道",MVS TV [Geo-blocked]
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mwangaza TV (720p) [Not 24/7]" group-title="其他频道",Mwangaza TV (720p) [Not 24/7]
@@ -14972,12 +15286,20 @@ https://hls2.nbcplus.na/hls/high_nbc1.m3u8
 https://hls2.nbcplus.na/hls/high_nbc2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBC 3 (480p)" group-title="其他频道",NBC 3 (480p)
 https://hls2.nbcplus.na/hls/high_nbc3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC 3 Las Vegas NV (KSNV) (1080p)" group-title="其他频道",NBC 3 Las Vegas NV (KSNV) (1080p)
+https://linear-708.frequency.stream/dist/stirr/708/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBC 3 Sacramento CA (KCRA) (720p)" group-title="其他频道",NBC 3 Sacramento CA (KCRA) (720p)
 https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC 4 Albuquerque NM (KOB) (1080p)" group-title="其他频道",NBC 4 Albuquerque NM (KOB) (1080p)
+https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBC 4 Milwaukee WI (WTMJ) (720p)" group-title="其他频道",NBC 4 Milwaukee WI (WTMJ) (720p)
 https://aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC 4 San Antonio TX (WOAI) (1080p)" group-title="其他频道",NBC 4 San Antonio TX (WOAI) (1080p)
+https://linear-703.frequency.stream/dist/stirr/703/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBC 5 Chicago Live News (1080p)" group-title="其他频道",NBC 5 Chicago Live News (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
+#EXTINF:-1 tvg-id="" tvg-name="NBC 6 Johnstown PA (WJAC) (1080p)" group-title="其他频道",NBC 6 Johnstown PA (WJAC) (1080p)
+https://linear-698.frequency.stream/dist/stirr/698/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBC 6 Santa Barbara CA (KSBY) (720p)" group-title="其他频道",NBC 6 Santa Barbara CA (KSBY) (720p)
 https://aegis-cloudfront-1.tubi.video/d5f0543d-5f83-4a69-ba01-c5a68f0c09a1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBC 8 Lancaster PA (WGAL) (720p)" group-title="其他频道",NBC 8 Lancaster PA (WGAL) (720p)
@@ -14986,12 +15308,18 @@ https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playl
 https://live.field59.com/wlio/wlio1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBC 8 Salinas CA (KSBW) (720p)" group-title="其他频道",NBC 8 Salinas CA (KSBW) (720p)
 https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC 9 Steubenville OH (WTOV) (1080p)" group-title="其他频道",NBC 9 Steubenville OH (WTOV) (1080p)
+https://linear-699.frequency.stream/dist/stirr/699/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBC 10 Providence MA (1080p)" group-title="其他频道",NBC 10 Providence MA (1080p)
 https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC 10 Rochester NY (WHEC) (1080p)" group-title="其他频道",NBC 10 Rochester NY (WHEC) (1080p)
+https://amg01942-amg01942c4-stirr-us-10190.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBC 11 Baltimore MD (WBAL) (720p)" group-title="其他频道",NBC 11 Baltimore MD (WBAL) (720p)
 https://aegis-cloudfront-1.tubi.video/888aedca-93fb-4aed-bb92-4beb8f1323c6/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBC 12 Winston-Salem NC (WXII) (720p)" group-title="其他频道",NBC 12 Winston-Salem NC (WXII) (720p)
 https://aegis-cloudfront-1.tubi.video/54b357b4-bf4b-4356-97b4-b1acb6ab62f7/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC 13 Albany NY (WNYT) (1080p)" group-title="其他频道",NBC 13 Albany NY (WNYT) (1080p)
+https://amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBC 26 Green Bay WI (WGBA) (720p)" group-title="其他频道",NBC 26 Green Bay WI (WGBA) (720p)
 https://aegis-cloudfront-1.tubi.video/b32c0573-4add-4b47-b826-24412d952164/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBC Chicago News" group-title="其他频道",NBC Chicago News
@@ -15310,6 +15638,8 @@ https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nick/Comedy Central +1 HD (1080p) [Geo-Blocked]" group-title="其他频道",Nick/Comedy Central +1 HD (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" group-title="其他频道",Nickelodeon
+http://x1co.com.br:8080/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon (576p)" group-title="其他频道",Nickelodeon (576p)
 http://195.64.140.147:10121/121
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" group-title="其他频道",Nickelodeon
@@ -16530,6 +16860,8 @@ https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Play TV (480p) [Not 24/7]" group-title="其他频道",Play TV (480p) [Not 24/7]
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Playing for Change (1080p)" group-title="其他频道",Playing for Change (1080p)
+https://streams2.sofast.tv/vglive-sk-860453/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Plena TV (720p)" group-title="其他频道",Plena TV (720p)
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Plenitud TV (360p)" group-title="其他频道",Plenitud TV (360p)
@@ -17578,6 +17910,8 @@ https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/powersports-world/pwrsp.m3u8?ads.vf=6Tj0ccfKg3S
 #EXTINF:-1 tvg-id="" tvg-name="POWERtube TV (1080p)" group-title="其他频道",POWERtube TV (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/powertube-tv/master.m3u8?ads.vf=-XmFHPOiUne
+#EXTINF:-1 tvg-id="" tvg-name="Powertube TV (1080p)" group-title="其他频道",Powertube TV (1080p)
+https://streams2.sofast.tv/powertube_live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Praise Jesus Tower TV (480p)" group-title="其他频道",Praise Jesus Tower TV (480p)
 https://vsrv1.az-streamingserver.com:3555/live/dyjoqlgklive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Praise TV (720p)" group-title="其他频道",Praise TV (720p)
@@ -18117,7 +18451,7 @@ https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Tropical Tarapoto (480p) [Not 24/7]" group-title="其他频道",Radio Tropical Tarapoto (480p) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Turrialba TV Sports (720p) [Not 24/7]" group-title="其他频道",Radio Turrialba TV Sports (720p) [Not 24/7]
-https://live20.bozztv.com/akamaissh101/ssh101/turrialbatv/playlist.m3u8
+https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio TV Basse-Terre (720p)" group-title="其他频道",Radio TV Basse-Terre (720p)
 https://vdo.ssl-stream.com:3412/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio TV Neuquén (720p) [Not 24/7]" group-title="其他频道",Radio TV Neuquén (720p) [Not 24/7]
@@ -18448,8 +18782,8 @@ https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791
 https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ready TV Canal 6 (720p) [Not 24/7]" group-title="其他频道",Ready TV Canal 6 (720p) [Not 24/7]
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real America's Voice (720p)" group-title="其他频道",Real America's Voice (720p)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/real-americas-voice/RAVDistroTV.m3u8?ads.vf=9qzIq8oO5PK
+#EXTINF:-1 tvg-id="" tvg-name="Real America's Voice (1080p)" group-title="其他频道",Real America's Voice (1080p)
+https://stream.weathernationtv.com/RAVStirr_poekxujeisurekugzezyg/O1/playlistSCTE35.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Real Crime (1080p)" group-title="其他频道",Real Crime (1080p)
 https://lds-realcrime-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Real Crime (1080p) [Geo-blocked]" group-title="其他频道",Real Crime (1080p) [Geo-blocked]
@@ -18679,7 +19013,7 @@ https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retro Music Television (360p)" group-title="其他频道",Retro Music Television (360p)
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RetroCrush (1080p)" group-title="其他频道",RetroCrush (1080p)
-https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
+https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retrox TV (720p) [Not 24/7]" group-title="其他频道",Retrox TV (720p) [Not 24/7]
 https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Reuters TV (1080p) [Geo-blocked]" group-title="其他频道",Reuters TV (1080p) [Geo-blocked]
@@ -19370,6 +19704,8 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b1
 https://salamtv.siar.us/live/salamtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Salamat" group-title="其他频道",Salamat
 https://lenz.splus.ir/PLTV/88888888/224/3221226152/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Salem News Channel (1080p)" group-title="其他频道",Salem News Channel (1080p)
+https://amg00732-amg00732c2-stirr-us-8938.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Salem News Channel (1080p) [Geo-blocked]" group-title="其他频道",Salem News Channel (1080p) [Geo-blocked]
 https://pb-v4mil672yaqlk.akamaized.net/Salem_News_Channel.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Salem News Channel (720p) [Geo-blocked]" group-title="其他频道",Salem News Channel (720p) [Geo-blocked]
@@ -19790,6 +20126,8 @@ https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720
 https://streameurope.ch/live/shivalivetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Shockwave" group-title="其他频道",Shockwave
 https://jmp2.uk/plu-68b784d03e17b7676a0378f7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shooting Sports Life (1080p)" group-title="其他频道",Shooting Sports Life (1080p)
+https://linear-1312.frequency.stream/dist/stirr/1312/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Shop Channel (1080p) [Not 24/7]" group-title="其他频道",Shop Channel (1080p) [Not 24/7]
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Shop LC" group-title="其他频道",Shop LC
@@ -20030,6 +20368,8 @@ https://live2.snn.ir/hls/snn2_hd720/index.m3u8
 https://alba-py-snt-snt.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SNTV Daljir (576p)" group-title="其他频道",SNTV Daljir (576p)
 https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="So... Real (720p)" group-title="其他频道",So... Real (720p)
+https://cineverse-all3-soreal-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Soap Latino (720p)" group-title="其他频道",Soap Latino (720p)
 https://fast-channels-network-soaplatino-1-it.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Soap Turco (720p)" group-title="其他频道",Soap Turco (720p)
@@ -20616,6 +20956,8 @@ https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Easy Listening (1080p)" group-title="其他频道",Stingray Easy Listening (1080p)
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Euro Hits (1080p)" group-title="其他频道",Stingray Euro Hits (1080p)
+https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Éxitos del Momento (1080p)" group-title="其他频道",Stingray Éxitos del Momento (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-xitos-del-momento/master.m3u8?ads.vf=--_m-LmFeCi
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Flashback 70s (1080p)" group-title="其他频道",Stingray Flashback 70s (1080p)
@@ -20623,7 +20965,7 @@ https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Greatest Hits" group-title="其他频道",Stingray Greatest Hits
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Greatest Hits (1080p)" group-title="其他频道",Stingray Greatest Hits (1080p)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-greatest-hits/master.m3u8?ads.vf=7XQlh7i26u0
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Greatest Holiday Hits" group-title="其他频道",Stingray Greatest Holiday Hits
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray HipHop and RnB (1080p)" group-title="其他频道",Stingray HipHop and RnB (1080p)
@@ -20632,14 +20974,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Hitlist" group-title="其他频道",Stingray Hitlist
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Holiday Hits (1080p)" group-title="其他频道",Stingray Holiday Hits (1080p)
-https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Holidayscapes (1080p)" group-title="其他频道",Stingray Holidayscapes (1080p)
+https://d10cyxntpn0bwm.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Holidayscapes" group-title="其他频道",Stingray Holidayscapes
 https://jmp2.uk/plu-6728c70fc7626f0008b27f52.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Holidayscapes" group-title="其他频道",Stingray Holidayscapes
 https://jmp2.uk/plu-66ff1d5a565d3a000892bdcd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Hot Country (1080p)" group-title="其他频道",Stingray Hot Country (1080p)
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Jukebox Oldies (1080p)" group-title="其他频道",Stingray Jukebox Oldies (1080p)
+https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Karaoke (1080p)" group-title="其他频道",Stingray Karaoke (1080p)
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Naturescape" group-title="其他频道",Stingray Naturescape
@@ -20662,6 +21006,8 @@ https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Smooth Jazz (1080p)" group-title="其他频道",Stingray Smooth Jazz (1080p)
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Soft Hits (1080p)" group-title="其他频道",Stingray Soft Hits (1080p)
+https://lotus.stingray.com/manifest/ose-237ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Soul Storm (1080p)" group-title="其他频道",Stingray Soul Storm (1080p)
 https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray The Spa (1080p)" group-title="其他频道",Stingray The Spa (1080p)
@@ -20672,6 +21018,8 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Urban Beat (1080p)" group-title="其他频道",Stingray Urban Beat (1080p)
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray ZenLIFE (1080p)" group-title="其他频道",Stingray ZenLIFE (1080p)
+https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stockton GovTV (Stockton CA) (720p)" group-title="其他频道",Stockton GovTV (Stockton CA) (720p)
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Storage Wars by A&E" group-title="其他频道",Storage Wars by A&E
@@ -21103,7 +21451,7 @@ https://maxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tara Tv (360p)" group-title="其他频道",Tara Tv (360p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tara-tv/index.m3u8?ads.vf=OAsEepvGJaK
 #EXTINF:-1 tvg-id="" tvg-name="Tarab (1080p)" group-title="其他频道",Tarab (1080p)
-https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tarang Music (720p)" group-title="其他频道",Tarang Music (720p)
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tarang TV (720p)" group-title="其他频道",Tarang TV (720p)
@@ -21219,7 +21567,7 @@ https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TCS+ (480p) [Not 24/7]" group-title="其他频道",TCS+ (480p) [Not 24/7]
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TCT Network (720p)" group-title="其他频道",TCT Network (720p)
-https://cdn.herringnetwork.com/80A4DFF/n1.herringnetwork.com/live2/tct_720p/playlist.m3u8
+https://a-cdn.klowdtv.com/live2/tct_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TD Ameritrade Network (1080p)" group-title="其他频道",TD Ameritrade Network (1080p)
 https://tdameritrade-distro.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TDI Radio TV" group-title="其他频道",TDI Radio TV
@@ -21815,7 +22163,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thairath TV" group-title="其他频道",Thairath TV
 https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thalaa TV (1080p)" group-title="其他频道",Thalaa TV (1080p)
-https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thanthi One (576p)" group-title="其他频道",Thanthi One (576p)
 https://mumt02.tangotv.in/THANTHIONE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thanthi TV (576p)" group-title="其他频道",Thanthi TV (576p)
@@ -21833,7 +22181,7 @@ https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Andy Griffith Show" group-title="其他频道",The Andy Griffith Show
 https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Archive (1080p)" group-title="其他频道",The Archive (1080p)
-https://cineverse.g-mana.live/media/09899328-5b22-4d3e-ba1e-111856798c99/playlist_3.m3u8
+https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Asylum" group-title="其他频道",The Asylum
 https://jmp2.uk/plu-5f8ece1a89d79800072510e6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Asylum" group-title="其他频道",The Asylum
@@ -21902,6 +22250,8 @@ https://jmp2.uk/plu-67d07b7b798df95b8e9484b5.m3u8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Family TV Channel (1080p)" group-title="其他频道",The Family TV Channel (1080p)
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/94N3POFVM3G76E3IZ2WY/hls3/now,-1m/m.m3u8?ads.vf=ejOc5kq_F3u
+#EXTINF:-1 tvg-id="" tvg-name="The Film Detective (720p)" group-title="其他频道",The Film Detective (720p)
+https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The First 48 (720p) [Geo-blocked]" group-title="其他频道",The First 48 (720p) [Geo-blocked]
 https://pb-bp21lplgw5225.akamaized.net/v1/ae_networks_first48_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The First 48 by A&E" group-title="其他频道",The First 48 by A&E
@@ -22269,7 +22619,7 @@ https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tokyo MX1 (544p)" group-title="其他频道",Tokyo MX1 (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
 #EXTINF:-1 tvg-id="" tvg-name="Tolly TV (1080p)" group-title="其他频道",Tolly TV (1080p)
-https://streams2.sofast.tv/ptnr-yupptv/title-TOLLY-TV-TEL_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tolo News (720p)" group-title="其他频道",Tolo News (720p)
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tom And Jerry" group-title="其他频道",Tom And Jerry
@@ -22472,6 +22822,8 @@ https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
 http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel & Food TV (720p)" group-title="其他频道",Travel & Food TV (720p)
 https://nrpus.bozztv.com/36bay2/gusa-moviemagictv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel Escapes (1080p)" group-title="其他频道",Travel Escapes (1080p)
+https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel TV (576p)" group-title="其他频道",Travel TV (576p)
 https://streamer103.neterra.tv/travel/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel+Adventure" group-title="其他频道",Travel+Adventure
@@ -24028,6 +24380,8 @@ https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8
 https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhuebPX8UYW2fAiSlZGjGoPc/m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Unleashed by DOGTV (1080p)" group-title="其他频道",Unleashed by DOGTV (1080p)
 https://amg26269-amg26269c2-distrotv-us-8939.playouts.now.amagi.tv/playlist/amg26269-dogtv-unleashedbydogtv-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Unleashed by DOGTV (1080p)" group-title="其他频道",Unleashed by DOGTV (1080p)
+https://amg26269-dogtv-amg26269c2-stirr-us-8504.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Unserding (720p) [Geo-blocked]" group-title="其他频道",Unserding (720p) [Geo-blocked]
 https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Unsion TV (1080p)" group-title="其他频道",Unsion TV (1080p)
@@ -24080,8 +24434,8 @@ https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m
 https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="USA Network East (1080p) [Not 24/7]" group-title="其他频道",USA Network East (1080p) [Not 24/7]
 https://tvpass.org/live/USANetworkEast/hd
-#EXTINF:-1 tvg-id="" tvg-name="USA Today (1080p) [Geo-blocked]" group-title="其他频道",USA Today (1080p) [Geo-blocked]
-https://usatodaynews-samsungus-tsv2-ghkcu.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA Today (1080p)" group-title="其他频道",USA Today (1080p)
+https://amg00457-amg00457c1-stirr-us-8143.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="USMPTV" group-title="其他频道",USMPTV
 https://streamusmptv.ddns.net/live/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UStad (1080p)" group-title="其他频道",UStad (1080p)
@@ -24128,6 +24482,8 @@ https://liveingesta318.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/playlist.m3u
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Valley Shore Community Television (VSCTV) (Clinton CT) (1080p)" group-title="其他频道",Valley Shore Community Television (VSCTV) (Clinton CT) (1080p)
 https://reflect-vsctv.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Valuetainment (1080p)" group-title="其他频道",Valuetainment (1080p)
+https://videoelephant-limited-valuetainment-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VAM Vid's & More (720p)" group-title="其他频道",VAM Vid's & More (720p)
 https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Van Helsing (1080p)" group-title="其他频道",Van Helsing (1080p)
@@ -24682,8 +25038,8 @@ https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Weather Spy" group-title="其他频道",Weather Spy
 https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WeatherNation" group-title="其他频道",WeatherNation
-https://jmp2.uk/plu-5d2cb7ac552e3773bc48982e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WeatherNation (1080p)" group-title="其他频道",WeatherNation (1080p)
+https://stream.weathernationtv.com/WNTVStirr_eokxldieulowixkdimn/ND1/playlistSCTE35.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WeatherNation Charlotte (720p)" group-title="其他频道",WeatherNation Charlotte (720p)
 https://d16xlk626t29pt.cloudfront.net/ABR.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WeatherNation Seattle" group-title="其他频道",WeatherNation Seattle
@@ -24728,6 +25084,8 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea019bed-a45e-4dfe-a452-84f5f2f76ea9/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="West Hollywood WeHoTV (West Hollywood CA) (360p)" group-title="其他频道",West Hollywood WeHoTV (West Hollywood CA) (360p)
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Western Bound (1080p)" group-title="其他频道",Western Bound (1080p)
+https://ime-cw-stirr.otteravision.com/ime/cw/cw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Western Bound (1080p) [Geo-blocked]" group-title="其他频道",Western Bound (1080p) [Geo-blocked]
 https://pb-idvkhrn30b0jf.akamaized.net/cw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Western TV" group-title="其他频道",Western TV
@@ -24804,6 +25162,8 @@ https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8
 https://jmp2.uk/plu-60817936fd2d70000763d2b2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wild Nature (1080p)" group-title="其他频道",Wild Nature (1080p)
 https://dg5rg8emlfy55.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildNature2/491.m3u8?ads.vf=OkVP306WEPO
+#EXTINF:-1 tvg-id="" tvg-name="Wild Nature (1080p)" group-title="其他频道",Wild Nature (1080p)
+https://dhiy0zcig7ty1.cloudfront.net/scheduler/scheduleMaster/491.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wild Side TV" group-title="其他频道",Wild Side TV
 https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wild TV (1080p)" group-title="其他频道",Wild TV (1080p)
@@ -24814,6 +25174,8 @@ https://pb-7m2kwpwgu3dqf.akamaized.net/playlist.m3u8
 https://linear-799.frequency.stream/dist/xumo/799/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WildEarth (1080p)" group-title="其他频道",WildEarth (1080p)
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wildest Wish TV (1080p)" group-title="其他频道",Wildest Wish TV (1080p)
+https://streams2.sofast.tv/sofast3/v1/0197e8dd18f31ebd4704322ec12ab7/0197e8dd477d1ea506ec3673c3696b/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wildfire" group-title="其他频道",Wildfire
 https://jmp2.uk/plu-62b9b63d3bbe9000073c0a2d.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wildfire" group-title="其他频道",Wildfire
@@ -25174,6 +25536,8 @@ https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8
 https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YAAAS! (720p) [Geo-blocked]" group-title="其他频道",YAAAS! (720p) [Geo-blocked]
 https://jmp2.uk/stvp-GB340000289
+#EXTINF:-1 tvg-id="" tvg-name="Yachting TV (1080p)" group-title="其他频道",Yachting TV (1080p)
+https://streams2.sofast.tv/vglive-sk-461164/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yadah TV (576p) [Not 24/7]" group-title="其他频道",Yadah TV (576p) [Not 24/7]
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yahoo! Finance (1080p)" group-title="其他频道",Yahoo! Finance (1080p)
